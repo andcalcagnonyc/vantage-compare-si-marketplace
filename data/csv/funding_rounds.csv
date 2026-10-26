@@ -1,0 +1,359 @@
+market_id,company_id,name,date,round_type,amount_usd_m,valuation_usd_b,lead
+llm,anthropic,Anthropic,2026-05,Series H,65000,965,"Altimeter, Dragoneer, Greenoaks, Sequoia Capital"
+llm,anthropic,Anthropic,2026-02,Series G,30000,380,"GIC, Coatue"
+llm,anthropic,Anthropic,2025-09,Series F,13000,183,ICONIQ
+llm,anthropic,Anthropic,2025-03,Series E,3500,61.5,Lightspeed
+llm,openai,OpenAI,2026-03,Growth round,122000,852,SoftBank
+llm,openai,OpenAI,2025-03,Growth round,40000,300,SoftBank
+llm,openai,OpenAI,2024-10,Growth round,6600,157,Thrive Capital
+llm,openai,OpenAI,2023-01,Strategic,10000,29,Microsoft
+llm,mistral-ai,Mistral AI,2026-09,Series D,3500,24.5,Samsung
+llm,mistral-ai,Mistral AI,2025-09,Series C,2000,13.7,ASML
+llm,mistral-ai,Mistral AI,2024-06,Series B,640,6.2,General Catalyst
+llm,mistral-ai,Mistral AI,2023-12,Series A,415,2,a16z
+llm,moonshot-ai-kimi,Moonshot AI (Kimi),2026-07,Growth round,3500,35,National AI Industry Investment Fund
+llm,moonshot-ai-kimi,Moonshot AI (Kimi),2026-05,Growth round,,20,Meituan
+llm,moonshot-ai-kimi,Moonshot AI (Kimi),2024-02,Series B,1000,2.5,Alibaba
+llm,cohere,Cohere,2026-04,Series E (structured),600,,Schwarz Group
+llm,cohere,Cohere,2025-09,Extension,100,7,n/a
+llm,cohere,Cohere,2025-08,Series D-2,500,6.8,"Radical Ventures, Inovia Capital"
+llm,cohere,Cohere,2024-07,Series D,500,5.5,PSP Investments
+llm,thinking-machines-lab,Thinking Machines Lab,2025-07,Seed,2000,12,a16z
+llm,safe-superintelligence-ssi,Safe Superintelligence (SSI),2025-04,Growth round,2000,32,Greenoaks
+llm,safe-superintelligence-ssi,Safe Superintelligence (SSI),2024-09,Series A,1000,5,n/a
+llm,reflection-ai,Reflection AI,2025-10,Series B,2000,8,NVIDIA
+llm,reflection-ai,Reflection AI,2025-03,Series A,130,0.545,"Lightspeed, CRV"
+llm,ai21-labs,AI21 Labs,2025-05,Growth round,300,,n/a
+llm,ai21-labs,AI21 Labs,2023-11,Series C extension,53,1.4,n/a
+llm,ai21-labs,AI21 Labs,2023-08,Series C,155,1.4,n/a
+aiemp,anthropic,Anthropic,2026-05,Series H,65000,965,"Altimeter, Dragoneer, Greenoaks, Sequoia Capital"
+aiemp,anthropic,Anthropic,2026-02,Series G,30000,380,"GIC, Coatue"
+aiemp,anthropic,Anthropic,2025-09,Series F,13000,183,ICONIQ
+aiemp,anthropic,Anthropic,2025-03,Series E,3500,61.5,Lightspeed
+aiemp,openai,OpenAI,2026-03,Growth round,122000,852,SoftBank
+aiemp,openai,OpenAI,2025-03,Growth round,40000,300,SoftBank
+aiemp,openai,OpenAI,2024-10,Growth round,6600,157,Thrive Capital
+aiemp,openai,OpenAI,2023-01,Strategic,10000,29,Microsoft
+aiemp,cognition-devin-windsurf,Cognition (Devin + Windsurf),2026-09,Series E,2000,48,"a16z, Accel"
+aiemp,cognition-devin-windsurf,Cognition (Devin + Windsurf),2026-05,Series D,1000,26,"Lux Capital, General Catalyst, 8VC"
+aiemp,cognition-devin-windsurf,Cognition (Devin + Windsurf),2025-09,Series C,400,10.2,Founders Fund
+aiemp,cognition-devin-windsurf,Cognition (Devin + Windsurf),2024-04,Series B,175,2,Founders Fund
+aiemp,mistral-ai,Mistral AI,2026-09,Series D,3500,24.5,Samsung
+aiemp,mistral-ai,Mistral AI,2025-09,Series C,2000,13.7,ASML
+aiemp,mistral-ai,Mistral AI,2024-06,Series B,640,6.2,General Catalyst
+aiemp,mistral-ai,Mistral AI,2023-12,Series A,415,2,a16z
+aiemp,glean,Glean,2025-06,Series F,150,7.2,Wellington
+aiemp,glean,Glean,2024-09,Series E,260,4.6,"Altimeter, DST Global"
+aiemp,glean,Glean,2024-02,Series D,200,2.2,"Kleiner Perkins, Lightspeed"
+aiemp,glean,Glean,2022-05,Series C,100,1,Sequoia Capital
+aiemp,cohere,Cohere,2026-04,Series E (structured),600,,Schwarz Group
+aiemp,cohere,Cohere,2025-09,Extension,100,7,n/a
+aiemp,cohere,Cohere,2025-08,Series D-2,500,6.8,"Radical Ventures, Inovia Capital"
+aiemp,cohere,Cohere,2024-07,Series D,500,5.5,PSP Investments
+aiemp,sierra,Sierra,2026-05,Series E,950,15.8,"Tiger Global, GV"
+aiemp,sierra,Sierra,2025-09,Series D,350,10,Greenoaks
+aiemp,sierra,Sierra,2024-10,Series C,175,4.5,Greenoaks
+aiemp,sierra,Sierra,2024-01,Series B,110,1,"Sequoia Capital, Benchmark"
+aiemp,decagon,Decagon,2026-01,Series D,250,4.5,"Coatue, Index Ventures"
+aiemp,decagon,Decagon,2025-06,Series C,131,1.5,"a16z, Accel"
+aiemp,decagon,Decagon,2024-10,Series B,65,,Bain Capital Ventures
+aiemp,decagon,Decagon,2024-06,Series A,35,,"Accel, a16z"
+aiemp,writer,Writer,2024-11,Series C,200,1.9,"Premji Invest, Radical Ventures, ICONIQ"
+aiemp,writer,Writer,2023-09,Series B,100,,ICONIQ
+aiemp,writer,Writer,2021-11,Series A,21,,Insight Partners
+code,anthropic-claude-code,Anthropic Claude Code,2026-05,Series H,65000,965,"Altimeter, Dragoneer, Greenoaks, Sequoia Capital"
+code,anthropic-claude-code,Anthropic Claude Code,2026-02,Series G,30000,380,"GIC, Coatue"
+code,anthropic-claude-code,Anthropic Claude Code,2025-09,Series F,13000,183,ICONIQ
+code,anthropic-claude-code,Anthropic Claude Code,2025-03,Series E,3500,61.5,Lightspeed
+code,cursor-anysphere,Cursor (Anysphere),2026-04,Reported round,2000,50,n/a
+code,cursor-anysphere,Cursor (Anysphere),2025-11,Series D,2300,29.3,"Accel, Coatue"
+code,cursor-anysphere,Cursor (Anysphere),2025-06,Series C,900,9.9,Thrive Capital
+code,cursor-anysphere,Cursor (Anysphere),2025-01,Series B,105,2.5,"Thrive Capital, a16z"
+code,cognition-devin-windsurf,Cognition (Devin + Windsurf),2026-09,Series E,2000,48,"a16z, Accel"
+code,cognition-devin-windsurf,Cognition (Devin + Windsurf),2026-05,Series D,1000,26,"Lux Capital, General Catalyst, 8VC"
+code,cognition-devin-windsurf,Cognition (Devin + Windsurf),2025-09,Series C,400,10.2,Founders Fund
+code,cognition-devin-windsurf,Cognition (Devin + Windsurf),2024-04,Series B,175,2,Founders Fund
+code,lovable,Lovable,2026-08,Series C,400,13.3,"Menlo Ventures, EQT (Scaleup Europe Fund)"
+code,lovable,Lovable,2025-12,Series B,330,6.6,"CapitalG, Menlo Ventures"
+code,lovable,Lovable,2025-07,Series A,200,1.8,Accel
+code,vercel-v0,Vercel v0,2025-09,Series F,300,9.3,"Accel, GIC"
+code,vercel-v0,Vercel v0,2024-05,Series E,250,3.25,Accel
+code,vercel-v0,Vercel v0,2021-11,Series D,150,2.5,GGV Capital
+code,vercel-v0,Vercel v0,2021-06,Series C,102,1.1,Bedrock
+code,replit,Replit,2026-03,Series D,400,9,Georgian
+code,replit,Replit,2025-09,Growth round,250,3,Prysm Capital
+code,replit,Replit,2023-04,Series C extension,97.4,1.16,a16z
+code,replit,Replit,2021-12,Series B,80,0.8,Coatue
+code,harness-ai,Harness AI,2025-12,Series E,240,5.5,Goldman Sachs Alternatives
+code,harness-ai,Harness AI,2022-04,Series D,230,3.7,Alkeon Capital
+code,harness-ai,Harness AI,2021-01,Series C,115,1.7,Alkeon Capital
+code,bolt-new-stackblitz,Bolt.new (StackBlitz),2025-01,Series B,105.5,0.7,"Emergence, GV"
+code,augment-code,Augment Code,2024-04,Series B,227,0.977,"Sutter Hill, Index Ventures, Innovation Endeavors, Lightspeed, Meritech"
+code,poolside,Poolside,2026-08,Growth round,1000,13,n/a
+code,poolside,Poolside,2024-10,Series B,500,3,Bain Capital Ventures
+code,poolside,Poolside,2023-08,Seed,126,,Redpoint
+code,factory,Factory,2026-09,Growth round,200,5,n/a
+code,factory,Factory,2026-04,Series C,150,1.5,Khosla Ventures
+code,factory,Factory,2025-09,Series B,50,0.3,"NEA, Sequoia Capital"
+code,factory,Factory,2024-06,Series A,15,,Sequoia Capital
+code,sourcegraph-amp,Sourcegraph / Amp,2021-07,Series D,125,2.6,a16z
+code,sourcegraph-amp,Sourcegraph / Amp,2020-12,Series C,50,,Sequoia Capital
+code,openai-codex,OpenAI Codex,2026-03,Growth round,122000,852,SoftBank
+code,openai-codex,OpenAI Codex,2025-03,Growth round,40000,300,SoftBank
+code,openai-codex,OpenAI Codex,2024-10,Growth round,6600,157,Thrive Capital
+code,openai-codex,OpenAI Codex,2023-01,Strategic,10000,29,Microsoft
+cx,genesys,Genesys,2025-07,Strategic minority,1500,,"Salesforce Ventures, ServiceNow"
+cx,zendesk,Zendesk,2022-11,Take-private,10200,10.2,"Hellman & Friedman, Permira"
+cx,talkdesk,Talkdesk,2021-08,Series D,230,10,Whale Rock
+cx,talkdesk,Talkdesk,2020-07,Series C,143,3,Viking Global
+cx,fin-formerly-intercom,Fin (formerly Intercom),2018-03,Series D,125,1.275,Kleiner Perkins
+cx,fin-formerly-intercom,Fin (formerly Intercom),2015-03,Series C,50,,ICONIQ
+cx,sierra,Sierra,2026-05,Series E,950,15.8,"Tiger Global, GV"
+cx,sierra,Sierra,2025-09,Series D,350,10,Greenoaks
+cx,sierra,Sierra,2024-10,Series C,175,4.5,Greenoaks
+cx,sierra,Sierra,2024-01,Series B,110,1,"Sequoia Capital, Benchmark"
+cx,uniphore,Uniphore,2025-10,Series F,260,2.5,"NVIDIA, Snowflake, Databricks, AMD"
+cx,uniphore,Uniphore,2022-02,Series E,400,2.5,NEA
+cx,decagon,Decagon,2026-01,Series D,250,4.5,"Coatue, Index Ventures"
+cx,decagon,Decagon,2025-06,Series C,131,1.5,"a16z, Accel"
+cx,decagon,Decagon,2024-10,Series B,65,,Bain Capital Ventures
+cx,decagon,Decagon,2024-06,Series A,35,,"Accel, a16z"
+cx,parloa,Parloa,2026-01,Series D,350,3,General Catalyst
+cx,parloa,Parloa,2025-05,Series C,120,1,Durable Capital
+cx,parloa,Parloa,2024-05,Series B,66,,Altimeter
+cx,cresta,Cresta,2024-11,Series D,125,,"World Innovation Lab, Qatar Investment Authority"
+cx,cresta,Cresta,2022-03,Series C,80,1.6,Tiger Global
+cx,polyai,PolyAI,2025-12,Series D,86,0.75,"Georgian, Hedosophia, Khosla Ventures"
+cx,polyai,PolyAI,2024-05,Series C,50,,Hedosophia
+cx,kore-ai,Kore.ai,2024-01,Growth round,150,,FTV Capital
+cx,ada,Ada,2021-05,Series C,130,1.2,"Spark Capital, Tiger Global"
+cx,ada,Ada,2019-09,Series B,41,,Accel
+crm,apollo-io,Apollo.io,2023-08,Series D,100,1.6,Bain Capital Ventures
+crm,apollo-io,Apollo.io,2022-03,Series C,110,,Sequoia Capital
+crm,apollo-io,Apollo.io,2021-11,Series B,32,,Tribe Capital
+crm,clay,Clay,2026-09,Series D,115,7.1,Wellington
+crm,clay,Clay,2025-08,Series C,100,3.1,CapitalG
+crm,clay,Clay,2025-01,Series B extension,40,1.25,Meritech Capital
+crm,creatio,Creatio,2024-06,Growth,200,1.2,Sapphire Ventures
+crm,creatio,Creatio,2021-01,Series A,68,,Volition Capital
+crm,pipedrive,Pipedrive,2020-11,Majority investment (PE),,1.5,Vista Equity
+crm,sugarcrm,SugarCRM,2018-08,Majority investment (PE),,,Accel-KKR
+crm,attio,Attio,2025-08,Series B,52,,GV
+crm,attio,Attio,2024-08,Series A,33,,Redpoint
+crm,copper,Copper,2018-10,Series C,53,,Norwest Venture Partners
+rev,gong,Gong,2021-06,Series E,250,7.25,Franklin Templeton
+rev,gong,Gong,2020-08,Series D,200,2.2,Coatue
+rev,gong,Gong,2019-12,Series C,65,,Battery Ventures
+rev,salesloft-incl-clari,Salesloft (incl. Clari),2021-12,Majority investment (PE),,2.3,Vista Equity
+rev,salesloft-incl-clari,Salesloft (incl. Clari),2019-01,Series D,70,,Insight Partners
+rev,seismic-incl-highspot-pending,"Seismic (incl. Highspot, pending)",2020-09,Controlling investment (PE),,,Permira
+rev,outreach,Outreach,2021-06,Series G,200,4.4,Premji Invest
+rev,outreach,Outreach,2020-06,Series F,50,,Sands Capital
+rev,outreach,Outreach,2019-04,Series E,114,1.33,Sequoia Capital
+rev,apollo-io,Apollo.io,2023-08,Series D,100,1.6,Bain Capital Ventures
+rev,apollo-io,Apollo.io,2022-03,Series C,110,,Sequoia Capital
+rev,apollo-io,Apollo.io,2021-11,Series B,32,,Tribe Capital
+rev,6sense,6sense,2022-01,Series E,200,5.2,"Blue Owl, MSD Partners"
+rev,6sense,6sense,2021-03,Series D,125,2.1,D1 Capital
+rev,highspot,Highspot,2022-01,Series F,248,3.5,"B Capital, D1 Capital"
+rev,highspot,Highspot,2021-03,Series E,200,2.3,Tiger Global
+rev,clay,Clay,2026-09,Series D,115,7.1,Wellington
+rev,clay,Clay,2025-08,Series C,100,3.1,CapitalG
+rev,clay,Clay,2025-01,Series B extension,40,1.25,Meritech Capital
+rev,mindtickle,Mindtickle,2021-08,Series E,100,1.2,SoftBank Vision Fund 2
+rev,backstory-formerly-people-ai,Backstory (formerly People.ai),2021-08,Series D,100,1.1,"Akkadian Ventures, Mubadala Capital"
+rev,backstory-formerly-people-ai,Backstory (formerly People.ai),2020-05,Series C,100,,ICONIQ
+rev,cognism,Cognism,2022-03,Series C,87.5,,Viking Global
+rev,lusha,Lusha,2021-11,Series B,205,1.5,"PSG, ICONIQ"
+rev,common-room,Common Room,2022-06,Series B,52,,Index Ventures
+rev,common-room,Common Room,2021-09,Series A,,,Greylock
+rev,11x,11x,2024-11,Series B,50,,a16z
+rev,11x,11x,2024-09,Series A,24,,Benchmark
+fin,ramp,Ramp,2026-10,Growth,1850,60,Dragoneer
+fin,ramp,Ramp,2025-11,Growth,300,32,Lightspeed
+fin,ramp,Ramp,2025-07,Series E2,500,22.5,ICONIQ
+fin,ramp,Ramp,2025-06,Series E,200,16,Founders Fund
+fin,avalara,Avalara,2022-10,Take-private (PE),8400,8.4,Vista Equity
+fin,anaplan,Anaplan,2022-06,Take-private (PE),10400,10.4,Thoma Bravo
+fin,onestream,OneStream,2026-01,Take-private (PE),6400,6.4,Hg
+fin,tipalti,Tipalti,2021-12,Series F,270,8.3,"G Squared, Durable Capital"
+fin,highradius,HighRadius,2021-01,Series C,300,3.1,"D1 Capital, Tiger Global"
+fin,highradius,HighRadius,2020-03,Series B,125,1.0,ICONIQ
+fin,pigment,Pigment,2026-10,Series E,250,2.3,Scaleup Europe Fund (EQT)
+fin,pigment,Pigment,2024-04,Series D,145,,ICONIQ
+fin,rillet,Rillet,2026-08,Series C,100,1.0,ICONIQ
+fin,rillet,Rillet,2025-08,Series B,70,,"a16z, ICONIQ"
+fin,rillet,Rillet,2025-05,Series A,25,,Sequoia Capital
+fin,campfire,Campfire,2025-10,Series B,65,,"Accel, Ribbit Capital"
+fin,campfire,Campfire,2025-07,Series A,35,,Accel
+fin,basis,Basis,2026-02,Series B,100,1.15,Accel
+fin,basis,Basis,2024-12,Series A,34,,Khosla Ventures
+fin,datasnipper,DataSnipper,2024-02,Series B,100,1.0,Index Ventures
+legal,clio-incl-vlex,Clio (incl. vLex),2025-11,Series G,500,5.0,NEA
+legal,clio-incl-vlex,Clio (incl. vLex),2024-07,Series F,900,3.0,NEA
+legal,clio-incl-vlex,Clio (incl. vLex),2021-04,Series E,110,1.6,"OMERS, T. Rowe Price"
+legal,clio-incl-vlex,Clio (incl. vLex),2019-09,Series D,250,,"TCV, JMI Equity"
+legal,harvey,Harvey,2026-09,Growth,550,15.5,"Lightspeed, Diffusion"
+legal,harvey,Harvey,2026-02,Growth,200,11,"GIC, Sequoia Capital"
+legal,harvey,Harvey,2025-12,Growth,160,8,a16z
+legal,harvey,Harvey,2025-06,Series E,300,5,"Kleiner Perkins, Coatue"
+legal,icertis,Icertis,2025-03,Growth,50,,B Capital
+legal,icertis,Icertis,2021-07,Series F,80,5.0,"B Capital, Greycroft"
+legal,filevine,Filevine,2025-09,Series E,260,3.0,"Insight Partners, Accel, Halo Fund"
+legal,filevine,Filevine,2025-09,Growth (first tranche),140,,Insight Partners
+legal,ironclad,Ironclad,2022-01,Series E,150,3.2,Franklin Templeton
+legal,ironclad,Ironclad,2020-10,Series D,100,,"BOND, Y Combinator"
+legal,legora,Legora,2026-10,Series E,550,8.8,Atreides Management
+legal,legora,Legora,2026-03,Series D,550,5.55,Accel
+legal,legora,Legora,2025-10,Series C,150,1.8,Bessemer
+legal,legora,Legora,2025-05,Series B,80,0.675,"ICONIQ, General Catalyst"
+legal,spellbook,Spellbook,2025-10,Series B,50,0.35,Khosla Ventures
+legal,spellbook,Spellbook,2025-03,Series A,20,,Inovia
+legal,everlaw,Everlaw,2021-11,Series D,202,2.0,TCV
+legal,everlaw,Everlaw,2020-03,Series C,62,,"CapitalG, Menlo Ventures"
+legal,luminance,Luminance,2025-02,Series C,75,,Point72
+legal,luminance,Luminance,2024-04,Series B,40,,March Capital
+legal,eudia,Eudia,2025-02,Series A,105,,General Catalyst
+legal,evenup,EvenUp,2025-10,Series E,150,2.0,Bessemer
+legal,evenup,EvenUp,2024-10,Series D,135,1.0,Bessemer
+legal,supio,Supio,2025-04,Series B,60,,Sapphire Ventures
+legal,supio,Supio,2024-08,Series A,25,,Sapphire Ventures
+legal,eve-legal,Eve Legal,2025-09,Series B,103,1.0,Spark Capital
+legal,eve-legal,Eve Legal,2025-01,Series A,47,,a16z
+comp,diligent,Diligent,2016-02,Take-private,624,,Insight Partners
+comp,onetrust,OneTrust,2023-07,Growth,150,4.5,Generation Investment Management
+comp,onetrust,OneTrust,2020-12,Series C,300,5.1,TCV
+comp,onetrust,OneTrust,2020-02,Series B,210,2.7,Insight Partners
+comp,onetrust,OneTrust,2019-07,Series A,200,1.3,Insight Partners
+comp,navex,NAVEX,2025-07,Majority buyout,,2.5,Goldman Sachs Alternatives
+comp,vanta,Vanta,2025-07,Series D,150,4.15,Wellington
+comp,vanta,Vanta,2024-07,Series C,150,2.45,Sequoia Capital
+comp,vanta,Vanta,2022-06,Series B,110,1.6,Craft Ventures
+comp,optro-formerly-auditboard,Optro (formerly AuditBoard),2024-05,Buyout,,3.0,Hg
+comp,archer,Archer,2023-04,Carve-out buyout,,,Cinven
+comp,drata,Drata,2022-12,Series C,200,2.0,ICONIQ
+comp,drata,Drata,2021-11,Series B,100,1.0,ICONIQ
+comp,logicgate,LogicGate,2021-06,Series C,113,,PSG
+comp,secureframe,Secureframe,2022-01,Series B,56,,Accomplice
+comp,secureframe,Secureframe,2021-03,Series A,18,,Base10 Partners
+comp,thoropass,Thoropass,2022-01,Series B,40,,Insight Partners
+comp,hyperproof,Hyperproof,2022-01,Series B,40,,Riverwood Capital
+psa,kaseya-autotask-psa,Kaseya (Autotask PSA),2019-05,Growth equity,500,,TPG
+psa,connectwise,ConnectWise,2019-02,Buyout,1500,1.5,Thoma Bravo
+psa,ninjaone,NinjaOne,2026-06,Series C extension,400,12.3,n/a
+psa,ninjaone,NinjaOne,2025-02,Series C,500,5.0,ICONIQ
+psa,ninjaone,NinjaOne,2024-02,Series C,231.5,1.9,ICONIQ
+psa,unit4-psa-suite,Unit4 (PSA Suite),2021-03,Buyout,,,TA Associates
+psa,planview-changepoint-clarizen,Planview (Changepoint/Clarizen),2020-12,Buyout,1600,1.6,TPG
+psa,certinia,Certinia,2024-11,Minority growth,,,TA Associates
+psa,atera,Atera,2021-07,Series B,77,0.5,General Atlantic
+psa,atera,Atera,2019-01,Series A,25,,K1 Investment Management
+psa,rocketlane,Rocketlane,2026-07,Strategic,,,Atlassian Ventures
+psa,rocketlane,Rocketlane,2026-03,Series C,60,,Insight Partners
+psa,pax8,Pax8,2022-04,Growth,185,1.7,SoftBank
+psa,pax8,Pax8,2021-01,Growth,96,,Catalyst Investors
+psa,superops,SuperOps,2025-01,Series C,25,,March Capital
+hw,groq,Groq,2026-08,Series A (reset),350,3.5,Disruptive
+hw,groq,Groq,2026-06,Growth,650,,Disruptive
+hw,groq,Groq,2025-09,Growth,750,6.9,Disruptive
+hw,groq,Groq,2024-08,Series D,640,2.8,BlackRock
+hw,sambanova-systems,SambaNova Systems,2026-07,Series F,1000,11.0,General Atlantic
+hw,sambanova-systems,SambaNova Systems,2021-04,Series D,676,5.0,SoftBank
+hw,tenstorrent,Tenstorrent,2026-10,Series E,1500,6.2,Trace Capital
+hw,tenstorrent,Tenstorrent,2024-12,Series D,693,2.6,Samsung Securities
+dc,together-ai,Together AI,2026-07,Series C,800,8.3,Aramco Ventures
+dc,together-ai,Together AI,2025-02,Series B,305,3.3,General Catalyst
+dc,together-ai,Together AI,2024-03,Series A ext.,106,1.25,Salesforce Ventures
+dc,together-ai,Together AI,2023-11,Series A,102.5,,Kleiner Perkins
+dc,lambda,Lambda,2025-11,Series E,1500,5.9,TWG Global
+dc,lambda,Lambda,2025-02,Series D,480,2.5,Andra Capital
+dc,lambda,Lambda,2024-02,Series C,320,1.5,USIT
+dc,fluidstack,Fluidstack,2026-09,Late-stage,1500,18.0,Jane Street
+dc,fluidstack,Fluidstack,2026-01,Series A,830,7.5,Situational Awareness
+dc,nscale,Nscale,2026-03,Series C,2000,14.6,Aker
+dc,nscale,Nscale,2025-09,Series B,1100,,Aker
+dc,vantage-data-centers,Vantage Data Centers,2024-06,Equity investment,9200,,DigitalBridge
+dc,crusoe,Crusoe,2026-09,Series F,3900,30.9,Atreides Management
+dc,crusoe,Crusoe,2025-10,Series E,1375,10.0,Valor Equity Partners
+dc,crusoe,Crusoe,2024-12,Series D,600,2.8,Founders Fund
+dc,qts-data-centers,QTS Data Centers,2021-08,Take-private,10000,10.0,Blackstone
+dc,aligned-data-centers,Aligned Data Centers,2025-10,Acquisition,40000,40.0,BlackRock GIP
+data,databricks,Databricks,2026-08,Strategic round,5000,190,Coatue
+data,databricks,Databricks,2025-12,Series L,4000,134,"Insight Partners, Fidelity, JPMorgan Asset Management"
+data,databricks,Databricks,2025-09,Series K,1000,100,n/a
+data,databricks,Databricks,2024-12,Series J,10000,62,Thrive Capital
+data,qlik,Qlik,2016-08,Take-private,3000,3.0,Thoma Bravo
+data,alteryx,Alteryx,2024-03,Take-private,4400,4.4,"Clearlake Capital, Insight Partners"
+data,fivetran-dbt-labs,Fivetran + dbt Labs,2022-02,Series D (dbt Labs),222,4.2,Altimeter
+data,fivetran-dbt-labs,Fivetran + dbt Labs,2021-09,Series D (Fivetran),565,5.6,a16z
+data,fivetran-dbt-labs,Fivetran + dbt Labs,2021-06,Series C (dbt Labs),150,1.5,Sequoia Capital
+data,fivetran-dbt-labs,Fivetran + dbt Labs,2020-06,Series C (Fivetran),100,1.2,a16z
+data,dataiku,Dataiku,2022-12,Series F,200,3.7,Wellington
+data,dataiku,Dataiku,2021-08,Series E,400,4.6,Tiger Global
+data,dataiku,Dataiku,2019-12,Series D,101,1.4,CapitalG
+data,dataiku,Dataiku,2018-12,Series C,101,,ICONIQ
+data,clickhouse,ClickHouse,2026-01,Series D,400,15,Dragoneer
+data,clickhouse,ClickHouse,2025-05,Series C,350,6.35,Khosla Ventures
+data,clickhouse,ClickHouse,2021-10,Series B,250,2.0,"Coatue, Altimeter"
+data,clickhouse,ClickHouse,2021-09,Series A,50,,"Index Ventures, Benchmark"
+data,thoughtspot,ThoughtSpot,2021-11,Series F-1,100,4.2,n/a
+data,thoughtspot,ThoughtSpot,2019-08,Series F,248,1.95,Silver Lake Waterman
+data,thoughtspot,ThoughtSpot,2018-05,Series E,145,,Sapphire Ventures
+data,sigma-computing,Sigma Computing,2026-05,Series E,80,3,Princeville Capital
+data,sigma-computing,Sigma Computing,2024-05,Series D,200,1.5,"Spark Capital, Avenir"
+data,hex,Hex,2025-05,Series C,70,,Avra
+sec,arctic-wolf,Arctic Wolf,2021-07,Series F,150,4.3,Viking Global
+sec,arctic-wolf,Arctic Wolf,2020-10,Series E,200,1.3,"Viking Global, Owl Rock"
+sec,arctic-wolf,Arctic Wolf,2019-10,Series D,60,,Future Fund
+sec,darktrace,Darktrace,2024-10,Take-private,5300,5.3,Thoma Bravo
+sec,exabeam-incl-logrhythm,Exabeam (incl. LogRhythm),2021-06,Series F,200,2.4,Owl Rock
+sec,reliaquest,ReliaQuest,2025-03,Growth,500,3.4,"EQT Growth (with KKR, FTV Capital)"
+sec,reliaquest,ReliaQuest,2020-01,Growth (majority),300,,KKR
+sec,abnormal-ai,Abnormal AI,2024-08,Series D,250,5.1,Wellington
+sec,abnormal-ai,Abnormal AI,2022-05,Series C,210,4.0,Insight Partners
+sec,abnormal-ai,Abnormal AI,2020-11,Series B,50,,Menlo Ventures
+sec,vectra-ai,Vectra AI,2021-04,Series F,130,1.2,Blackstone Growth
+sec,vectra-ai,Vectra AI,2019-06,Series E,100,,TCV
+sec,torq,Torq,2026-01,Series D,140,1.2,Merlin Ventures
+sec,torq,Torq,2025-01,Series C,70,,Evolution Equity Partners
+sec,torq,Torq,2022-07,Series B,50,,Insight Partners
+sec,tines,Tines,2025-02,Series C,125,1.125,Goldman Sachs Alternatives
+sec,tines,Tines,2022-02,Series B,55,0.3,Accel
+sec,7ai,7AI,2025-12,Series A,130,,Index Ventures
+sec,7ai,7AI,2025-03,Seed,36,,"Greylock, CRV, Spark Capital"
+sec,dropzone-ai,Dropzone AI,2025-07,Series B,37,,Theory Ventures
+sec,dropzone-ai,Dropzone AI,2024-09,Series A,17,,Theory Ventures
+net,cato-networks,Cato Networks,2025-07,Series G,359,4.8,"Vitruvian Partners, ION Crossover Partners"
+net,cato-networks,Cato Networks,2021-09,Series F,200,2.5,Lightspeed
+net,cato-networks,Cato Networks,2020-11,Series E,130,1.0,Coatue
+net,forescout-nac,Forescout (NAC),2020-08,Take-private,1900,1.9,Advent International
+net,versa-networks,Versa Networks,2022-10,Growth (pre-IPO),120,,BlackRock
+net,nile,Nile,2023-08,Series C,175,,"March Capital, Sanabil Investments"
+net,meter,Meter,2025-06,Series C,170,1.0,"General Catalyst, Hemant Taneja"
+net,meter,Meter,2024-02,Series B,35,,n/a
+phys,agibot-zhiyuan-robotics,AgiBot (Zhiyuan Robotics),2026-10,Strategic round,,7,n/a
+phys,skild-ai,Skild AI,2026-01,Series C,1400,14,SoftBank
+phys,skild-ai,Skild AI,2025-06,Series B,,4.5,SoftBank
+phys,skild-ai,Skild AI,2024-07,Series A,300,1.5,"Lightspeed, Coatue, SoftBank, Bezos Expeditions"
+phys,field-ai,Field AI,2026-10,Series C,700,10,n/a
+phys,field-ai,Field AI,2025-08,Series A/B,314,2.0,n/a
+phys,physical-intelligence,Physical Intelligence (π),2026-05,Series C,1050,11,n/a
+phys,physical-intelligence,Physical Intelligence (π),2025-11,Series B,600,5.6,CapitalG
+phys,physical-intelligence,Physical Intelligence (π),2024-11,Series A,400,2.4,n/a
+phys,physical-intelligence,Physical Intelligence (π),2024-03,Seed,70,,Thrive Capital
+phys,figure-ai,Figure AI,2025-09,Series C,1000,39,Parkway Venture Capital
+phys,figure-ai,Figure AI,2024-02,Series B,675,2.6,n/a
+phys,figure-ai,Figure AI,2023-05,Series A,70,,Parkway Venture Capital
+phys,neura-robotics,NEURA Robotics,2026-06,Series C,1400,7,Tether
+phys,neura-robotics,NEURA Robotics,2025-01,Series B,125,,Lingotto
+phys,apptronik,Apptronik,2026-02,Series A extension,520,5.5,n/a
+phys,apptronik,Apptronik,2025-02,Series A,350,1.75,"B Capital, Capital Factory"
+phys,galbot,Galbot,2026-03,Strategic round,350,3,n/a
+phys,galbot,Galbot,2025-12,Growth,300,2.8,n/a
+phys,agility-robotics,Agility Robotics,2026-06,SPAC merger,,2.5,Churchill Capital Corp XI
+phys,agility-robotics,Agility Robotics,2022-04,Series B,150,,"DCVC, Playground Global"
+phys,dexterity,Dexterity,2025-03,Growth,95,1.65,n/a
+phys,dexterity,Dexterity,2021-03,Series B,140,,n/a
+phys,1x-technologies,1X Technologies,2024-01,Series B,100,0.82,EQT Ventures
+phys,1x-technologies,1X Technologies,2023-03,Series A2,23.5,0.21,OpenAI Startup Fund
+phys,generative-bionics,Generative Bionics,2025-12,Seed / early growth,81,,CDP Venture Capital

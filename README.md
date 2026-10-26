@@ -73,11 +73,18 @@ Unverified figures are flagged in the app rather than hidden, so you always know
 
 Open `index.html` in a browser, or visit the [live demo](https://andcalcagnonyc.github.io/vantage-compare-si-marketplace/). Pick a market, choose a buyer segment, and adjust weights to see rankings, sensitivity and priorities update instantly.
 
+## Open dataset
+
+The full dataset behind the app is open under **CC BY 4.0** in [`data/`](data/): 286 company profiles across 16 SI markets, with funding rounds, revenue, positioning, analyst views, buyer-criteria scores, momentum and segment weights, in JSON and CSV. It is refreshed monthly with each data release.
+
+Use it for your own analysis, charts or tools; just credit **"Vantage Compare by Andrea Calcagno"** with a link here. See the [data README](data/README.md) for files, field definitions, methodology and how to cite.
+
 ## Repository contents
 
 ```
 index.html          The complete application (data, engine and UI in one file)
 fonts/noto-sc.ttf   Font used for Simplified Chinese text in PDF reports
+data/               Open dataset (CC BY 4.0): JSON, CSV, data card, datapackage.json
 ```
 
 ---
@@ -89,6 +96,6 @@ fonts/noto-sc.ttf   Font used for Simplified Chinese text in PDF reports
 
 Powered by Claude (Anthropic).
 
-© 2026 Andrea Calcagno. All rights reserved. See [LICENSE](LICENSE).
+© 2026 Andrea Calcagno. Application: all rights reserved, see [LICENSE](LICENSE). Dataset in `data/`: [CC BY 4.0](data/LICENSE).
 
 *Terminology note: "SI" (Super Intelligence) is used throughout in place of "AI".*

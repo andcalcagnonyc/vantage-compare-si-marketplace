@@ -1,0 +1,385 @@
+market_id,segment,criterion,weight
+llm,SMB,Frontier capability & reasoning,0.15
+llm,SMB,Coding & agentic tool use,0.12
+llm,SMB,Multimodality & context length,0.1
+llm,SMB,Price per token & efficiency,0.2
+llm,SMB,Enterprise security & data controls,0.08
+llm,SMB,"Deployment options (API, cloud, open weights)",0.08
+llm,SMB,Ecosystem & developer adoption,0.17
+llm,SMB,Reliability & safety,0.1
+llm,Mid-Market,Frontier capability & reasoning,0.15
+llm,Mid-Market,Coding & agentic tool use,0.15
+llm,Mid-Market,Multimodality & context length,0.1
+llm,Mid-Market,Price per token & efficiency,0.15
+llm,Mid-Market,Enterprise security & data controls,0.12
+llm,Mid-Market,"Deployment options (API, cloud, open weights)",0.1
+llm,Mid-Market,Ecosystem & developer adoption,0.12
+llm,Mid-Market,Reliability & safety,0.11
+llm,Enterprise,Frontier capability & reasoning,0.14
+llm,Enterprise,Coding & agentic tool use,0.13
+llm,Enterprise,Multimodality & context length,0.08
+llm,Enterprise,Price per token & efficiency,0.1
+llm,Enterprise,Enterprise security & data controls,0.18
+llm,Enterprise,"Deployment options (API, cloud, open weights)",0.14
+llm,Enterprise,Ecosystem & developer adoption,0.1
+llm,Enterprise,Reliability & safety,0.13
+aiemp,SMB,Agent autonomy & task completion,0.15
+aiemp,SMB,Model quality & reasoning,0.12
+aiemp,SMB,Enterprise integrations & data access,0.1
+aiemp,SMB,"Security, governance & compliance",0.08
+aiemp,SMB,Ease of deployment & time-to-value,0.22
+aiemp,SMB,Pricing & TCO,0.2
+aiemp,SMB,Ecosystem & partner network,0.05
+aiemp,SMB,Vendor viability & scale,0.08
+aiemp,Mid-Market,Agent autonomy & task completion,0.16
+aiemp,Mid-Market,Model quality & reasoning,0.12
+aiemp,Mid-Market,Enterprise integrations & data access,0.15
+aiemp,Mid-Market,"Security, governance & compliance",0.12
+aiemp,Mid-Market,Ease of deployment & time-to-value,0.15
+aiemp,Mid-Market,Pricing & TCO,0.14
+aiemp,Mid-Market,Ecosystem & partner network,0.07
+aiemp,Mid-Market,Vendor viability & scale,0.09
+aiemp,Enterprise,Agent autonomy & task completion,0.14
+aiemp,Enterprise,Model quality & reasoning,0.1
+aiemp,Enterprise,Enterprise integrations & data access,0.18
+aiemp,Enterprise,"Security, governance & compliance",0.2
+aiemp,Enterprise,Ease of deployment & time-to-value,0.08
+aiemp,Enterprise,Pricing & TCO,0.08
+aiemp,Enterprise,Ecosystem & partner network,0.1
+aiemp,Enterprise,Vendor viability & scale,0.12
+code,SMB,Code Quality & Model Performance,0.18
+code,SMB,Agentic Autonomy,0.12
+code,SMB,Codebase Context & Scale,0.06
+code,SMB,IDE & Workflow Integration,0.1
+code,SMB,Enterprise Security & Governance,0.05
+code,SMB,Deployment Flexibility,0.04
+code,SMB,Pricing & Cost Predictability,0.22
+code,SMB,Ease of Use & Time to Value,0.23
+code,Mid-Market,Code Quality & Model Performance,0.18
+code,Mid-Market,Agentic Autonomy,0.15
+code,Mid-Market,Codebase Context & Scale,0.12
+code,Mid-Market,IDE & Workflow Integration,0.13
+code,Mid-Market,Enterprise Security & Governance,0.12
+code,Mid-Market,Deployment Flexibility,0.06
+code,Mid-Market,Pricing & Cost Predictability,0.14
+code,Mid-Market,Ease of Use & Time to Value,0.1
+code,Enterprise,Code Quality & Model Performance,0.15
+code,Enterprise,Agentic Autonomy,0.14
+code,Enterprise,Codebase Context & Scale,0.15
+code,Enterprise,IDE & Workflow Integration,0.1
+code,Enterprise,Enterprise Security & Governance,0.2
+code,Enterprise,Deployment Flexibility,0.12
+code,Enterprise,Pricing & Cost Predictability,0.09
+code,Enterprise,Ease of Use & Time to Value,0.05
+cx,SMB,Autonomous resolution quality,0.15
+cx,SMB,Voice & omnichannel coverage,0.1
+cx,SMB,Enterprise integrations & actions,0.1
+cx,SMB,Time to value,0.2
+cx,SMB,Pricing transparency & outcome alignment,0.2
+cx,SMB,"Security, compliance & guardrails",0.08
+cx,SMB,"Analytics, QA & optimization",0.07
+cx,SMB,Scale & vendor viability,0.1
+cx,Mid-Market,Autonomous resolution quality,0.18
+cx,Mid-Market,Voice & omnichannel coverage,0.13
+cx,Mid-Market,Enterprise integrations & actions,0.14
+cx,Mid-Market,Time to value,0.14
+cx,Mid-Market,Pricing transparency & outcome alignment,0.13
+cx,Mid-Market,"Security, compliance & guardrails",0.1
+cx,Mid-Market,"Analytics, QA & optimization",0.1
+cx,Mid-Market,Scale & vendor viability,0.08
+cx,Enterprise,Autonomous resolution quality,0.17
+cx,Enterprise,Voice & omnichannel coverage,0.14
+cx,Enterprise,Enterprise integrations & actions,0.15
+cx,Enterprise,Time to value,0.07
+cx,Enterprise,Pricing transparency & outcome alignment,0.08
+cx,Enterprise,"Security, compliance & guardrails",0.15
+cx,Enterprise,"Analytics, QA & optimization",0.12
+cx,Enterprise,Scale & vendor viability,0.12
+crm,SMB,SI agents & automation,0.12
+crm,SMB,Unified customer data,0.08
+crm,SMB,Ease of use & time-to-value,0.22
+crm,SMB,Customization & low-code,0.06
+crm,SMB,Ecosystem & integrations,0.12
+crm,SMB,Enterprise security & governance,0.05
+crm,SMB,Pricing & TCO,0.3
+crm,SMB,Industry depth,0.05
+crm,Mid-Market,SI agents & automation,0.16
+crm,Mid-Market,Unified customer data,0.13
+crm,Mid-Market,Ease of use & time-to-value,0.14
+crm,Mid-Market,Customization & low-code,0.12
+crm,Mid-Market,Ecosystem & integrations,0.12
+crm,Mid-Market,Enterprise security & governance,0.1
+crm,Mid-Market,Pricing & TCO,0.15
+crm,Mid-Market,Industry depth,0.08
+crm,Enterprise,SI agents & automation,0.18
+crm,Enterprise,Unified customer data,0.17
+crm,Enterprise,Ease of use & time-to-value,0.06
+crm,Enterprise,Customization & low-code,0.12
+crm,Enterprise,Ecosystem & integrations,0.12
+crm,Enterprise,Enterprise security & governance,0.18
+crm,Enterprise,Pricing & TCO,0.07
+crm,Enterprise,Industry depth,0.1
+rev,SMB,SI agent & automation depth,0.15
+rev,SMB,Data coverage & quality,0.18
+rev,SMB,Conversation & signal intelligence,0.08
+rev,SMB,Forecasting & pipeline analytics,0.05
+rev,SMB,CRM & workflow integration,0.1
+rev,SMB,Ease of use & time-to-value,0.2
+rev,SMB,Pricing & TCO,0.2
+rev,SMB,Enterprise security & scale,0.04
+rev,Mid-Market,SI agent & automation depth,0.16
+rev,Mid-Market,Data coverage & quality,0.14
+rev,Mid-Market,Conversation & signal intelligence,0.14
+rev,Mid-Market,Forecasting & pipeline analytics,0.12
+rev,Mid-Market,CRM & workflow integration,0.13
+rev,Mid-Market,Ease of use & time-to-value,0.13
+rev,Mid-Market,Pricing & TCO,0.12
+rev,Mid-Market,Enterprise security & scale,0.06
+rev,Enterprise,SI agent & automation depth,0.15
+rev,Enterprise,Data coverage & quality,0.1
+rev,Enterprise,Conversation & signal intelligence,0.15
+rev,Enterprise,Forecasting & pipeline analytics,0.17
+rev,Enterprise,CRM & workflow integration,0.15
+rev,Enterprise,Ease of use & time-to-value,0.06
+rev,Enterprise,Pricing & TCO,0.07
+rev,Enterprise,Enterprise security & scale,0.15
+fin,SMB,Agentic close & reconciliation,0.15
+fin,SMB,Accuracy & auditability,0.12
+fin,SMB,ERP & bank integrations,0.15
+fin,SMB,FP&A & forecasting depth,0.08
+fin,SMB,"Compliance & controls (SOX, tax)",0.08
+fin,SMB,Time-to-value,0.2
+fin,SMB,Pricing & TCO,0.18
+fin,SMB,Multi-entity scalability,0.04
+fin,Mid-Market,Agentic close & reconciliation,0.18
+fin,Mid-Market,Accuracy & auditability,0.14
+fin,Mid-Market,ERP & bank integrations,0.14
+fin,Mid-Market,FP&A & forecasting depth,0.12
+fin,Mid-Market,"Compliance & controls (SOX, tax)",0.12
+fin,Mid-Market,Time-to-value,0.12
+fin,Mid-Market,Pricing & TCO,0.1
+fin,Mid-Market,Multi-entity scalability,0.08
+fin,Enterprise,Agentic close & reconciliation,0.15
+fin,Enterprise,Accuracy & auditability,0.17
+fin,Enterprise,ERP & bank integrations,0.13
+fin,Enterprise,FP&A & forecasting depth,0.13
+fin,Enterprise,"Compliance & controls (SOX, tax)",0.17
+fin,Enterprise,Time-to-value,0.06
+fin,Enterprise,Pricing & TCO,0.05
+fin,Enterprise,Multi-entity scalability,0.14
+legal,SMB,Drafting & research quality,0.15
+legal,SMB,Legal content & citation grounding,0.12
+legal,SMB,Workflow & DMS integrations,0.12
+legal,SMB,"Security, privilege & data residency",0.06
+legal,SMB,Contract/CLM depth,0.05
+legal,SMB,Matter & practice coverage,0.1
+legal,SMB,Time-to-value & adoption,0.18
+legal,SMB,Pricing & TCO,0.22
+legal,Mid-Market,Drafting & research quality,0.16
+legal,Mid-Market,Legal content & citation grounding,0.13
+legal,Mid-Market,Workflow & DMS integrations,0.14
+legal,Mid-Market,"Security, privilege & data residency",0.1
+legal,Mid-Market,Contract/CLM depth,0.1
+legal,Mid-Market,Matter & practice coverage,0.1
+legal,Mid-Market,Time-to-value & adoption,0.13
+legal,Mid-Market,Pricing & TCO,0.14
+legal,Enterprise,Drafting & research quality,0.18
+legal,Enterprise,Legal content & citation grounding,0.14
+legal,Enterprise,Workflow & DMS integrations,0.14
+legal,Enterprise,"Security, privilege & data residency",0.18
+legal,Enterprise,Contract/CLM depth,0.1
+legal,Enterprise,Matter & practice coverage,0.1
+legal,Enterprise,Time-to-value & adoption,0.08
+legal,Enterprise,Pricing & TCO,0.08
+comp,SMB,Agentic SI automation,0.15
+comp,SMB,Framework & regulatory coverage,0.15
+comp,SMB,Integrations & continuous monitoring,0.15
+comp,SMB,"Risk, audit & TPRM depth",0.05
+comp,SMB,SI governance capabilities,0.05
+comp,SMB,Ease of use & time to value,0.2
+comp,SMB,Enterprise scalability & configurability,0.05
+comp,SMB,Pricing & TCO,0.2
+comp,Mid-Market,Agentic SI automation,0.15
+comp,Mid-Market,Framework & regulatory coverage,0.15
+comp,Mid-Market,Integrations & continuous monitoring,0.15
+comp,Mid-Market,"Risk, audit & TPRM depth",0.12
+comp,Mid-Market,SI governance capabilities,0.1
+comp,Mid-Market,Ease of use & time to value,0.13
+comp,Mid-Market,Enterprise scalability & configurability,0.08
+comp,Mid-Market,Pricing & TCO,0.12
+comp,Enterprise,Agentic SI automation,0.12
+comp,Enterprise,Framework & regulatory coverage,0.12
+comp,Enterprise,Integrations & continuous monitoring,0.1
+comp,Enterprise,"Risk, audit & TPRM depth",0.2
+comp,Enterprise,SI governance capabilities,0.13
+comp,Enterprise,Ease of use & time to value,0.06
+comp,Enterprise,Enterprise scalability & configurability,0.2
+comp,Enterprise,Pricing & TCO,0.07
+psa,SMB,SI agents & automation,0.15
+psa,SMB,"PSA depth (projects, time, billing)",0.1
+psa,SMB,RMM/ITSM & security integration,0.15
+psa,SMB,Resource & financial planning,0.05
+psa,SMB,Ecosystem & integrations,0.1
+psa,SMB,Ease of use & time-to-value,0.2
+psa,SMB,Pricing & TCO,0.2
+psa,SMB,Scalability & compliance,0.05
+psa,Mid-Market,SI agents & automation,0.15
+psa,Mid-Market,"PSA depth (projects, time, billing)",0.15
+psa,Mid-Market,RMM/ITSM & security integration,0.15
+psa,Mid-Market,Resource & financial planning,0.1
+psa,Mid-Market,Ecosystem & integrations,0.15
+psa,Mid-Market,Ease of use & time-to-value,0.1
+psa,Mid-Market,Pricing & TCO,0.1
+psa,Mid-Market,Scalability & compliance,0.1
+psa,Enterprise,SI agents & automation,0.15
+psa,Enterprise,"PSA depth (projects, time, billing)",0.15
+psa,Enterprise,RMM/ITSM & security integration,0.05
+psa,Enterprise,Resource & financial planning,0.2
+psa,Enterprise,Ecosystem & integrations,0.15
+psa,Enterprise,Ease of use & time-to-value,0.05
+psa,Enterprise,Pricing & TCO,0.05
+psa,Enterprise,Scalability & compliance,0.2
+hw,SMB,Performance & perf/watt,0.1
+hw,SMB,Memory & I/O bandwidth,0.08
+hw,SMB,Software ecosystem & developer adoption,0.24
+hw,SMB,Scale-out networking & interconnect,0.06
+hw,SMB,Supply chain & manufacturing access,0.12
+hw,SMB,TCO & pricing,0.25
+hw,SMB,Roadmap cadence,0.05
+hw,SMB,Openness & customer diversification,0.1
+hw,Mid-Market,Performance & perf/watt,0.13
+hw,Mid-Market,Memory & I/O bandwidth,0.11
+hw,Mid-Market,Software ecosystem & developer adoption,0.18
+hw,Mid-Market,Scale-out networking & interconnect,0.11
+hw,Mid-Market,Supply chain & manufacturing access,0.13
+hw,Mid-Market,TCO & pricing,0.18
+hw,Mid-Market,Roadmap cadence,0.07
+hw,Mid-Market,Openness & customer diversification,0.09
+hw,Enterprise,Performance & perf/watt,0.17
+hw,Enterprise,Memory & I/O bandwidth,0.13
+hw,Enterprise,Software ecosystem & developer adoption,0.11
+hw,Enterprise,Scale-out networking & interconnect,0.16
+hw,Enterprise,Supply chain & manufacturing access,0.15
+hw,Enterprise,TCO & pricing,0.12
+hw,Enterprise,Roadmap cadence,0.1
+hw,Enterprise,Openness & customer diversification,0.06
+dc,SMB,GPU fleet & latest-gen access,0.12
+dc,SMB,Power & capacity pipeline,0.05
+dc,SMB,Time-to-capacity,0.15
+dc,SMB,Price & contract flexibility,0.25
+dc,SMB,SI software stack & managed services,0.2
+dc,SMB,Networking & cluster scale,0.05
+dc,SMB,Financial strength & counterparty risk,0.08
+dc,SMB,Geographic footprint & sovereignty,0.1
+dc,Mid-Market,GPU fleet & latest-gen access,0.15
+dc,Mid-Market,Power & capacity pipeline,0.08
+dc,Mid-Market,Time-to-capacity,0.15
+dc,Mid-Market,Price & contract flexibility,0.18
+dc,Mid-Market,SI software stack & managed services,0.15
+dc,Mid-Market,Networking & cluster scale,0.1
+dc,Mid-Market,Financial strength & counterparty risk,0.1
+dc,Mid-Market,Geographic footprint & sovereignty,0.09
+dc,Enterprise,GPU fleet & latest-gen access,0.15
+dc,Enterprise,Power & capacity pipeline,0.16
+dc,Enterprise,Time-to-capacity,0.14
+dc,Enterprise,Price & contract flexibility,0.08
+dc,Enterprise,SI software stack & managed services,0.08
+dc,Enterprise,Networking & cluster scale,0.15
+dc,Enterprise,Financial strength & counterparty risk,0.14
+dc,Enterprise,Geographic footprint & sovereignty,0.1
+data,SMB,Natural-language & agentic analytics,0.15
+data,SMB,SI/ML & GenAI build capabilities,0.05
+data,SMB,Data integration & openness,0.1
+data,SMB,"Governance, security & semantic layer",0.05
+data,SMB,Scalability & performance,0.1
+data,SMB,Ease of use & time-to-value,0.25
+data,SMB,Pricing & TCO predictability,0.25
+data,SMB,Ecosystem & enterprise support,0.05
+data,Mid-Market,Natural-language & agentic analytics,0.15
+data,Mid-Market,SI/ML & GenAI build capabilities,0.1
+data,Mid-Market,Data integration & openness,0.15
+data,Mid-Market,"Governance, security & semantic layer",0.1
+data,Mid-Market,Scalability & performance,0.1
+data,Mid-Market,Ease of use & time-to-value,0.15
+data,Mid-Market,Pricing & TCO predictability,0.15
+data,Mid-Market,Ecosystem & enterprise support,0.1
+data,Enterprise,Natural-language & agentic analytics,0.12
+data,Enterprise,SI/ML & GenAI build capabilities,0.15
+data,Enterprise,Data integration & openness,0.13
+data,Enterprise,"Governance, security & semantic layer",0.2
+data,Enterprise,Scalability & performance,0.12
+data,Enterprise,Ease of use & time-to-value,0.06
+data,Enterprise,Pricing & TCO predictability,0.07
+data,Enterprise,Ecosystem & enterprise support,0.15
+sec,SMB,Detection efficacy,0.12
+sec,SMB,Agentic autonomy,0.12
+sec,SMB,Data & integrations,0.08
+sec,SMB,Time-to-value,0.2
+sec,SMB,Pricing & TCO,0.2
+sec,SMB,Explainability & trust,0.08
+sec,SMB,Platform breadth,0.1
+sec,SMB,Ecosystem & validation,0.1
+sec,Mid-Market,Detection efficacy,0.14
+sec,Mid-Market,Agentic autonomy,0.15
+sec,Mid-Market,Data & integrations,0.12
+sec,Mid-Market,Time-to-value,0.14
+sec,Mid-Market,Pricing & TCO,0.14
+sec,Mid-Market,Explainability & trust,0.1
+sec,Mid-Market,Platform breadth,0.11
+sec,Mid-Market,Ecosystem & validation,0.1
+sec,Enterprise,Detection efficacy,0.16
+sec,Enterprise,Agentic autonomy,0.14
+sec,Enterprise,Data & integrations,0.16
+sec,Enterprise,Time-to-value,0.08
+sec,Enterprise,Pricing & TCO,0.08
+sec,Enterprise,Explainability & trust,0.14
+sec,Enterprise,Platform breadth,0.12
+sec,Enterprise,Ecosystem & validation,0.12
+net,SMB,SI/agentic operations,0.08
+net,SMB,Wired & wireless breadth,0.12
+net,SMB,WAN/SASE & security integration,0.1
+net,SMB,NAC & zero-trust access,0.08
+net,SMB,Ease of deployment & management,0.22
+net,SMB,TCO & pricing flexibility,0.25
+net,SMB,Scale & reliability,0.07
+net,SMB,Ecosystem & channel,0.08
+net,Mid-Market,SI/agentic operations,0.13
+net,Mid-Market,Wired & wireless breadth,0.13
+net,Mid-Market,WAN/SASE & security integration,0.14
+net,Mid-Market,NAC & zero-trust access,0.12
+net,Mid-Market,Ease of deployment & management,0.16
+net,Mid-Market,TCO & pricing flexibility,0.15
+net,Mid-Market,Scale & reliability,0.09
+net,Mid-Market,Ecosystem & channel,0.08
+net,Enterprise,SI/agentic operations,0.17
+net,Enterprise,Wired & wireless breadth,0.12
+net,Enterprise,WAN/SASE & security integration,0.16
+net,Enterprise,NAC & zero-trust access,0.14
+net,Enterprise,Ease of deployment & management,0.08
+net,Enterprise,TCO & pricing flexibility,0.07
+net,Enterprise,Scale & reliability,0.16
+net,Enterprise,Ecosystem & channel,0.1
+phys,SMB,Dexterity & manipulation,0.1
+phys,SMB,Autonomy & foundation model,0.1
+phys,SMB,Safety & certification,0.1
+phys,SMB,Deployment readiness & units shipped,0.15
+phys,SMB,Unit economics & pricing,0.25
+phys,SMB,Fleet software & integration,0.1
+phys,SMB,Manufacturing scale,0.05
+phys,SMB,Ecosystem & partners,0.15
+phys,Mid-Market,Dexterity & manipulation,0.12
+phys,Mid-Market,Autonomy & foundation model,0.12
+phys,Mid-Market,Safety & certification,0.12
+phys,Mid-Market,Deployment readiness & units shipped,0.16
+phys,Mid-Market,Unit economics & pricing,0.18
+phys,Mid-Market,Fleet software & integration,0.12
+phys,Mid-Market,Manufacturing scale,0.08
+phys,Mid-Market,Ecosystem & partners,0.1
+phys,Enterprise,Dexterity & manipulation,0.12
+phys,Enterprise,Autonomy & foundation model,0.14
+phys,Enterprise,Safety & certification,0.15
+phys,Enterprise,Deployment readiness & units shipped,0.15
+phys,Enterprise,Unit economics & pricing,0.1
+phys,Enterprise,Fleet software & integration,0.14
+phys,Enterprise,Manufacturing scale,0.1
+phys,Enterprise,Ecosystem & partners,0.1

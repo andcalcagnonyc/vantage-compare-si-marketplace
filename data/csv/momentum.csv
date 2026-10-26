@@ -1,0 +1,859 @@
+market_id,company_id,name,year,momentum_1_10
+llm,anthropic,Anthropic,2024,7
+llm,anthropic,Anthropic,2025,9
+llm,anthropic,Anthropic,2026,10
+llm,openai,OpenAI,2024,9
+llm,openai,OpenAI,2025,9
+llm,openai,OpenAI,2026,9
+llm,zhipu-ai-z-ai-glm,Zhipu AI (Z.ai / GLM),2024,5
+llm,zhipu-ai-z-ai-glm,Zhipu AI (Z.ai / GLM),2025,7
+llm,zhipu-ai-z-ai-glm,Zhipu AI (Z.ai / GLM),2026,9
+llm,spacexai-xai-grok,SpaceXAI (xAI / Grok),2024,6
+llm,spacexai-xai-grok,SpaceXAI (xAI / Grok),2025,7
+llm,spacexai-xai-grok,SpaceXAI (xAI / Grok),2026,6
+llm,mistral-ai,Mistral AI,2024,6
+llm,mistral-ai,Mistral AI,2025,6
+llm,mistral-ai,Mistral AI,2026,8
+llm,moonshot-ai-kimi,Moonshot AI (Kimi),2024,4
+llm,moonshot-ai-kimi,Moonshot AI (Kimi),2025,7
+llm,moonshot-ai-kimi,Moonshot AI (Kimi),2026,9
+llm,minimax,MiniMax,2024,4
+llm,minimax,MiniMax,2025,6
+llm,minimax,MiniMax,2026,8
+llm,cohere,Cohere,2024,5
+llm,cohere,Cohere,2025,6
+llm,cohere,Cohere,2026,7
+llm,thinking-machines-lab,Thinking Machines Lab,2024,1
+llm,thinking-machines-lab,Thinking Machines Lab,2025,6
+llm,thinking-machines-lab,Thinking Machines Lab,2026,7
+llm,safe-superintelligence-ssi,Safe Superintelligence (SSI),2024,5
+llm,safe-superintelligence-ssi,Safe Superintelligence (SSI),2025,6
+llm,safe-superintelligence-ssi,Safe Superintelligence (SSI),2026,4
+llm,reflection-ai,Reflection AI,2024,2
+llm,reflection-ai,Reflection AI,2025,5
+llm,reflection-ai,Reflection AI,2026,5
+llm,ai21-labs,AI21 Labs,2024,4
+llm,ai21-labs,AI21 Labs,2025,4
+llm,ai21-labs,AI21 Labs,2026,3
+llm,google-deepmind-gemini,Google DeepMind (Gemini),2024,6
+llm,google-deepmind-gemini,Google DeepMind (Gemini),2025,8
+llm,google-deepmind-gemini,Google DeepMind (Gemini),2026,9
+llm,meta-llama-muse,Meta (Llama / Muse),2024,7
+llm,meta-llama-muse,Meta (Llama / Muse),2025,5
+llm,meta-llama-muse,Meta (Llama / Muse),2026,4
+llm,microsoft-mai-foundry,Microsoft (MAI + Foundry),2024,4
+llm,microsoft-mai-foundry,Microsoft (MAI + Foundry),2025,5
+llm,microsoft-mai-foundry,Microsoft (MAI + Foundry),2026,6
+llm,amazon-nova-bedrock,Amazon (Nova + Bedrock),2024,4
+llm,amazon-nova-bedrock,Amazon (Nova + Bedrock),2025,5
+llm,amazon-nova-bedrock,Amazon (Nova + Bedrock),2026,6
+llm,deepseek,DeepSeek,2024,4
+llm,deepseek,DeepSeek,2025,10
+llm,deepseek,DeepSeek,2026,7
+llm,alibaba-cloud-qwen,Alibaba Cloud (Qwen),2024,7
+llm,alibaba-cloud-qwen,Alibaba Cloud (Qwen),2025,8
+llm,alibaba-cloud-qwen,Alibaba Cloud (Qwen),2026,8
+llm,ibm-granite,IBM (Granite),2024,5
+llm,ibm-granite,IBM (Granite),2025,5
+llm,ibm-granite,IBM (Granite),2026,5
+llm,nvidia-nemotron,NVIDIA (Nemotron),2024,5
+llm,nvidia-nemotron,NVIDIA (Nemotron),2025,7
+llm,nvidia-nemotron,NVIDIA (Nemotron),2026,8
+aiemp,anthropic,Anthropic,2024,7
+aiemp,anthropic,Anthropic,2025,9
+aiemp,anthropic,Anthropic,2026,10
+aiemp,openai,OpenAI,2024,9
+aiemp,openai,OpenAI,2025,9
+aiemp,openai,OpenAI,2026,10
+aiemp,microsoft-copilot-agent-365,Microsoft (Copilot + Agent 365),2024,8
+aiemp,microsoft-copilot-agent-365,Microsoft (Copilot + Agent 365),2025,8
+aiemp,microsoft-copilot-agent-365,Microsoft (Copilot + Agent 365),2026,9
+aiemp,uipath,UiPath,2024,5
+aiemp,uipath,UiPath,2025,6
+aiemp,uipath,UiPath,2026,6
+aiemp,salesforce-agentforce,Salesforce Agentforce,2024,7
+aiemp,salesforce-agentforce,Salesforce Agentforce,2025,8
+aiemp,salesforce-agentforce,Salesforce Agentforce,2026,8
+aiemp,servicenow-ai-agents-moveworks,ServiceNow (AI Agents + Moveworks),2024,7
+aiemp,servicenow-ai-agents-moveworks,ServiceNow (AI Agents + Moveworks),2025,8
+aiemp,servicenow-ai-agents-moveworks,ServiceNow (AI Agents + Moveworks),2026,8
+aiemp,cognition-devin-windsurf,Cognition (Devin + Windsurf),2024,6
+aiemp,cognition-devin-windsurf,Cognition (Devin + Windsurf),2025,8
+aiemp,cognition-devin-windsurf,Cognition (Devin + Windsurf),2026,9
+aiemp,xai-spacex,xAI (SpaceX),2024,6
+aiemp,xai-spacex,xAI (SpaceX),2025,7
+aiemp,xai-spacex,xAI (SpaceX),2026,7
+aiemp,mistral-ai,Mistral AI,2024,6
+aiemp,mistral-ai,Mistral AI,2025,7
+aiemp,mistral-ai,Mistral AI,2026,7
+aiemp,glean,Glean,2024,7
+aiemp,glean,Glean,2025,8
+aiemp,glean,Glean,2026,7
+aiemp,cohere,Cohere,2024,5
+aiemp,cohere,Cohere,2025,6
+aiemp,cohere,Cohere,2026,6
+aiemp,sierra,Sierra,2024,6
+aiemp,sierra,Sierra,2025,8
+aiemp,sierra,Sierra,2026,9
+aiemp,decagon,Decagon,2024,6
+aiemp,decagon,Decagon,2025,7
+aiemp,decagon,Decagon,2026,8
+aiemp,writer,Writer,2024,6
+aiemp,writer,Writer,2025,6
+aiemp,writer,Writer,2026,5
+aiemp,google-gemini-enterprise,Google (Gemini Enterprise),2024,7
+aiemp,google-gemini-enterprise,Google (Gemini Enterprise),2025,8
+aiemp,google-gemini-enterprise,Google (Gemini Enterprise),2026,9
+aiemp,aws-bedrock-agentcore-quick-suite,AWS (Bedrock AgentCore + Quick Suite),2024,6
+aiemp,aws-bedrock-agentcore-quick-suite,AWS (Bedrock AgentCore + Quick Suite),2025,7
+aiemp,aws-bedrock-agentcore-quick-suite,AWS (Bedrock AgentCore + Quick Suite),2026,8
+aiemp,workday-ai-agents,Workday (AI Agents),2024,5
+aiemp,workday-ai-agents,Workday (AI Agents),2025,6
+aiemp,workday-ai-agents,Workday (AI Agents),2026,6
+aiemp,ibm-watsonx-orchestrate,IBM (watsonx Orchestrate),2024,5
+aiemp,ibm-watsonx-orchestrate,IBM (watsonx Orchestrate),2025,5
+aiemp,ibm-watsonx-orchestrate,IBM (watsonx Orchestrate),2026,5
+code,anthropic-claude-code,Anthropic Claude Code,2024,4
+code,anthropic-claude-code,Anthropic Claude Code,2025,9
+code,anthropic-claude-code,Anthropic Claude Code,2026,10
+code,cursor-anysphere,Cursor (Anysphere),2024,7
+code,cursor-anysphere,Cursor (Anysphere),2025,10
+code,cursor-anysphere,Cursor (Anysphere),2026,9
+code,github-copilot,GitHub Copilot,2024,9
+code,github-copilot,GitHub Copilot,2025,7
+code,github-copilot,GitHub Copilot,2026,7
+code,gitlab-duo,GitLab Duo,2024,6
+code,gitlab-duo,GitLab Duo,2025,6
+code,gitlab-duo,GitLab Duo,2026,5
+code,cognition-devin-windsurf,Cognition (Devin + Windsurf),2024,6
+code,cognition-devin-windsurf,Cognition (Devin + Windsurf),2025,8
+code,cognition-devin-windsurf,Cognition (Devin + Windsurf),2026,9
+code,lovable,Lovable,2024,4
+code,lovable,Lovable,2025,9
+code,lovable,Lovable,2026,9
+code,vercel-v0,Vercel v0,2024,6
+code,vercel-v0,Vercel v0,2025,7
+code,vercel-v0,Vercel v0,2026,7
+code,replit,Replit,2024,5
+code,replit,Replit,2025,9
+code,replit,Replit,2026,8
+code,harness-ai,Harness AI,2024,5
+code,harness-ai,Harness AI,2025,6
+code,harness-ai,Harness AI,2026,6
+code,bolt-new-stackblitz,Bolt.new (StackBlitz),2024,7
+code,bolt-new-stackblitz,Bolt.new (StackBlitz),2025,7
+code,bolt-new-stackblitz,Bolt.new (StackBlitz),2026,5
+code,augment-code,Augment Code,2024,6
+code,augment-code,Augment Code,2025,6
+code,augment-code,Augment Code,2026,6
+code,poolside,Poolside,2024,6
+code,poolside,Poolside,2025,6
+code,poolside,Poolside,2026,7
+code,factory,Factory,2024,3
+code,factory,Factory,2025,6
+code,factory,Factory,2026,8
+code,sourcegraph-amp,Sourcegraph / Amp,2024,4
+code,sourcegraph-amp,Sourcegraph / Amp,2025,6
+code,sourcegraph-amp,Sourcegraph / Amp,2026,6
+code,openai-codex,OpenAI Codex,2024,3
+code,openai-codex,OpenAI Codex,2025,7
+code,openai-codex,OpenAI Codex,2026,9
+code,google-gemini-code-assist-jules-antigravity,Google (Gemini Code Assist / Jules / Antigravity),2024,6
+code,google-gemini-code-assist-jules-antigravity,Google (Gemini Code Assist / Jules / Antigravity),2025,7
+code,google-gemini-code-assist-jules-antigravity,Google (Gemini Code Assist / Jules / Antigravity),2026,7
+code,amazon-q-developer-kiro,Amazon Q Developer / Kiro,2024,7
+code,amazon-q-developer-kiro,Amazon Q Developer / Kiro,2025,7
+code,amazon-q-developer-kiro,Amazon Q Developer / Kiro,2026,6
+cx,salesforce-agentforce-service,Salesforce Agentforce Service,2024,7
+cx,salesforce-agentforce-service,Salesforce Agentforce Service,2025,8
+cx,salesforce-agentforce-service,Salesforce Agentforce Service,2026,9
+cx,genesys,Genesys,2024,7
+cx,genesys,Genesys,2025,8
+cx,genesys,Genesys,2026,8
+cx,nice-cxone-mpower-cognigy,NiCE (CXone Mpower + Cognigy),2024,7
+cx,nice-cxone-mpower-cognigy,NiCE (CXone Mpower + Cognigy),2025,7
+cx,nice-cxone-mpower-cognigy,NiCE (CXone Mpower + Cognigy),2026,8
+cx,zendesk,Zendesk,2024,6
+cx,zendesk,Zendesk,2025,7
+cx,zendesk,Zendesk,2026,8
+cx,five9,Five9,2024,6
+cx,five9,Five9,2025,6
+cx,five9,Five9,2026,6
+cx,amazon-connect,Amazon Connect,2024,7
+cx,amazon-connect,Amazon Connect,2025,8
+cx,amazon-connect,Amazon Connect,2026,8
+cx,talkdesk,Talkdesk,2024,5
+cx,talkdesk,Talkdesk,2025,6
+cx,talkdesk,Talkdesk,2026,5
+cx,fin-formerly-intercom,Fin (formerly Intercom),2024,7
+cx,fin-formerly-intercom,Fin (formerly Intercom),2025,9
+cx,fin-formerly-intercom,Fin (formerly Intercom),2026,9
+cx,liveperson,LivePerson,2024,3
+cx,liveperson,LivePerson,2025,2
+cx,liveperson,LivePerson,2026,2
+cx,sierra,Sierra,2024,8
+cx,sierra,Sierra,2025,9
+cx,sierra,Sierra,2026,10
+cx,uniphore,Uniphore,2024,5
+cx,uniphore,Uniphore,2025,7
+cx,uniphore,Uniphore,2026,7
+cx,decagon,Decagon,2024,7
+cx,decagon,Decagon,2025,9
+cx,decagon,Decagon,2026,9
+cx,parloa,Parloa,2024,6
+cx,parloa,Parloa,2025,8
+cx,parloa,Parloa,2026,9
+cx,cresta,Cresta,2024,7
+cx,cresta,Cresta,2025,7
+cx,cresta,Cresta,2026,7
+cx,polyai,PolyAI,2024,6
+cx,polyai,PolyAI,2025,7
+cx,polyai,PolyAI,2026,7
+cx,kore-ai,Kore.ai,2024,7
+cx,kore-ai,Kore.ai,2025,7
+cx,kore-ai,Kore.ai,2026,7
+cx,ada,Ada,2024,6
+cx,ada,Ada,2025,5
+cx,ada,Ada,2026,5
+cx,servicenow-customer-service-management,ServiceNow Customer Service Management,2024,7
+cx,servicenow-customer-service-management,ServiceNow Customer Service Management,2025,8
+cx,servicenow-customer-service-management,ServiceNow Customer Service Management,2026,8
+crm,salesforce,Salesforce,2024,7
+crm,salesforce,Salesforce,2025,8
+crm,salesforce,Salesforce,2026,8
+crm,microsoft-dynamics-365,Microsoft Dynamics 365,2024,7
+crm,microsoft-dynamics-365,Microsoft Dynamics 365,2025,7
+crm,microsoft-dynamics-365,Microsoft Dynamics 365,2026,7
+crm,oracle-cx,Oracle CX,2024,6
+crm,oracle-cx,Oracle CX,2025,6
+crm,oracle-cx,Oracle CX,2026,7
+crm,hubspot,HubSpot,2024,8
+crm,hubspot,HubSpot,2025,8
+crm,hubspot,HubSpot,2026,8
+crm,sap-sales-cloud,SAP Sales Cloud,2024,5
+crm,sap-sales-cloud,SAP Sales Cloud,2025,5
+crm,sap-sales-cloud,SAP Sales Cloud,2026,5
+crm,pegasystems,Pegasystems,2024,6
+crm,pegasystems,Pegasystems,2025,7
+crm,pegasystems,Pegasystems,2026,7
+crm,monday-crm,monday CRM,2024,8
+crm,monday-crm,monday CRM,2025,7
+crm,monday-crm,monday CRM,2026,6
+crm,servicenow-crm,ServiceNow CRM,2024,6
+crm,servicenow-crm,ServiceNow CRM,2025,7
+crm,servicenow-crm,ServiceNow CRM,2026,8
+crm,freshworks-freshsales,Freshworks (Freshsales),2024,6
+crm,freshworks-freshsales,Freshworks (Freshsales),2025,5
+crm,freshworks-freshsales,Freshworks (Freshsales),2026,5
+crm,zoho-crm,Zoho CRM,2024,6
+crm,zoho-crm,Zoho CRM,2025,7
+crm,zoho-crm,Zoho CRM,2026,7
+crm,apollo-io,Apollo.io,2024,7
+crm,apollo-io,Apollo.io,2025,7
+crm,apollo-io,Apollo.io,2026,7
+crm,clay,Clay,2024,8
+crm,clay,Clay,2025,9
+crm,clay,Clay,2026,9
+crm,creatio,Creatio,2024,7
+crm,creatio,Creatio,2025,7
+crm,creatio,Creatio,2026,7
+crm,pipedrive,Pipedrive,2024,6
+crm,pipedrive,Pipedrive,2025,5
+crm,pipedrive,Pipedrive,2026,5
+crm,sugarcrm,SugarCRM,2024,4
+crm,sugarcrm,SugarCRM,2025,4
+crm,sugarcrm,SugarCRM,2026,4
+crm,attio,Attio,2024,7
+crm,attio,Attio,2025,8
+crm,attio,Attio,2026,9
+crm,copper,Copper,2024,4
+crm,copper,Copper,2025,4
+crm,copper,Copper,2026,3
+rev,zoominfo,ZoomInfo,2024,4
+rev,zoominfo,ZoomInfo,2025,5
+rev,zoominfo,ZoomInfo,2026,5
+rev,gong,Gong,2024,8
+rev,gong,Gong,2025,8
+rev,gong,Gong,2026,9
+rev,salesloft-incl-clari,Salesloft (incl. Clari),2024,6
+rev,salesloft-incl-clari,Salesloft (incl. Clari),2025,7
+rev,salesloft-incl-clari,Salesloft (incl. Clari),2026,7
+rev,seismic-incl-highspot-pending,"Seismic (incl. Highspot, pending)",2024,5
+rev,seismic-incl-highspot-pending,"Seismic (incl. Highspot, pending)",2025,5
+rev,seismic-incl-highspot-pending,"Seismic (incl. Highspot, pending)",2026,7
+rev,outreach,Outreach,2024,6
+rev,outreach,Outreach,2025,7
+rev,outreach,Outreach,2026,8
+rev,apollo-io,Apollo.io,2024,7
+rev,apollo-io,Apollo.io,2025,8
+rev,apollo-io,Apollo.io,2026,8
+rev,6sense,6sense,2024,7
+rev,6sense,6sense,2025,5
+rev,6sense,6sense,2026,5
+rev,highspot,Highspot,2024,6
+rev,highspot,Highspot,2025,5
+rev,highspot,Highspot,2026,5
+rev,clay,Clay,2024,8
+rev,clay,Clay,2025,9
+rev,clay,Clay,2026,10
+rev,mindtickle,Mindtickle,2024,6
+rev,mindtickle,Mindtickle,2025,6
+rev,mindtickle,Mindtickle,2026,6
+rev,backstory-formerly-people-ai,Backstory (formerly People.ai),2024,5
+rev,backstory-formerly-people-ai,Backstory (formerly People.ai),2025,5
+rev,backstory-formerly-people-ai,Backstory (formerly People.ai),2026,6
+rev,showpad,Showpad,2024,5
+rev,showpad,Showpad,2025,4
+rev,showpad,Showpad,2026,4
+rev,cognism,Cognism,2024,6
+rev,cognism,Cognism,2025,6
+rev,cognism,Cognism,2026,6
+rev,lusha,Lusha,2024,5
+rev,lusha,Lusha,2025,5
+rev,lusha,Lusha,2026,5
+rev,common-room,Common Room,2024,6
+rev,common-room,Common Room,2025,6
+rev,common-room,Common Room,2026,6
+rev,11x,11x,2024,9
+rev,11x,11x,2025,4
+rev,11x,11x,2026,4
+fin,sap-s-4hana-finance-joule,"SAP (S/4HANA Finance, Joule)",2024,7
+fin,sap-s-4hana-finance-joule,"SAP (S/4HANA Finance, Joule)",2025,7
+fin,sap-s-4hana-finance-joule,"SAP (S/4HANA Finance, Joule)",2026,7
+fin,intuit-quickbooks,Intuit (QuickBooks),2024,7
+fin,intuit-quickbooks,Intuit (QuickBooks),2025,8
+fin,intuit-quickbooks,Intuit (QuickBooks),2026,8
+fin,oracle-netsuite,Oracle NetSuite,2024,7
+fin,oracle-netsuite,Oracle NetSuite,2025,7
+fin,oracle-netsuite,Oracle NetSuite,2026,7
+fin,microsoft-dynamics-365-finance-copilot-for-finance,Microsoft Dynamics 365 Finance (Copilot for Finance),2024,7
+fin,microsoft-dynamics-365-finance-copilot-for-finance,Microsoft Dynamics 365 Finance (Copilot for Finance),2025,7
+fin,microsoft-dynamics-365-finance-copilot-for-finance,Microsoft Dynamics 365 Finance (Copilot for Finance),2026,7
+fin,ramp,Ramp,2024,8
+fin,ramp,Ramp,2025,9
+fin,ramp,Ramp,2026,10
+fin,bill,BILL,2024,6
+fin,bill,BILL,2025,5
+fin,bill,BILL,2026,5
+fin,workday-financials,Workday Financials,2024,7
+fin,workday-financials,Workday Financials,2025,7
+fin,workday-financials,Workday Financials,2026,7
+fin,avalara,Avalara,2024,6
+fin,avalara,Avalara,2025,7
+fin,avalara,Avalara,2026,7
+fin,workiva,Workiva,2024,6
+fin,workiva,Workiva,2025,7
+fin,workiva,Workiva,2026,7
+fin,anaplan,Anaplan,2024,5
+fin,anaplan,Anaplan,2025,6
+fin,anaplan,Anaplan,2026,6
+fin,blackline,BlackLine,2024,5
+fin,blackline,BlackLine,2025,6
+fin,blackline,BlackLine,2026,6
+fin,onestream,OneStream,2024,8
+fin,onestream,OneStream,2025,7
+fin,onestream,OneStream,2026,7
+fin,brex-capital-one,Brex (Capital One),2024,6
+fin,brex-capital-one,Brex (Capital One),2025,6
+fin,brex-capital-one,Brex (Capital One),2026,6
+fin,tipalti,Tipalti,2024,6
+fin,tipalti,Tipalti,2025,6
+fin,tipalti,Tipalti,2026,6
+fin,highradius,HighRadius,2024,6
+fin,highradius,HighRadius,2025,6
+fin,highradius,HighRadius,2026,7
+fin,pigment,Pigment,2024,7
+fin,pigment,Pigment,2025,8
+fin,pigment,Pigment,2026,9
+fin,rillet,Rillet,2024,6
+fin,rillet,Rillet,2025,8
+fin,rillet,Rillet,2026,9
+fin,campfire,Campfire,2024,4
+fin,campfire,Campfire,2025,8
+fin,campfire,Campfire,2026,8
+fin,basis,Basis,2024,4
+fin,basis,Basis,2025,7
+fin,basis,Basis,2026,9
+fin,datasnipper,DataSnipper,2024,8
+fin,datasnipper,DataSnipper,2025,7
+fin,datasnipper,DataSnipper,2026,7
+legal,thomson-reuters-cocounsel-westlaw,Thomson Reuters (CoCounsel/Westlaw),2024,7
+legal,thomson-reuters-cocounsel-westlaw,Thomson Reuters (CoCounsel/Westlaw),2025,8
+legal,thomson-reuters-cocounsel-westlaw,Thomson Reuters (CoCounsel/Westlaw),2026,8
+legal,lexisnexis-lexis-ai-protege,LexisNexis (Lexis+ AI / Protégé),2024,7
+legal,lexisnexis-lexis-ai-protege,LexisNexis (Lexis+ AI / Protégé),2025,8
+legal,lexisnexis-lexis-ai-protege,LexisNexis (Lexis+ AI / Protégé),2026,9
+legal,wolters-kluwer-legal-regulatory,Wolters Kluwer Legal & Regulatory,2024,5
+legal,wolters-kluwer-legal-regulatory,Wolters Kluwer Legal & Regulatory,2025,6
+legal,wolters-kluwer-legal-regulatory,Wolters Kluwer Legal & Regulatory,2026,6
+legal,clio-incl-vlex,Clio (incl. vLex),2024,7
+legal,clio-incl-vlex,Clio (incl. vLex),2025,8
+legal,clio-incl-vlex,Clio (incl. vLex),2026,9
+legal,harvey,Harvey,2024,9
+legal,harvey,Harvey,2025,10
+legal,harvey,Harvey,2026,10
+legal,docusign-iam-clm,Docusign IAM / CLM,2024,5
+legal,docusign-iam-clm,Docusign IAM / CLM,2025,7
+legal,docusign-iam-clm,Docusign IAM / CLM,2026,7
+legal,icertis,Icertis,2024,6
+legal,icertis,Icertis,2025,6
+legal,icertis,Icertis,2026,5
+legal,filevine,Filevine,2024,6
+legal,filevine,Filevine,2025,8
+legal,filevine,Filevine,2026,8
+legal,ironclad,Ironclad,2024,6
+legal,ironclad,Ironclad,2025,6
+legal,ironclad,Ironclad,2026,7
+legal,legora,Legora,2024,6
+legal,legora,Legora,2025,9
+legal,legora,Legora,2026,10
+legal,disco,DISCO,2024,4
+legal,disco,DISCO,2025,5
+legal,disco,DISCO,2026,6
+legal,spellbook,Spellbook,2024,5
+legal,spellbook,Spellbook,2025,7
+legal,spellbook,Spellbook,2026,8
+legal,everlaw,Everlaw,2024,6
+legal,everlaw,Everlaw,2025,6
+legal,everlaw,Everlaw,2026,6
+legal,luminance,Luminance,2024,6
+legal,luminance,Luminance,2025,6
+legal,luminance,Luminance,2026,6
+legal,eudia,Eudia,2024,4
+legal,eudia,Eudia,2025,7
+legal,eudia,Eudia,2026,7
+legal,evenup,EvenUp,2024,8
+legal,evenup,EvenUp,2025,9
+legal,evenup,EvenUp,2026,8
+legal,supio,Supio,2024,5
+legal,supio,Supio,2025,7
+legal,supio,Supio,2026,7
+legal,eve-legal,Eve Legal,2024,4
+legal,eve-legal,Eve Legal,2025,7
+legal,eve-legal,Eve Legal,2026,8
+comp,workiva,Workiva,2024,6
+comp,workiva,Workiva,2025,6
+comp,workiva,Workiva,2026,6
+comp,diligent,Diligent,2024,7
+comp,diligent,Diligent,2025,8
+comp,diligent,Diligent,2026,8
+comp,onetrust,OneTrust,2024,7
+comp,onetrust,OneTrust,2025,7
+comp,onetrust,OneTrust,2026,7
+comp,navex,NAVEX,2024,6
+comp,navex,NAVEX,2025,6
+comp,navex,NAVEX,2026,6
+comp,vanta,Vanta,2024,8
+comp,vanta,Vanta,2025,9
+comp,vanta,Vanta,2026,10
+comp,optro-formerly-auditboard,Optro (formerly AuditBoard),2024,8
+comp,optro-formerly-auditboard,Optro (formerly AuditBoard),2025,8
+comp,optro-formerly-auditboard,Optro (formerly AuditBoard),2026,8
+comp,archer,Archer,2024,5
+comp,archer,Archer,2025,5
+comp,archer,Archer,2026,5
+comp,drata,Drata,2024,8
+comp,drata,Drata,2025,7
+comp,drata,Drata,2026,7
+comp,logicgate,LogicGate,2024,6
+comp,logicgate,LogicGate,2025,7
+comp,logicgate,LogicGate,2026,8
+comp,secureframe,Secureframe,2024,6
+comp,secureframe,Secureframe,2025,6
+comp,secureframe,Secureframe,2026,6
+comp,thoropass,Thoropass,2024,5
+comp,thoropass,Thoropass,2025,5
+comp,thoropass,Thoropass,2026,5
+comp,hyperproof,Hyperproof,2024,5
+comp,hyperproof,Hyperproof,2025,5
+comp,hyperproof,Hyperproof,2026,5
+comp,servicenow-irm,ServiceNow IRM,2024,7
+comp,servicenow-irm,ServiceNow IRM,2025,7
+comp,servicenow-irm,ServiceNow IRM,2026,7
+comp,ibm-openpages-watsonx-governance,IBM OpenPages / watsonx.governance,2024,6
+comp,ibm-openpages-watsonx-governance,IBM OpenPages / watsonx.governance,2025,7
+comp,ibm-openpages-watsonx-governance,IBM OpenPages / watsonx.governance,2026,7
+comp,sap-grc,SAP GRC,2024,5
+comp,sap-grc,SAP GRC,2025,5
+comp,sap-grc,SAP GRC,2026,5
+psa,servicenow-spm-psa,ServiceNow (SPM / PSA),2024,8
+psa,servicenow-spm-psa,ServiceNow (SPM / PSA),2025,8
+psa,servicenow-spm-psa,ServiceNow (SPM / PSA),2026,8
+psa,workday-services-psa,Workday (Services / PSA),2024,6
+psa,workday-services-psa,Workday (Services / PSA),2025,6
+psa,workday-services-psa,Workday (Services / PSA),2026,6
+psa,kaseya-autotask-psa,Kaseya (Autotask PSA),2024,7
+psa,kaseya-autotask-psa,Kaseya (Autotask PSA),2025,6
+psa,kaseya-autotask-psa,Kaseya (Autotask PSA),2026,6
+psa,connectwise,ConnectWise,2024,6
+psa,connectwise,ConnectWise,2025,6
+psa,connectwise,ConnectWise,2026,7
+psa,deltek-incl-replicon,Deltek (incl. Replicon),2024,5
+psa,deltek-incl-replicon,Deltek (incl. Replicon),2025,5
+psa,deltek-incl-replicon,Deltek (incl. Replicon),2026,5
+psa,freshworks-freshservice-for-msps,Freshworks (Freshservice for MSPs),2024,7
+psa,freshworks-freshservice-for-msps,Freshworks (Freshservice for MSPs),2025,7
+psa,freshworks-freshservice-for-msps,Freshworks (Freshservice for MSPs),2026,7
+psa,n-able,N-able,2024,6
+psa,n-able,N-able,2025,5
+psa,n-able,N-able,2026,5
+psa,ninjaone,NinjaOne,2024,8
+psa,ninjaone,NinjaOne,2025,9
+psa,ninjaone,NinjaOne,2026,9
+psa,unit4-psa-suite,Unit4 (PSA Suite),2024,5
+psa,unit4-psa-suite,Unit4 (PSA Suite),2025,5
+psa,unit4-psa-suite,Unit4 (PSA Suite),2026,5
+psa,planview-changepoint-clarizen,Planview (Changepoint/Clarizen),2024,5
+psa,planview-changepoint-clarizen,Planview (Changepoint/Clarizen),2025,5
+psa,planview-changepoint-clarizen,Planview (Changepoint/Clarizen),2026,5
+psa,certinia,Certinia,2024,6
+psa,certinia,Certinia,2025,7
+psa,certinia,Certinia,2026,7
+psa,kantata,Kantata,2024,6
+psa,kantata,Kantata,2025,7
+psa,kantata,Kantata,2026,8
+psa,atera,Atera,2024,6
+psa,atera,Atera,2025,6
+psa,atera,Atera,2026,6
+psa,rocketlane,Rocketlane,2024,7
+psa,rocketlane,Rocketlane,2025,8
+psa,rocketlane,Rocketlane,2026,9
+psa,pax8,Pax8,2024,7
+psa,pax8,Pax8,2025,6
+psa,pax8,Pax8,2026,7
+psa,superops,SuperOps,2024,7
+psa,superops,SuperOps,2025,8
+psa,superops,SuperOps,2026,8
+psa,oracle-netsuite-srp-openair,Oracle NetSuite (SRP / OpenAir),2024,6
+psa,oracle-netsuite-srp-openair,Oracle NetSuite (SRP / OpenAir),2025,6
+psa,oracle-netsuite-srp-openair,Oracle NetSuite (SRP / OpenAir),2026,6
+hw,nvidia,NVIDIA,2024,10
+hw,nvidia,NVIDIA,2025,10
+hw,nvidia,NVIDIA,2026,10
+hw,dell-technologies-ai-servers,Dell Technologies (AI servers),2024,7
+hw,dell-technologies-ai-servers,Dell Technologies (AI servers),2025,9
+hw,dell-technologies-ai-servers,Dell Technologies (AI servers),2026,10
+hw,broadcom-custom-xpu-ai-networking,Broadcom (custom XPU & AI networking),2024,8
+hw,broadcom-custom-xpu-ai-networking,Broadcom (custom XPU & AI networking),2025,9
+hw,broadcom-custom-xpu-ai-networking,Broadcom (custom XPU & AI networking),2026,10
+hw,supermicro,Supermicro,2024,9
+hw,supermicro,Supermicro,2025,6
+hw,supermicro,Supermicro,2026,8
+hw,hpe-ai-systems-networking,HPE (AI systems & networking),2024,6
+hw,hpe-ai-systems-networking,HPE (AI systems & networking),2025,7
+hw,hpe-ai-systems-networking,HPE (AI systems & networking),2026,8
+hw,amd,AMD,2024,7
+hw,amd,AMD,2025,8
+hw,amd,AMD,2026,9
+hw,aws-trainium,AWS Trainium,2024,6
+hw,aws-trainium,AWS Trainium,2025,8
+hw,aws-trainium,AWS Trainium,2026,9
+hw,marvell,Marvell,2024,7
+hw,marvell,Marvell,2025,7
+hw,marvell,Marvell,2026,8
+hw,celestica,Celestica,2024,7
+hw,celestica,Celestica,2025,8
+hw,celestica,Celestica,2026,9
+hw,cisco-ai-infrastructure,Cisco (AI infrastructure),2024,5
+hw,cisco-ai-infrastructure,Cisco (AI infrastructure),2025,7
+hw,cisco-ai-infrastructure,Cisco (AI infrastructure),2026,8
+hw,arista-networks,Arista Networks,2024,8
+hw,arista-networks,Arista Networks,2025,9
+hw,arista-networks,Arista Networks,2026,9
+hw,credo-technology,Credo Technology,2024,6
+hw,credo-technology,Credo Technology,2025,9
+hw,credo-technology,Credo Technology,2026,9
+hw,astera-labs,Astera Labs,2024,7
+hw,astera-labs,Astera Labs,2025,8
+hw,astera-labs,Astera Labs,2026,10
+hw,cerebras-systems,Cerebras Systems,2024,6
+hw,cerebras-systems,Cerebras Systems,2025,8
+hw,cerebras-systems,Cerebras Systems,2026,10
+hw,groq,Groq,2024,8
+hw,groq,Groq,2025,9
+hw,groq,Groq,2026,4
+hw,sambanova-systems,SambaNova Systems,2024,4
+hw,sambanova-systems,SambaNova Systems,2025,4
+hw,sambanova-systems,SambaNova Systems,2026,8
+hw,tenstorrent,Tenstorrent,2024,6
+hw,tenstorrent,Tenstorrent,2025,6
+hw,tenstorrent,Tenstorrent,2026,8
+hw,google-tpu,Google TPU,2024,7
+hw,google-tpu,Google TPU,2025,9
+hw,google-tpu,Google TPU,2026,10
+dc,amazon-web-services-aws,Amazon Web Services (AWS),2024,7
+dc,amazon-web-services-aws,Amazon Web Services (AWS),2025,8
+dc,amazon-web-services-aws,Amazon Web Services (AWS),2026,9
+dc,microsoft-azure-ai-infrastructure,Microsoft Azure AI Infrastructure,2024,9
+dc,microsoft-azure-ai-infrastructure,Microsoft Azure AI Infrastructure,2025,8
+dc,microsoft-azure-ai-infrastructure,Microsoft Azure AI Infrastructure,2026,8
+dc,google-cloud,Google Cloud,2024,7
+dc,google-cloud,Google Cloud,2025,8
+dc,google-cloud,Google Cloud,2026,10
+dc,oracle-cloud-infrastructure-oci,Oracle Cloud Infrastructure (OCI),2024,7
+dc,oracle-cloud-infrastructure-oci,Oracle Cloud Infrastructure (OCI),2025,9
+dc,oracle-cloud-infrastructure-oci,Oracle Cloud Infrastructure (OCI),2026,9
+dc,coreweave,CoreWeave,2024,9
+dc,coreweave,CoreWeave,2025,9
+dc,coreweave,CoreWeave,2026,9
+dc,equinix,Equinix,2024,6
+dc,equinix,Equinix,2025,7
+dc,equinix,Equinix,2026,7
+dc,digital-realty,Digital Realty,2024,6
+dc,digital-realty,Digital Realty,2025,7
+dc,digital-realty,Digital Realty,2026,8
+dc,nebius,Nebius,2024,6
+dc,nebius,Nebius,2025,9
+dc,nebius,Nebius,2026,10
+dc,applied-digital,Applied Digital,2024,5
+dc,applied-digital,Applied Digital,2025,7
+dc,applied-digital,Applied Digital,2026,8
+dc,together-ai,Together AI,2024,7
+dc,together-ai,Together AI,2025,8
+dc,together-ai,Together AI,2026,9
+dc,lambda,Lambda,2024,7
+dc,lambda,Lambda,2025,8
+dc,lambda,Lambda,2026,8
+dc,iren,IREN,2024,4
+dc,iren,IREN,2025,8
+dc,iren,IREN,2026,9
+dc,fluidstack,Fluidstack,2024,4
+dc,fluidstack,Fluidstack,2025,8
+dc,fluidstack,Fluidstack,2026,9
+dc,core-scientific,Core Scientific,2024,6
+dc,core-scientific,Core Scientific,2025,6
+dc,core-scientific,Core Scientific,2026,7
+dc,nscale,Nscale,2024,4
+dc,nscale,Nscale,2025,8
+dc,nscale,Nscale,2026,7
+dc,vantage-data-centers,Vantage Data Centers,2024,7
+dc,vantage-data-centers,Vantage Data Centers,2025,8
+dc,vantage-data-centers,Vantage Data Centers,2026,8
+dc,crusoe,Crusoe,2024,6
+dc,crusoe,Crusoe,2025,9
+dc,crusoe,Crusoe,2026,9
+dc,qts-data-centers,QTS Data Centers,2024,8
+dc,qts-data-centers,QTS Data Centers,2025,8
+dc,qts-data-centers,QTS Data Centers,2026,8
+dc,aligned-data-centers,Aligned Data Centers,2024,6
+dc,aligned-data-centers,Aligned Data Centers,2025,8
+dc,aligned-data-centers,Aligned Data Centers,2026,8
+data,palantir-aip-foundry,Palantir (AIP/Foundry),2024,8
+data,palantir-aip-foundry,Palantir (AIP/Foundry),2025,9
+data,palantir-aip-foundry,Palantir (AIP/Foundry),2026,10
+data,databricks,Databricks,2024,8
+data,databricks,Databricks,2025,9
+data,databricks,Databricks,2026,10
+data,snowflake,Snowflake,2024,6
+data,snowflake,Snowflake,2025,8
+data,snowflake,Snowflake,2026,9
+data,aws-redshift-sagemaker-quick-suite,AWS (Redshift / SageMaker / Quick Suite),2024,7
+data,aws-redshift-sagemaker-quick-suite,AWS (Redshift / SageMaker / Quick Suite),2025,7
+data,aws-redshift-sagemaker-quick-suite,AWS (Redshift / SageMaker / Quick Suite),2026,8
+data,microsoft-fabric-power-bi,Microsoft Fabric / Power BI,2024,8
+data,microsoft-fabric-power-bi,Microsoft Fabric / Power BI,2025,8
+data,microsoft-fabric-power-bi,Microsoft Fabric / Power BI,2026,8
+data,google-cloud-bigquery-looker-vertex-ai,Google Cloud (BigQuery / Looker / Vertex AI),2024,7
+data,google-cloud-bigquery-looker-vertex-ai,Google Cloud (BigQuery / Looker / Vertex AI),2025,8
+data,google-cloud-bigquery-looker-vertex-ai,Google Cloud (BigQuery / Looker / Vertex AI),2026,8
+data,oracle-autonomous-ai-database-analytics,Oracle (Autonomous AI Database / Analytics),2024,6
+data,oracle-autonomous-ai-database-analytics,Oracle (Autonomous AI Database / Analytics),2025,7
+data,oracle-autonomous-ai-database-analytics,Oracle (Autonomous AI Database / Analytics),2026,7
+data,salesforce-tableau,Salesforce Tableau,2024,5
+data,salesforce-tableau,Salesforce Tableau,2025,6
+data,salesforce-tableau,Salesforce Tableau,2026,6
+data,informatica-salesforce,Informatica (Salesforce),2024,5
+data,informatica-salesforce,Informatica (Salesforce),2025,6
+data,informatica-salesforce,Informatica (Salesforce),2026,6
+data,qlik,Qlik,2024,6
+data,qlik,Qlik,2025,6
+data,qlik,Qlik,2026,6
+data,alteryx,Alteryx,2024,4
+data,alteryx,Alteryx,2025,5
+data,alteryx,Alteryx,2026,5
+data,fivetran-dbt-labs,Fivetran + dbt Labs,2024,6
+data,fivetran-dbt-labs,Fivetran + dbt Labs,2025,7
+data,fivetran-dbt-labs,Fivetran + dbt Labs,2026,8
+data,dataiku,Dataiku,2024,6
+data,dataiku,Dataiku,2025,7
+data,dataiku,Dataiku,2026,7
+data,clickhouse,ClickHouse,2024,6
+data,clickhouse,ClickHouse,2025,8
+data,clickhouse,ClickHouse,2026,9
+data,domo-progress-software,Domo (Progress Software),2024,4
+data,domo-progress-software,Domo (Progress Software),2025,3
+data,domo-progress-software,Domo (Progress Software),2026,3
+data,thoughtspot,ThoughtSpot,2024,6
+data,thoughtspot,ThoughtSpot,2025,7
+data,thoughtspot,ThoughtSpot,2026,7
+data,sigma-computing,Sigma Computing,2024,7
+data,sigma-computing,Sigma Computing,2025,8
+data,sigma-computing,Sigma Computing,2026,9
+data,hex,Hex,2024,6
+data,hex,Hex,2025,7
+data,hex,Hex,2026,7
+data,sap-business-data-cloud,SAP Business Data Cloud,2024,4
+data,sap-business-data-cloud,SAP Business Data Cloud,2025,7
+data,sap-business-data-cloud,SAP Business Data Cloud,2026,7
+sec,microsoft-security-copilot-sentinel-defender,"Microsoft (Security Copilot, Sentinel, Defender)",2024,8
+sec,microsoft-security-copilot-sentinel-defender,"Microsoft (Security Copilot, Sentinel, Defender)",2025,8
+sec,microsoft-security-copilot-sentinel-defender,"Microsoft (Security Copilot, Sentinel, Defender)",2026,9
+sec,crowdstrike-charlotte-ai,CrowdStrike (Charlotte AI),2024,7
+sec,crowdstrike-charlotte-ai,CrowdStrike (Charlotte AI),2025,8
+sec,crowdstrike-charlotte-ai,CrowdStrike (Charlotte AI),2026,9
+sec,splunk-cisco,Splunk (Cisco),2024,6
+sec,splunk-cisco,Splunk (Cisco),2025,6
+sec,splunk-cisco,Splunk (Cisco),2026,6
+sec,sentinelone-purple-ai,SentinelOne (Purple AI),2024,7
+sec,sentinelone-purple-ai,SentinelOne (Purple AI),2025,7
+sec,sentinelone-purple-ai,SentinelOne (Purple AI),2026,7
+sec,wiz-google,Wiz (Google),2024,9
+sec,wiz-google,Wiz (Google),2025,9
+sec,wiz-google,Wiz (Google),2026,8
+sec,rapid7,Rapid7,2024,5
+sec,rapid7,Rapid7,2025,4
+sec,rapid7,Rapid7,2026,4
+sec,arctic-wolf,Arctic Wolf,2024,6
+sec,arctic-wolf,Arctic Wolf,2025,7
+sec,arctic-wolf,Arctic Wolf,2026,7
+sec,palo-alto-networks-cortex-xsiam,Palo Alto Networks (Cortex XSIAM),2024,8
+sec,palo-alto-networks-cortex-xsiam,Palo Alto Networks (Cortex XSIAM),2025,9
+sec,palo-alto-networks-cortex-xsiam,Palo Alto Networks (Cortex XSIAM),2026,9
+sec,darktrace,Darktrace,2024,6
+sec,darktrace,Darktrace,2025,6
+sec,darktrace,Darktrace,2026,6
+sec,exabeam-incl-logrhythm,Exabeam (incl. LogRhythm),2024,5
+sec,exabeam-incl-logrhythm,Exabeam (incl. LogRhythm),2025,6
+sec,exabeam-incl-logrhythm,Exabeam (incl. LogRhythm),2026,6
+sec,reliaquest,ReliaQuest,2024,7
+sec,reliaquest,ReliaQuest,2025,8
+sec,reliaquest,ReliaQuest,2026,8
+sec,abnormal-ai,Abnormal AI,2024,8
+sec,abnormal-ai,Abnormal AI,2025,8
+sec,abnormal-ai,Abnormal AI,2026,8
+sec,vectra-ai,Vectra AI,2024,6
+sec,vectra-ai,Vectra AI,2025,6
+sec,vectra-ai,Vectra AI,2026,6
+sec,securonix,Securonix,2024,5
+sec,securonix,Securonix,2025,6
+sec,securonix,Securonix,2026,6
+sec,torq,Torq,2024,7
+sec,torq,Torq,2025,8
+sec,torq,Torq,2026,8
+sec,tines,Tines,2024,7
+sec,tines,Tines,2025,7
+sec,tines,Tines,2026,7
+sec,7ai,7AI,2024,3
+sec,7ai,7AI,2025,7
+sec,7ai,7AI,2026,8
+sec,dropzone-ai,Dropzone AI,2024,5
+sec,dropzone-ai,Dropzone AI,2025,7
+sec,dropzone-ai,Dropzone AI,2026,7
+sec,google-security-operations-incl-mandiant,Google Security Operations (incl. Mandiant),2024,7
+sec,google-security-operations-incl-mandiant,Google Security Operations (incl. Mandiant),2025,8
+sec,google-security-operations-incl-mandiant,Google Security Operations (incl. Mandiant),2026,8
+net,cisco-meraki-catalyst-ai-canvas,"Cisco (Meraki, Catalyst, AI Canvas)",2024,7
+net,cisco-meraki-catalyst-ai-canvas,"Cisco (Meraki, Catalyst, AI Canvas)",2025,8
+net,cisco-meraki-catalyst-ai-canvas,"Cisco (Meraki, Catalyst, AI Canvas)",2026,8
+net,hpe-networking-juniper-mist-aruba,HPE Networking (Juniper Mist + Aruba),2024,8
+net,hpe-networking-juniper-mist-aruba,HPE Networking (Juniper Mist + Aruba),2025,9
+net,hpe-networking-juniper-mist-aruba,HPE Networking (Juniper Mist + Aruba),2026,9
+net,zscaler-zero-trust-branch,Zscaler (Zero Trust Branch),2024,7
+net,zscaler-zero-trust-branch,Zscaler (Zero Trust Branch),2025,8
+net,zscaler-zero-trust-branch,Zscaler (Zero Trust Branch),2026,9
+net,ubiquiti-unifi,Ubiquiti (UniFi),2024,7
+net,ubiquiti-unifi,Ubiquiti (UniFi),2025,9
+net,ubiquiti-unifi,Ubiquiti (UniFi),2026,9
+net,fortinet-fortiap-fortiswitch-fortisase,"Fortinet (FortiAP, FortiSwitch, FortiSASE)",2024,8
+net,fortinet-fortiap-fortiswitch-fortisase,"Fortinet (FortiAP, FortiSwitch, FortiSASE)",2025,8
+net,fortinet-fortiap-fortiswitch-fortisase,"Fortinet (FortiAP, FortiSwitch, FortiSASE)",2026,7
+net,palo-alto-networks-prisma-sase-aiops,"Palo Alto Networks (Prisma SASE, AIOps)",2024,9
+net,palo-alto-networks-prisma-sase-aiops,"Palo Alto Networks (Prisma SASE, AIOps)",2025,9
+net,palo-alto-networks-prisma-sase-aiops,"Palo Alto Networks (Prisma SASE, AIOps)",2026,8
+net,extreme-networks,Extreme Networks,2024,6
+net,extreme-networks,Extreme Networks,2025,7
+net,extreme-networks,Extreme Networks,2026,7
+net,huawei-cloudcampus,Huawei (CloudCampus),2024,7
+net,huawei-cloudcampus,Huawei (CloudCampus),2025,8
+net,huawei-cloudcampus,Huawei (CloudCampus),2026,8
+net,cato-networks,Cato Networks,2024,8
+net,cato-networks,Cato Networks,2025,9
+net,cato-networks,Cato Networks,2026,9
+net,arista-networks,Arista Networks,2024,7
+net,arista-networks,Arista Networks,2025,8
+net,arista-networks,Arista Networks,2026,9
+net,netskope,Netskope,2024,7
+net,netskope,Netskope,2025,8
+net,netskope,Netskope,2026,9
+net,forescout-nac,Forescout (NAC),2024,5
+net,forescout-nac,Forescout (NAC),2025,6
+net,forescout-nac,Forescout (NAC),2026,6
+net,versa-networks,Versa Networks,2024,7
+net,versa-networks,Versa Networks,2025,7
+net,versa-networks,Versa Networks,2026,7
+net,nile,Nile,2024,6
+net,nile,Nile,2025,7
+net,nile,Nile,2026,7
+net,meter,Meter,2024,6
+net,meter,Meter,2025,8
+net,meter,Meter,2026,9
+net,h3c,H3C,2024,6
+net,h3c,H3C,2025,6
+net,h3c,H3C,2026,6
+phys,nvidia-robotics-isaac-gr00t-jetson-thor,NVIDIA Robotics (Isaac / GR00T / Jetson Thor),2024,7
+phys,nvidia-robotics-isaac-gr00t-jetson-thor,NVIDIA Robotics (Isaac / GR00T / Jetson Thor),2025,9
+phys,nvidia-robotics-isaac-gr00t-jetson-thor,NVIDIA Robotics (Isaac / GR00T / Jetson Thor),2026,9
+phys,symbotic,Symbotic,2024,8
+phys,symbotic,Symbotic,2025,7
+phys,symbotic,Symbotic,2026,7
+phys,ubtech-robotics,UBTech Robotics,2024,5
+phys,ubtech-robotics,UBTech Robotics,2025,8
+phys,ubtech-robotics,UBTech Robotics,2026,8
+phys,unitree-robotics,Unitree Robotics,2024,7
+phys,unitree-robotics,Unitree Robotics,2025,9
+phys,unitree-robotics,Unitree Robotics,2026,10
+phys,boston-dynamics,Boston Dynamics,2024,6
+phys,boston-dynamics,Boston Dynamics,2025,7
+phys,boston-dynamics,Boston Dynamics,2026,8
+phys,agibot-zhiyuan-robotics,AgiBot (Zhiyuan Robotics),2024,5
+phys,agibot-zhiyuan-robotics,AgiBot (Zhiyuan Robotics),2025,9
+phys,agibot-zhiyuan-robotics,AgiBot (Zhiyuan Robotics),2026,9
+phys,skild-ai,Skild AI,2024,5
+phys,skild-ai,Skild AI,2025,8
+phys,skild-ai,Skild AI,2026,10
+phys,field-ai,Field AI,2024,4
+phys,field-ai,Field AI,2025,7
+phys,field-ai,Field AI,2026,9
+phys,physical-intelligence,Physical Intelligence (π),2024,7
+phys,physical-intelligence,Physical Intelligence (π),2025,8
+phys,physical-intelligence,Physical Intelligence (π),2026,9
+phys,figure-ai,Figure AI,2024,8
+phys,figure-ai,Figure AI,2025,9
+phys,figure-ai,Figure AI,2026,8
+phys,neura-robotics,NEURA Robotics,2024,6
+phys,neura-robotics,NEURA Robotics,2025,7
+phys,neura-robotics,NEURA Robotics,2026,8
+phys,apptronik,Apptronik,2024,5
+phys,apptronik,Apptronik,2025,7
+phys,apptronik,Apptronik,2026,8
+phys,galbot,Galbot,2024,4
+phys,galbot,Galbot,2025,7
+phys,galbot,Galbot,2026,8
+phys,agility-robotics,Agility Robotics,2024,7
+phys,agility-robotics,Agility Robotics,2025,6
+phys,agility-robotics,Agility Robotics,2026,7
+phys,dexterity,Dexterity,2024,6
+phys,dexterity,Dexterity,2025,7
+phys,dexterity,Dexterity,2026,6
+phys,1x-technologies,1X Technologies,2024,6
+phys,1x-technologies,1X Technologies,2025,7
+phys,1x-technologies,1X Technologies,2026,7
+phys,generative-bionics,Generative Bionics,2024,3
+phys,generative-bionics,Generative Bionics,2025,6
+phys,generative-bionics,Generative Bionics,2026,7
+phys,tesla-optimus,Tesla Optimus,2024,6
+phys,tesla-optimus,Tesla Optimus,2025,6
+phys,tesla-optimus,Tesla Optimus,2026,7
+phys,google-deepmind-gemini-robotics,Google DeepMind Gemini Robotics,2024,6
+phys,google-deepmind-gemini-robotics,Google DeepMind Gemini Robotics,2025,8
+phys,google-deepmind-gemini-robotics,Google DeepMind Gemini Robotics,2026,9

@@ -1,0 +1,40 @@
+{
+ "version": "3.1",
+ "data_as_of": "2026-10-25",
+ "markets": 16,
+ "companies": 286,
+ "unique_companies": 275,
+ "files": {
+  "markets.csv": 16,
+  "companies.csv": 286,
+  "scores.csv": 2288,
+  "momentum.csv": 858,
+  "segment_weights.csv": 384,
+  "funding_rounds.csv": 358,
+  "analyst_views.csv": 70,
+  "excluded.csv": 101,
+  "factcheck_log.csv": 47
+ },
+ "changelog": [
+  {
+   "version": "3.1",
+   "date": "2026-10-25",
+   "note": "Multilingual release: app and PDF report in English, 中文 (Simplified Chinese), Español, Français and Italiano; professional translation of all market, company and UI text (names, acronyms and figures kept in original form); data unchanged from v3.0."
+  },
+  {
+   "version": "3.0",
+   "date": "2026-10-25",
+   "note": "16 SI markets, 286 companies; stage filter, funding & investor view, SI terminology (EO 14434), credits and copyright, per-market PDF. Markets view audit: VC 2025 now published (Crunchbase/PitchBook) plus deduplicated tracked rounds; growth period labeled."
+  },
+  {
+   "version": "2.0",
+   "date": "2026-10-25",
+   "note": "10 markets with 15+ qualified companies each, company sheets, analyst summaries, fact-check, UI v2."
+  },
+  {
+   "version": "1.0",
+   "date": "2026-10-25",
+   "note": "First demo: 5 markets, scoring and sensitivity engine."
+  }
+ ]
+}

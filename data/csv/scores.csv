@@ -1,0 +1,2289 @@
+market_id,company_id,name,criterion,score_1_10
+llm,anthropic,Anthropic,Frontier capability & reasoning,10
+llm,anthropic,Anthropic,Coding & agentic tool use,10
+llm,anthropic,Anthropic,Multimodality & context length,7
+llm,anthropic,Anthropic,Price per token & efficiency,5
+llm,anthropic,Anthropic,Enterprise security & data controls,9
+llm,anthropic,Anthropic,"Deployment options (API, cloud, open weights)",7
+llm,anthropic,Anthropic,Ecosystem & developer adoption,9
+llm,anthropic,Anthropic,Reliability & safety,9
+llm,openai,OpenAI,Frontier capability & reasoning,9
+llm,openai,OpenAI,Coding & agentic tool use,9
+llm,openai,OpenAI,Multimodality & context length,9
+llm,openai,OpenAI,Price per token & efficiency,6
+llm,openai,OpenAI,Enterprise security & data controls,8
+llm,openai,OpenAI,"Deployment options (API, cloud, open weights)",7
+llm,openai,OpenAI,Ecosystem & developer adoption,10
+llm,openai,OpenAI,Reliability & safety,8
+llm,zhipu-ai-z-ai-glm,Zhipu AI (Z.ai / GLM),Frontier capability & reasoning,8
+llm,zhipu-ai-z-ai-glm,Zhipu AI (Z.ai / GLM),Coding & agentic tool use,8
+llm,zhipu-ai-z-ai-glm,Zhipu AI (Z.ai / GLM),Multimodality & context length,6
+llm,zhipu-ai-z-ai-glm,Zhipu AI (Z.ai / GLM),Price per token & efficiency,9
+llm,zhipu-ai-z-ai-glm,Zhipu AI (Z.ai / GLM),Enterprise security & data controls,5
+llm,zhipu-ai-z-ai-glm,Zhipu AI (Z.ai / GLM),"Deployment options (API, cloud, open weights)",8
+llm,zhipu-ai-z-ai-glm,Zhipu AI (Z.ai / GLM),Ecosystem & developer adoption,6
+llm,zhipu-ai-z-ai-glm,Zhipu AI (Z.ai / GLM),Reliability & safety,6
+llm,spacexai-xai-grok,SpaceXAI (xAI / Grok),Frontier capability & reasoning,7
+llm,spacexai-xai-grok,SpaceXAI (xAI / Grok),Coding & agentic tool use,7
+llm,spacexai-xai-grok,SpaceXAI (xAI / Grok),Multimodality & context length,7
+llm,spacexai-xai-grok,SpaceXAI (xAI / Grok),Price per token & efficiency,7
+llm,spacexai-xai-grok,SpaceXAI (xAI / Grok),Enterprise security & data controls,5
+llm,spacexai-xai-grok,SpaceXAI (xAI / Grok),"Deployment options (API, cloud, open weights)",5
+llm,spacexai-xai-grok,SpaceXAI (xAI / Grok),Ecosystem & developer adoption,5
+llm,spacexai-xai-grok,SpaceXAI (xAI / Grok),Reliability & safety,5
+llm,mistral-ai,Mistral AI,Frontier capability & reasoning,7
+llm,mistral-ai,Mistral AI,Coding & agentic tool use,7
+llm,mistral-ai,Mistral AI,Multimodality & context length,7
+llm,mistral-ai,Mistral AI,Price per token & efficiency,8
+llm,mistral-ai,Mistral AI,Enterprise security & data controls,8
+llm,mistral-ai,Mistral AI,"Deployment options (API, cloud, open weights)",10
+llm,mistral-ai,Mistral AI,Ecosystem & developer adoption,7
+llm,mistral-ai,Mistral AI,Reliability & safety,7
+llm,moonshot-ai-kimi,Moonshot AI (Kimi),Frontier capability & reasoning,8
+llm,moonshot-ai-kimi,Moonshot AI (Kimi),Coding & agentic tool use,8
+llm,moonshot-ai-kimi,Moonshot AI (Kimi),Multimodality & context length,6
+llm,moonshot-ai-kimi,Moonshot AI (Kimi),Price per token & efficiency,9
+llm,moonshot-ai-kimi,Moonshot AI (Kimi),Enterprise security & data controls,4
+llm,moonshot-ai-kimi,Moonshot AI (Kimi),"Deployment options (API, cloud, open weights)",8
+llm,moonshot-ai-kimi,Moonshot AI (Kimi),Ecosystem & developer adoption,6
+llm,moonshot-ai-kimi,Moonshot AI (Kimi),Reliability & safety,6
+llm,minimax,MiniMax,Frontier capability & reasoning,6
+llm,minimax,MiniMax,Coding & agentic tool use,7
+llm,minimax,MiniMax,Multimodality & context length,8
+llm,minimax,MiniMax,Price per token & efficiency,9
+llm,minimax,MiniMax,Enterprise security & data controls,4
+llm,minimax,MiniMax,"Deployment options (API, cloud, open weights)",7
+llm,minimax,MiniMax,Ecosystem & developer adoption,5
+llm,minimax,MiniMax,Reliability & safety,5
+llm,cohere,Cohere,Frontier capability & reasoning,6
+llm,cohere,Cohere,Coding & agentic tool use,6
+llm,cohere,Cohere,Multimodality & context length,6
+llm,cohere,Cohere,Price per token & efficiency,7
+llm,cohere,Cohere,Enterprise security & data controls,9
+llm,cohere,Cohere,"Deployment options (API, cloud, open weights)",9
+llm,cohere,Cohere,Ecosystem & developer adoption,5
+llm,cohere,Cohere,Reliability & safety,8
+llm,thinking-machines-lab,Thinking Machines Lab,Frontier capability & reasoning,6
+llm,thinking-machines-lab,Thinking Machines Lab,Coding & agentic tool use,5
+llm,thinking-machines-lab,Thinking Machines Lab,Multimodality & context length,6
+llm,thinking-machines-lab,Thinking Machines Lab,Price per token & efficiency,6
+llm,thinking-machines-lab,Thinking Machines Lab,Enterprise security & data controls,6
+llm,thinking-machines-lab,Thinking Machines Lab,"Deployment options (API, cloud, open weights)",8
+llm,thinking-machines-lab,Thinking Machines Lab,Ecosystem & developer adoption,4
+llm,thinking-machines-lab,Thinking Machines Lab,Reliability & safety,6
+llm,safe-superintelligence-ssi,Safe Superintelligence (SSI),Frontier capability & reasoning,3
+llm,safe-superintelligence-ssi,Safe Superintelligence (SSI),Coding & agentic tool use,2
+llm,safe-superintelligence-ssi,Safe Superintelligence (SSI),Multimodality & context length,2
+llm,safe-superintelligence-ssi,Safe Superintelligence (SSI),Price per token & efficiency,2
+llm,safe-superintelligence-ssi,Safe Superintelligence (SSI),Enterprise security & data controls,3
+llm,safe-superintelligence-ssi,Safe Superintelligence (SSI),"Deployment options (API, cloud, open weights)",2
+llm,safe-superintelligence-ssi,Safe Superintelligence (SSI),Ecosystem & developer adoption,2
+llm,safe-superintelligence-ssi,Safe Superintelligence (SSI),Reliability & safety,5
+llm,reflection-ai,Reflection AI,Frontier capability & reasoning,3
+llm,reflection-ai,Reflection AI,Coding & agentic tool use,3
+llm,reflection-ai,Reflection AI,Multimodality & context length,2
+llm,reflection-ai,Reflection AI,Price per token & efficiency,3
+llm,reflection-ai,Reflection AI,Enterprise security & data controls,4
+llm,reflection-ai,Reflection AI,"Deployment options (API, cloud, open weights)",4
+llm,reflection-ai,Reflection AI,Ecosystem & developer adoption,2
+llm,reflection-ai,Reflection AI,Reliability & safety,4
+llm,ai21-labs,AI21 Labs,Frontier capability & reasoning,5
+llm,ai21-labs,AI21 Labs,Coding & agentic tool use,4
+llm,ai21-labs,AI21 Labs,Multimodality & context length,4
+llm,ai21-labs,AI21 Labs,Price per token & efficiency,7
+llm,ai21-labs,AI21 Labs,Enterprise security & data controls,8
+llm,ai21-labs,AI21 Labs,"Deployment options (API, cloud, open weights)",8
+llm,ai21-labs,AI21 Labs,Ecosystem & developer adoption,3
+llm,ai21-labs,AI21 Labs,Reliability & safety,7
+llm,google-deepmind-gemini,Google DeepMind (Gemini),Frontier capability & reasoning,9
+llm,google-deepmind-gemini,Google DeepMind (Gemini),Coding & agentic tool use,8
+llm,google-deepmind-gemini,Google DeepMind (Gemini),Multimodality & context length,10
+llm,google-deepmind-gemini,Google DeepMind (Gemini),Price per token & efficiency,8
+llm,google-deepmind-gemini,Google DeepMind (Gemini),Enterprise security & data controls,9
+llm,google-deepmind-gemini,Google DeepMind (Gemini),"Deployment options (API, cloud, open weights)",8
+llm,google-deepmind-gemini,Google DeepMind (Gemini),Ecosystem & developer adoption,8
+llm,google-deepmind-gemini,Google DeepMind (Gemini),Reliability & safety,8
+llm,meta-llama-muse,Meta (Llama / Muse),Frontier capability & reasoning,6
+llm,meta-llama-muse,Meta (Llama / Muse),Coding & agentic tool use,6
+llm,meta-llama-muse,Meta (Llama / Muse),Multimodality & context length,7
+llm,meta-llama-muse,Meta (Llama / Muse),Price per token & efficiency,8
+llm,meta-llama-muse,Meta (Llama / Muse),Enterprise security & data controls,5
+llm,meta-llama-muse,Meta (Llama / Muse),"Deployment options (API, cloud, open weights)",9
+llm,meta-llama-muse,Meta (Llama / Muse),Ecosystem & developer adoption,7
+llm,meta-llama-muse,Meta (Llama / Muse),Reliability & safety,6
+llm,microsoft-mai-foundry,Microsoft (MAI + Foundry),Frontier capability & reasoning,6
+llm,microsoft-mai-foundry,Microsoft (MAI + Foundry),Coding & agentic tool use,7
+llm,microsoft-mai-foundry,Microsoft (MAI + Foundry),Multimodality & context length,7
+llm,microsoft-mai-foundry,Microsoft (MAI + Foundry),Price per token & efficiency,7
+llm,microsoft-mai-foundry,Microsoft (MAI + Foundry),Enterprise security & data controls,9
+llm,microsoft-mai-foundry,Microsoft (MAI + Foundry),"Deployment options (API, cloud, open weights)",8
+llm,microsoft-mai-foundry,Microsoft (MAI + Foundry),Ecosystem & developer adoption,7
+llm,microsoft-mai-foundry,Microsoft (MAI + Foundry),Reliability & safety,8
+llm,amazon-nova-bedrock,Amazon (Nova + Bedrock),Frontier capability & reasoning,6
+llm,amazon-nova-bedrock,Amazon (Nova + Bedrock),Coding & agentic tool use,6
+llm,amazon-nova-bedrock,Amazon (Nova + Bedrock),Multimodality & context length,7
+llm,amazon-nova-bedrock,Amazon (Nova + Bedrock),Price per token & efficiency,9
+llm,amazon-nova-bedrock,Amazon (Nova + Bedrock),Enterprise security & data controls,9
+llm,amazon-nova-bedrock,Amazon (Nova + Bedrock),"Deployment options (API, cloud, open weights)",7
+llm,amazon-nova-bedrock,Amazon (Nova + Bedrock),Ecosystem & developer adoption,6
+llm,amazon-nova-bedrock,Amazon (Nova + Bedrock),Reliability & safety,8
+llm,deepseek,DeepSeek,Frontier capability & reasoning,7
+llm,deepseek,DeepSeek,Coding & agentic tool use,7
+llm,deepseek,DeepSeek,Multimodality & context length,5
+llm,deepseek,DeepSeek,Price per token & efficiency,10
+llm,deepseek,DeepSeek,Enterprise security & data controls,4
+llm,deepseek,DeepSeek,"Deployment options (API, cloud, open weights)",8
+llm,deepseek,DeepSeek,Ecosystem & developer adoption,7
+llm,deepseek,DeepSeek,Reliability & safety,5
+llm,alibaba-cloud-qwen,Alibaba Cloud (Qwen),Frontier capability & reasoning,7
+llm,alibaba-cloud-qwen,Alibaba Cloud (Qwen),Coding & agentic tool use,7
+llm,alibaba-cloud-qwen,Alibaba Cloud (Qwen),Multimodality & context length,8
+llm,alibaba-cloud-qwen,Alibaba Cloud (Qwen),Price per token & efficiency,9
+llm,alibaba-cloud-qwen,Alibaba Cloud (Qwen),Enterprise security & data controls,5
+llm,alibaba-cloud-qwen,Alibaba Cloud (Qwen),"Deployment options (API, cloud, open weights)",9
+llm,alibaba-cloud-qwen,Alibaba Cloud (Qwen),Ecosystem & developer adoption,9
+llm,alibaba-cloud-qwen,Alibaba Cloud (Qwen),Reliability & safety,6
+llm,ibm-granite,IBM (Granite),Frontier capability & reasoning,5
+llm,ibm-granite,IBM (Granite),Coding & agentic tool use,5
+llm,ibm-granite,IBM (Granite),Multimodality & context length,5
+llm,ibm-granite,IBM (Granite),Price per token & efficiency,8
+llm,ibm-granite,IBM (Granite),Enterprise security & data controls,10
+llm,ibm-granite,IBM (Granite),"Deployment options (API, cloud, open weights)",10
+llm,ibm-granite,IBM (Granite),Ecosystem & developer adoption,5
+llm,ibm-granite,IBM (Granite),Reliability & safety,9
+llm,nvidia-nemotron,NVIDIA (Nemotron),Frontier capability & reasoning,6
+llm,nvidia-nemotron,NVIDIA (Nemotron),Coding & agentic tool use,7
+llm,nvidia-nemotron,NVIDIA (Nemotron),Multimodality & context length,5
+llm,nvidia-nemotron,NVIDIA (Nemotron),Price per token & efficiency,8
+llm,nvidia-nemotron,NVIDIA (Nemotron),Enterprise security & data controls,7
+llm,nvidia-nemotron,NVIDIA (Nemotron),"Deployment options (API, cloud, open weights)",9
+llm,nvidia-nemotron,NVIDIA (Nemotron),Ecosystem & developer adoption,8
+llm,nvidia-nemotron,NVIDIA (Nemotron),Reliability & safety,7
+aiemp,anthropic,Anthropic,Agent autonomy & task completion,9
+aiemp,anthropic,Anthropic,Model quality & reasoning,10
+aiemp,anthropic,Anthropic,Enterprise integrations & data access,8
+aiemp,anthropic,Anthropic,"Security, governance & compliance",9
+aiemp,anthropic,Anthropic,Ease of deployment & time-to-value,8
+aiemp,anthropic,Anthropic,Pricing & TCO,6
+aiemp,anthropic,Anthropic,Ecosystem & partner network,9
+aiemp,anthropic,Anthropic,Vendor viability & scale,9
+aiemp,openai,OpenAI,Agent autonomy & task completion,9
+aiemp,openai,OpenAI,Model quality & reasoning,10
+aiemp,openai,OpenAI,Enterprise integrations & data access,8
+aiemp,openai,OpenAI,"Security, governance & compliance",8
+aiemp,openai,OpenAI,Ease of deployment & time-to-value,9
+aiemp,openai,OpenAI,Pricing & TCO,6
+aiemp,openai,OpenAI,Ecosystem & partner network,9
+aiemp,openai,OpenAI,Vendor viability & scale,9
+aiemp,microsoft-copilot-agent-365,Microsoft (Copilot + Agent 365),Agent autonomy & task completion,7
+aiemp,microsoft-copilot-agent-365,Microsoft (Copilot + Agent 365),Model quality & reasoning,8
+aiemp,microsoft-copilot-agent-365,Microsoft (Copilot + Agent 365),Enterprise integrations & data access,10
+aiemp,microsoft-copilot-agent-365,Microsoft (Copilot + Agent 365),"Security, governance & compliance",10
+aiemp,microsoft-copilot-agent-365,Microsoft (Copilot + Agent 365),Ease of deployment & time-to-value,8
+aiemp,microsoft-copilot-agent-365,Microsoft (Copilot + Agent 365),Pricing & TCO,6
+aiemp,microsoft-copilot-agent-365,Microsoft (Copilot + Agent 365),Ecosystem & partner network,10
+aiemp,microsoft-copilot-agent-365,Microsoft (Copilot + Agent 365),Vendor viability & scale,10
+aiemp,uipath,UiPath,Agent autonomy & task completion,7
+aiemp,uipath,UiPath,Model quality & reasoning,5
+aiemp,uipath,UiPath,Enterprise integrations & data access,9
+aiemp,uipath,UiPath,"Security, governance & compliance",8
+aiemp,uipath,UiPath,Ease of deployment & time-to-value,6
+aiemp,uipath,UiPath,Pricing & TCO,6
+aiemp,uipath,UiPath,Ecosystem & partner network,8
+aiemp,uipath,UiPath,Vendor viability & scale,7
+aiemp,salesforce-agentforce,Salesforce Agentforce,Agent autonomy & task completion,7
+aiemp,salesforce-agentforce,Salesforce Agentforce,Model quality & reasoning,6
+aiemp,salesforce-agentforce,Salesforce Agentforce,Enterprise integrations & data access,9
+aiemp,salesforce-agentforce,Salesforce Agentforce,"Security, governance & compliance",9
+aiemp,salesforce-agentforce,Salesforce Agentforce,Ease of deployment & time-to-value,6
+aiemp,salesforce-agentforce,Salesforce Agentforce,Pricing & TCO,5
+aiemp,salesforce-agentforce,Salesforce Agentforce,Ecosystem & partner network,9
+aiemp,salesforce-agentforce,Salesforce Agentforce,Vendor viability & scale,9
+aiemp,servicenow-ai-agents-moveworks,ServiceNow (AI Agents + Moveworks),Agent autonomy & task completion,8
+aiemp,servicenow-ai-agents-moveworks,ServiceNow (AI Agents + Moveworks),Model quality & reasoning,6
+aiemp,servicenow-ai-agents-moveworks,ServiceNow (AI Agents + Moveworks),Enterprise integrations & data access,9
+aiemp,servicenow-ai-agents-moveworks,ServiceNow (AI Agents + Moveworks),"Security, governance & compliance",9
+aiemp,servicenow-ai-agents-moveworks,ServiceNow (AI Agents + Moveworks),Ease of deployment & time-to-value,5
+aiemp,servicenow-ai-agents-moveworks,ServiceNow (AI Agents + Moveworks),Pricing & TCO,5
+aiemp,servicenow-ai-agents-moveworks,ServiceNow (AI Agents + Moveworks),Ecosystem & partner network,8
+aiemp,servicenow-ai-agents-moveworks,ServiceNow (AI Agents + Moveworks),Vendor viability & scale,9
+aiemp,cognition-devin-windsurf,Cognition (Devin + Windsurf),Agent autonomy & task completion,9
+aiemp,cognition-devin-windsurf,Cognition (Devin + Windsurf),Model quality & reasoning,7
+aiemp,cognition-devin-windsurf,Cognition (Devin + Windsurf),Enterprise integrations & data access,6
+aiemp,cognition-devin-windsurf,Cognition (Devin + Windsurf),"Security, governance & compliance",7
+aiemp,cognition-devin-windsurf,Cognition (Devin + Windsurf),Ease of deployment & time-to-value,7
+aiemp,cognition-devin-windsurf,Cognition (Devin + Windsurf),Pricing & TCO,6
+aiemp,cognition-devin-windsurf,Cognition (Devin + Windsurf),Ecosystem & partner network,5
+aiemp,cognition-devin-windsurf,Cognition (Devin + Windsurf),Vendor viability & scale,7
+aiemp,xai-spacex,xAI (SpaceX),Agent autonomy & task completion,6
+aiemp,xai-spacex,xAI (SpaceX),Model quality & reasoning,8
+aiemp,xai-spacex,xAI (SpaceX),Enterprise integrations & data access,4
+aiemp,xai-spacex,xAI (SpaceX),"Security, governance & compliance",4
+aiemp,xai-spacex,xAI (SpaceX),Ease of deployment & time-to-value,7
+aiemp,xai-spacex,xAI (SpaceX),Pricing & TCO,8
+aiemp,xai-spacex,xAI (SpaceX),Ecosystem & partner network,4
+aiemp,xai-spacex,xAI (SpaceX),Vendor viability & scale,8
+aiemp,mistral-ai,Mistral AI,Agent autonomy & task completion,6
+aiemp,mistral-ai,Mistral AI,Model quality & reasoning,7
+aiemp,mistral-ai,Mistral AI,Enterprise integrations & data access,6
+aiemp,mistral-ai,Mistral AI,"Security, governance & compliance",9
+aiemp,mistral-ai,Mistral AI,Ease of deployment & time-to-value,6
+aiemp,mistral-ai,Mistral AI,Pricing & TCO,8
+aiemp,mistral-ai,Mistral AI,Ecosystem & partner network,6
+aiemp,mistral-ai,Mistral AI,Vendor viability & scale,7
+aiemp,glean,Glean,Agent autonomy & task completion,6
+aiemp,glean,Glean,Model quality & reasoning,7
+aiemp,glean,Glean,Enterprise integrations & data access,9
+aiemp,glean,Glean,"Security, governance & compliance",8
+aiemp,glean,Glean,Ease of deployment & time-to-value,7
+aiemp,glean,Glean,Pricing & TCO,6
+aiemp,glean,Glean,Ecosystem & partner network,7
+aiemp,glean,Glean,Vendor viability & scale,7
+aiemp,cohere,Cohere,Agent autonomy & task completion,6
+aiemp,cohere,Cohere,Model quality & reasoning,6
+aiemp,cohere,Cohere,Enterprise integrations & data access,7
+aiemp,cohere,Cohere,"Security, governance & compliance",9
+aiemp,cohere,Cohere,Ease of deployment & time-to-value,6
+aiemp,cohere,Cohere,Pricing & TCO,8
+aiemp,cohere,Cohere,Ecosystem & partner network,6
+aiemp,cohere,Cohere,Vendor viability & scale,6
+aiemp,sierra,Sierra,Agent autonomy & task completion,8
+aiemp,sierra,Sierra,Model quality & reasoning,7
+aiemp,sierra,Sierra,Enterprise integrations & data access,7
+aiemp,sierra,Sierra,"Security, governance & compliance",8
+aiemp,sierra,Sierra,Ease of deployment & time-to-value,6
+aiemp,sierra,Sierra,Pricing & TCO,7
+aiemp,sierra,Sierra,Ecosystem & partner network,6
+aiemp,sierra,Sierra,Vendor viability & scale,7
+aiemp,decagon,Decagon,Agent autonomy & task completion,8
+aiemp,decagon,Decagon,Model quality & reasoning,6
+aiemp,decagon,Decagon,Enterprise integrations & data access,6
+aiemp,decagon,Decagon,"Security, governance & compliance",7
+aiemp,decagon,Decagon,Ease of deployment & time-to-value,8
+aiemp,decagon,Decagon,Pricing & TCO,7
+aiemp,decagon,Decagon,Ecosystem & partner network,5
+aiemp,decagon,Decagon,Vendor viability & scale,6
+aiemp,writer,Writer,Agent autonomy & task completion,6
+aiemp,writer,Writer,Model quality & reasoning,6
+aiemp,writer,Writer,Enterprise integrations & data access,6
+aiemp,writer,Writer,"Security, governance & compliance",8
+aiemp,writer,Writer,Ease of deployment & time-to-value,7
+aiemp,writer,Writer,Pricing & TCO,6
+aiemp,writer,Writer,Ecosystem & partner network,5
+aiemp,writer,Writer,Vendor viability & scale,5
+aiemp,google-gemini-enterprise,Google (Gemini Enterprise),Agent autonomy & task completion,8
+aiemp,google-gemini-enterprise,Google (Gemini Enterprise),Model quality & reasoning,9
+aiemp,google-gemini-enterprise,Google (Gemini Enterprise),Enterprise integrations & data access,8
+aiemp,google-gemini-enterprise,Google (Gemini Enterprise),"Security, governance & compliance",9
+aiemp,google-gemini-enterprise,Google (Gemini Enterprise),Ease of deployment & time-to-value,7
+aiemp,google-gemini-enterprise,Google (Gemini Enterprise),Pricing & TCO,7
+aiemp,google-gemini-enterprise,Google (Gemini Enterprise),Ecosystem & partner network,9
+aiemp,google-gemini-enterprise,Google (Gemini Enterprise),Vendor viability & scale,10
+aiemp,aws-bedrock-agentcore-quick-suite,AWS (Bedrock AgentCore + Quick Suite),Agent autonomy & task completion,7
+aiemp,aws-bedrock-agentcore-quick-suite,AWS (Bedrock AgentCore + Quick Suite),Model quality & reasoning,7
+aiemp,aws-bedrock-agentcore-quick-suite,AWS (Bedrock AgentCore + Quick Suite),Enterprise integrations & data access,8
+aiemp,aws-bedrock-agentcore-quick-suite,AWS (Bedrock AgentCore + Quick Suite),"Security, governance & compliance",9
+aiemp,aws-bedrock-agentcore-quick-suite,AWS (Bedrock AgentCore + Quick Suite),Ease of deployment & time-to-value,5
+aiemp,aws-bedrock-agentcore-quick-suite,AWS (Bedrock AgentCore + Quick Suite),Pricing & TCO,7
+aiemp,aws-bedrock-agentcore-quick-suite,AWS (Bedrock AgentCore + Quick Suite),Ecosystem & partner network,9
+aiemp,aws-bedrock-agentcore-quick-suite,AWS (Bedrock AgentCore + Quick Suite),Vendor viability & scale,10
+aiemp,workday-ai-agents,Workday (AI Agents),Agent autonomy & task completion,6
+aiemp,workday-ai-agents,Workday (AI Agents),Model quality & reasoning,5
+aiemp,workday-ai-agents,Workday (AI Agents),Enterprise integrations & data access,7
+aiemp,workday-ai-agents,Workday (AI Agents),"Security, governance & compliance",9
+aiemp,workday-ai-agents,Workday (AI Agents),Ease of deployment & time-to-value,6
+aiemp,workday-ai-agents,Workday (AI Agents),Pricing & TCO,5
+aiemp,workday-ai-agents,Workday (AI Agents),Ecosystem & partner network,7
+aiemp,workday-ai-agents,Workday (AI Agents),Vendor viability & scale,8
+aiemp,ibm-watsonx-orchestrate,IBM (watsonx Orchestrate),Agent autonomy & task completion,6
+aiemp,ibm-watsonx-orchestrate,IBM (watsonx Orchestrate),Model quality & reasoning,5
+aiemp,ibm-watsonx-orchestrate,IBM (watsonx Orchestrate),Enterprise integrations & data access,8
+aiemp,ibm-watsonx-orchestrate,IBM (watsonx Orchestrate),"Security, governance & compliance",9
+aiemp,ibm-watsonx-orchestrate,IBM (watsonx Orchestrate),Ease of deployment & time-to-value,5
+aiemp,ibm-watsonx-orchestrate,IBM (watsonx Orchestrate),Pricing & TCO,5
+aiemp,ibm-watsonx-orchestrate,IBM (watsonx Orchestrate),Ecosystem & partner network,7
+aiemp,ibm-watsonx-orchestrate,IBM (watsonx Orchestrate),Vendor viability & scale,8
+code,anthropic-claude-code,Anthropic Claude Code,Code Quality & Model Performance,10
+code,anthropic-claude-code,Anthropic Claude Code,Agentic Autonomy,9
+code,anthropic-claude-code,Anthropic Claude Code,Codebase Context & Scale,8
+code,anthropic-claude-code,Anthropic Claude Code,IDE & Workflow Integration,7
+code,anthropic-claude-code,Anthropic Claude Code,Enterprise Security & Governance,8
+code,anthropic-claude-code,Anthropic Claude Code,Deployment Flexibility,8
+code,anthropic-claude-code,Anthropic Claude Code,Pricing & Cost Predictability,5
+code,anthropic-claude-code,Anthropic Claude Code,Ease of Use & Time to Value,7
+code,cursor-anysphere,Cursor (Anysphere),Code Quality & Model Performance,9
+code,cursor-anysphere,Cursor (Anysphere),Agentic Autonomy,8
+code,cursor-anysphere,Cursor (Anysphere),Codebase Context & Scale,9
+code,cursor-anysphere,Cursor (Anysphere),IDE & Workflow Integration,9
+code,cursor-anysphere,Cursor (Anysphere),Enterprise Security & Governance,7
+code,cursor-anysphere,Cursor (Anysphere),Deployment Flexibility,5
+code,cursor-anysphere,Cursor (Anysphere),Pricing & Cost Predictability,6
+code,cursor-anysphere,Cursor (Anysphere),Ease of Use & Time to Value,9
+code,github-copilot,GitHub Copilot,Code Quality & Model Performance,7
+code,github-copilot,GitHub Copilot,Agentic Autonomy,7
+code,github-copilot,GitHub Copilot,Codebase Context & Scale,7
+code,github-copilot,GitHub Copilot,IDE & Workflow Integration,10
+code,github-copilot,GitHub Copilot,Enterprise Security & Governance,9
+code,github-copilot,GitHub Copilot,Deployment Flexibility,6
+code,github-copilot,GitHub Copilot,Pricing & Cost Predictability,8
+code,github-copilot,GitHub Copilot,Ease of Use & Time to Value,9
+code,gitlab-duo,GitLab Duo,Code Quality & Model Performance,6
+code,gitlab-duo,GitLab Duo,Agentic Autonomy,6
+code,gitlab-duo,GitLab Duo,Codebase Context & Scale,7
+code,gitlab-duo,GitLab Duo,IDE & Workflow Integration,7
+code,gitlab-duo,GitLab Duo,Enterprise Security & Governance,9
+code,gitlab-duo,GitLab Duo,Deployment Flexibility,9
+code,gitlab-duo,GitLab Duo,Pricing & Cost Predictability,7
+code,gitlab-duo,GitLab Duo,Ease of Use & Time to Value,6
+code,cognition-devin-windsurf,Cognition (Devin + Windsurf),Code Quality & Model Performance,8
+code,cognition-devin-windsurf,Cognition (Devin + Windsurf),Agentic Autonomy,9
+code,cognition-devin-windsurf,Cognition (Devin + Windsurf),Codebase Context & Scale,8
+code,cognition-devin-windsurf,Cognition (Devin + Windsurf),IDE & Workflow Integration,8
+code,cognition-devin-windsurf,Cognition (Devin + Windsurf),Enterprise Security & Governance,8
+code,cognition-devin-windsurf,Cognition (Devin + Windsurf),Deployment Flexibility,7
+code,cognition-devin-windsurf,Cognition (Devin + Windsurf),Pricing & Cost Predictability,5
+code,cognition-devin-windsurf,Cognition (Devin + Windsurf),Ease of Use & Time to Value,6
+code,lovable,Lovable,Code Quality & Model Performance,6
+code,lovable,Lovable,Agentic Autonomy,7
+code,lovable,Lovable,Codebase Context & Scale,4
+code,lovable,Lovable,IDE & Workflow Integration,4
+code,lovable,Lovable,Enterprise Security & Governance,5
+code,lovable,Lovable,Deployment Flexibility,4
+code,lovable,Lovable,Pricing & Cost Predictability,7
+code,lovable,Lovable,Ease of Use & Time to Value,10
+code,vercel-v0,Vercel v0,Code Quality & Model Performance,7
+code,vercel-v0,Vercel v0,Agentic Autonomy,6
+code,vercel-v0,Vercel v0,Codebase Context & Scale,5
+code,vercel-v0,Vercel v0,IDE & Workflow Integration,6
+code,vercel-v0,Vercel v0,Enterprise Security & Governance,7
+code,vercel-v0,Vercel v0,Deployment Flexibility,5
+code,vercel-v0,Vercel v0,Pricing & Cost Predictability,6
+code,vercel-v0,Vercel v0,Ease of Use & Time to Value,9
+code,replit,Replit,Code Quality & Model Performance,6
+code,replit,Replit,Agentic Autonomy,8
+code,replit,Replit,Codebase Context & Scale,5
+code,replit,Replit,IDE & Workflow Integration,5
+code,replit,Replit,Enterprise Security & Governance,6
+code,replit,Replit,Deployment Flexibility,5
+code,replit,Replit,Pricing & Cost Predictability,5
+code,replit,Replit,Ease of Use & Time to Value,9
+code,harness-ai,Harness AI,Code Quality & Model Performance,5
+code,harness-ai,Harness AI,Agentic Autonomy,6
+code,harness-ai,Harness AI,Codebase Context & Scale,6
+code,harness-ai,Harness AI,IDE & Workflow Integration,6
+code,harness-ai,Harness AI,Enterprise Security & Governance,9
+code,harness-ai,Harness AI,Deployment Flexibility,8
+code,harness-ai,Harness AI,Pricing & Cost Predictability,6
+code,harness-ai,Harness AI,Ease of Use & Time to Value,5
+code,bolt-new-stackblitz,Bolt.new (StackBlitz),Code Quality & Model Performance,6
+code,bolt-new-stackblitz,Bolt.new (StackBlitz),Agentic Autonomy,6
+code,bolt-new-stackblitz,Bolt.new (StackBlitz),Codebase Context & Scale,3
+code,bolt-new-stackblitz,Bolt.new (StackBlitz),IDE & Workflow Integration,4
+code,bolt-new-stackblitz,Bolt.new (StackBlitz),Enterprise Security & Governance,4
+code,bolt-new-stackblitz,Bolt.new (StackBlitz),Deployment Flexibility,4
+code,bolt-new-stackblitz,Bolt.new (StackBlitz),Pricing & Cost Predictability,6
+code,bolt-new-stackblitz,Bolt.new (StackBlitz),Ease of Use & Time to Value,9
+code,augment-code,Augment Code,Code Quality & Model Performance,7
+code,augment-code,Augment Code,Agentic Autonomy,7
+code,augment-code,Augment Code,Codebase Context & Scale,9
+code,augment-code,Augment Code,IDE & Workflow Integration,7
+code,augment-code,Augment Code,Enterprise Security & Governance,7
+code,augment-code,Augment Code,Deployment Flexibility,5
+code,augment-code,Augment Code,Pricing & Cost Predictability,6
+code,augment-code,Augment Code,Ease of Use & Time to Value,6
+code,poolside,Poolside,Code Quality & Model Performance,6
+code,poolside,Poolside,Agentic Autonomy,6
+code,poolside,Poolside,Codebase Context & Scale,6
+code,poolside,Poolside,IDE & Workflow Integration,5
+code,poolside,Poolside,Enterprise Security & Governance,9
+code,poolside,Poolside,Deployment Flexibility,10
+code,poolside,Poolside,Pricing & Cost Predictability,6
+code,poolside,Poolside,Ease of Use & Time to Value,4
+code,factory,Factory,Code Quality & Model Performance,8
+code,factory,Factory,Agentic Autonomy,9
+code,factory,Factory,Codebase Context & Scale,7
+code,factory,Factory,IDE & Workflow Integration,7
+code,factory,Factory,Enterprise Security & Governance,7
+code,factory,Factory,Deployment Flexibility,6
+code,factory,Factory,Pricing & Cost Predictability,5
+code,factory,Factory,Ease of Use & Time to Value,6
+code,sourcegraph-amp,Sourcegraph / Amp,Code Quality & Model Performance,7
+code,sourcegraph-amp,Sourcegraph / Amp,Agentic Autonomy,8
+code,sourcegraph-amp,Sourcegraph / Amp,Codebase Context & Scale,9
+code,sourcegraph-amp,Sourcegraph / Amp,IDE & Workflow Integration,6
+code,sourcegraph-amp,Sourcegraph / Amp,Enterprise Security & Governance,7
+code,sourcegraph-amp,Sourcegraph / Amp,Deployment Flexibility,7
+code,sourcegraph-amp,Sourcegraph / Amp,Pricing & Cost Predictability,5
+code,sourcegraph-amp,Sourcegraph / Amp,Ease of Use & Time to Value,6
+code,openai-codex,OpenAI Codex,Code Quality & Model Performance,9
+code,openai-codex,OpenAI Codex,Agentic Autonomy,9
+code,openai-codex,OpenAI Codex,Codebase Context & Scale,7
+code,openai-codex,OpenAI Codex,IDE & Workflow Integration,7
+code,openai-codex,OpenAI Codex,Enterprise Security & Governance,7
+code,openai-codex,OpenAI Codex,Deployment Flexibility,6
+code,openai-codex,OpenAI Codex,Pricing & Cost Predictability,7
+code,openai-codex,OpenAI Codex,Ease of Use & Time to Value,8
+code,google-gemini-code-assist-jules-antigravity,Google (Gemini Code Assist / Jules / Antigravity),Code Quality & Model Performance,8
+code,google-gemini-code-assist-jules-antigravity,Google (Gemini Code Assist / Jules / Antigravity),Agentic Autonomy,7
+code,google-gemini-code-assist-jules-antigravity,Google (Gemini Code Assist / Jules / Antigravity),Codebase Context & Scale,8
+code,google-gemini-code-assist-jules-antigravity,Google (Gemini Code Assist / Jules / Antigravity),IDE & Workflow Integration,7
+code,google-gemini-code-assist-jules-antigravity,Google (Gemini Code Assist / Jules / Antigravity),Enterprise Security & Governance,8
+code,google-gemini-code-assist-jules-antigravity,Google (Gemini Code Assist / Jules / Antigravity),Deployment Flexibility,6
+code,google-gemini-code-assist-jules-antigravity,Google (Gemini Code Assist / Jules / Antigravity),Pricing & Cost Predictability,8
+code,google-gemini-code-assist-jules-antigravity,Google (Gemini Code Assist / Jules / Antigravity),Ease of Use & Time to Value,7
+code,amazon-q-developer-kiro,Amazon Q Developer / Kiro,Code Quality & Model Performance,7
+code,amazon-q-developer-kiro,Amazon Q Developer / Kiro,Agentic Autonomy,7
+code,amazon-q-developer-kiro,Amazon Q Developer / Kiro,Codebase Context & Scale,7
+code,amazon-q-developer-kiro,Amazon Q Developer / Kiro,IDE & Workflow Integration,6
+code,amazon-q-developer-kiro,Amazon Q Developer / Kiro,Enterprise Security & Governance,9
+code,amazon-q-developer-kiro,Amazon Q Developer / Kiro,Deployment Flexibility,7
+code,amazon-q-developer-kiro,Amazon Q Developer / Kiro,Pricing & Cost Predictability,7
+code,amazon-q-developer-kiro,Amazon Q Developer / Kiro,Ease of Use & Time to Value,6
+cx,salesforce-agentforce-service,Salesforce Agentforce Service,Autonomous resolution quality,7
+cx,salesforce-agentforce-service,Salesforce Agentforce Service,Voice & omnichannel coverage,7
+cx,salesforce-agentforce-service,Salesforce Agentforce Service,Enterprise integrations & actions,10
+cx,salesforce-agentforce-service,Salesforce Agentforce Service,Time to value,4
+cx,salesforce-agentforce-service,Salesforce Agentforce Service,Pricing transparency & outcome alignment,5
+cx,salesforce-agentforce-service,Salesforce Agentforce Service,"Security, compliance & guardrails",9
+cx,salesforce-agentforce-service,Salesforce Agentforce Service,"Analytics, QA & optimization",8
+cx,salesforce-agentforce-service,Salesforce Agentforce Service,Scale & vendor viability,10
+cx,genesys,Genesys,Autonomous resolution quality,7
+cx,genesys,Genesys,Voice & omnichannel coverage,10
+cx,genesys,Genesys,Enterprise integrations & actions,8
+cx,genesys,Genesys,Time to value,5
+cx,genesys,Genesys,Pricing transparency & outcome alignment,5
+cx,genesys,Genesys,"Security, compliance & guardrails",9
+cx,genesys,Genesys,"Analytics, QA & optimization",9
+cx,genesys,Genesys,Scale & vendor viability,9
+cx,nice-cxone-mpower-cognigy,NiCE (CXone Mpower + Cognigy),Autonomous resolution quality,8
+cx,nice-cxone-mpower-cognigy,NiCE (CXone Mpower + Cognigy),Voice & omnichannel coverage,10
+cx,nice-cxone-mpower-cognigy,NiCE (CXone Mpower + Cognigy),Enterprise integrations & actions,8
+cx,nice-cxone-mpower-cognigy,NiCE (CXone Mpower + Cognigy),Time to value,5
+cx,nice-cxone-mpower-cognigy,NiCE (CXone Mpower + Cognigy),Pricing transparency & outcome alignment,5
+cx,nice-cxone-mpower-cognigy,NiCE (CXone Mpower + Cognigy),"Security, compliance & guardrails",9
+cx,nice-cxone-mpower-cognigy,NiCE (CXone Mpower + Cognigy),"Analytics, QA & optimization",10
+cx,nice-cxone-mpower-cognigy,NiCE (CXone Mpower + Cognigy),Scale & vendor viability,9
+cx,zendesk,Zendesk,Autonomous resolution quality,7
+cx,zendesk,Zendesk,Voice & omnichannel coverage,6
+cx,zendesk,Zendesk,Enterprise integrations & actions,7
+cx,zendesk,Zendesk,Time to value,8
+cx,zendesk,Zendesk,Pricing transparency & outcome alignment,8
+cx,zendesk,Zendesk,"Security, compliance & guardrails",8
+cx,zendesk,Zendesk,"Analytics, QA & optimization",8
+cx,zendesk,Zendesk,Scale & vendor viability,9
+cx,five9,Five9,Autonomous resolution quality,6
+cx,five9,Five9,Voice & omnichannel coverage,9
+cx,five9,Five9,Enterprise integrations & actions,7
+cx,five9,Five9,Time to value,6
+cx,five9,Five9,Pricing transparency & outcome alignment,5
+cx,five9,Five9,"Security, compliance & guardrails",8
+cx,five9,Five9,"Analytics, QA & optimization",7
+cx,five9,Five9,Scale & vendor viability,8
+cx,amazon-connect,Amazon Connect,Autonomous resolution quality,7
+cx,amazon-connect,Amazon Connect,Voice & omnichannel coverage,9
+cx,amazon-connect,Amazon Connect,Enterprise integrations & actions,8
+cx,amazon-connect,Amazon Connect,Time to value,5
+cx,amazon-connect,Amazon Connect,Pricing transparency & outcome alignment,8
+cx,amazon-connect,Amazon Connect,"Security, compliance & guardrails",9
+cx,amazon-connect,Amazon Connect,"Analytics, QA & optimization",7
+cx,amazon-connect,Amazon Connect,Scale & vendor viability,10
+cx,talkdesk,Talkdesk,Autonomous resolution quality,6
+cx,talkdesk,Talkdesk,Voice & omnichannel coverage,8
+cx,talkdesk,Talkdesk,Enterprise integrations & actions,6
+cx,talkdesk,Talkdesk,Time to value,7
+cx,talkdesk,Talkdesk,Pricing transparency & outcome alignment,5
+cx,talkdesk,Talkdesk,"Security, compliance & guardrails",7
+cx,talkdesk,Talkdesk,"Analytics, QA & optimization",7
+cx,talkdesk,Talkdesk,Scale & vendor viability,6
+cx,fin-formerly-intercom,Fin (formerly Intercom),Autonomous resolution quality,9
+cx,fin-formerly-intercom,Fin (formerly Intercom),Voice & omnichannel coverage,6
+cx,fin-formerly-intercom,Fin (formerly Intercom),Enterprise integrations & actions,7
+cx,fin-formerly-intercom,Fin (formerly Intercom),Time to value,9
+cx,fin-formerly-intercom,Fin (formerly Intercom),Pricing transparency & outcome alignment,9
+cx,fin-formerly-intercom,Fin (formerly Intercom),"Security, compliance & guardrails",7
+cx,fin-formerly-intercom,Fin (formerly Intercom),"Analytics, QA & optimization",7
+cx,fin-formerly-intercom,Fin (formerly Intercom),Scale & vendor viability,8
+cx,liveperson,LivePerson,Autonomous resolution quality,5
+cx,liveperson,LivePerson,Voice & omnichannel coverage,6
+cx,liveperson,LivePerson,Enterprise integrations & actions,6
+cx,liveperson,LivePerson,Time to value,5
+cx,liveperson,LivePerson,Pricing transparency & outcome alignment,5
+cx,liveperson,LivePerson,"Security, compliance & guardrails",7
+cx,liveperson,LivePerson,"Analytics, QA & optimization",6
+cx,liveperson,LivePerson,Scale & vendor viability,3
+cx,sierra,Sierra,Autonomous resolution quality,9
+cx,sierra,Sierra,Voice & omnichannel coverage,8
+cx,sierra,Sierra,Enterprise integrations & actions,8
+cx,sierra,Sierra,Time to value,6
+cx,sierra,Sierra,Pricing transparency & outcome alignment,8
+cx,sierra,Sierra,"Security, compliance & guardrails",8
+cx,sierra,Sierra,"Analytics, QA & optimization",8
+cx,sierra,Sierra,Scale & vendor viability,8
+cx,uniphore,Uniphore,Autonomous resolution quality,6
+cx,uniphore,Uniphore,Voice & omnichannel coverage,7
+cx,uniphore,Uniphore,Enterprise integrations & actions,7
+cx,uniphore,Uniphore,Time to value,5
+cx,uniphore,Uniphore,Pricing transparency & outcome alignment,5
+cx,uniphore,Uniphore,"Security, compliance & guardrails",9
+cx,uniphore,Uniphore,"Analytics, QA & optimization",8
+cx,uniphore,Uniphore,Scale & vendor viability,7
+cx,decagon,Decagon,Autonomous resolution quality,9
+cx,decagon,Decagon,Voice & omnichannel coverage,7
+cx,decagon,Decagon,Enterprise integrations & actions,8
+cx,decagon,Decagon,Time to value,7
+cx,decagon,Decagon,Pricing transparency & outcome alignment,7
+cx,decagon,Decagon,"Security, compliance & guardrails",7
+cx,decagon,Decagon,"Analytics, QA & optimization",8
+cx,decagon,Decagon,Scale & vendor viability,7
+cx,parloa,Parloa,Autonomous resolution quality,8
+cx,parloa,Parloa,Voice & omnichannel coverage,9
+cx,parloa,Parloa,Enterprise integrations & actions,7
+cx,parloa,Parloa,Time to value,6
+cx,parloa,Parloa,Pricing transparency & outcome alignment,6
+cx,parloa,Parloa,"Security, compliance & guardrails",8
+cx,parloa,Parloa,"Analytics, QA & optimization",7
+cx,parloa,Parloa,Scale & vendor viability,6
+cx,cresta,Cresta,Autonomous resolution quality,6
+cx,cresta,Cresta,Voice & omnichannel coverage,8
+cx,cresta,Cresta,Enterprise integrations & actions,7
+cx,cresta,Cresta,Time to value,6
+cx,cresta,Cresta,Pricing transparency & outcome alignment,5
+cx,cresta,Cresta,"Security, compliance & guardrails",8
+cx,cresta,Cresta,"Analytics, QA & optimization",10
+cx,cresta,Cresta,Scale & vendor viability,6
+cx,polyai,PolyAI,Autonomous resolution quality,7
+cx,polyai,PolyAI,Voice & omnichannel coverage,7
+cx,polyai,PolyAI,Enterprise integrations & actions,6
+cx,polyai,PolyAI,Time to value,6
+cx,polyai,PolyAI,Pricing transparency & outcome alignment,6
+cx,polyai,PolyAI,"Security, compliance & guardrails",7
+cx,polyai,PolyAI,"Analytics, QA & optimization",6
+cx,polyai,PolyAI,Scale & vendor viability,5
+cx,kore-ai,Kore.ai,Autonomous resolution quality,8
+cx,kore-ai,Kore.ai,Voice & omnichannel coverage,8
+cx,kore-ai,Kore.ai,Enterprise integrations & actions,8
+cx,kore-ai,Kore.ai,Time to value,5
+cx,kore-ai,Kore.ai,Pricing transparency & outcome alignment,5
+cx,kore-ai,Kore.ai,"Security, compliance & guardrails",9
+cx,kore-ai,Kore.ai,"Analytics, QA & optimization",7
+cx,kore-ai,Kore.ai,Scale & vendor viability,7
+cx,ada,Ada,Autonomous resolution quality,7
+cx,ada,Ada,Voice & omnichannel coverage,6
+cx,ada,Ada,Enterprise integrations & actions,6
+cx,ada,Ada,Time to value,8
+cx,ada,Ada,Pricing transparency & outcome alignment,8
+cx,ada,Ada,"Security, compliance & guardrails",7
+cx,ada,Ada,"Analytics, QA & optimization",7
+cx,ada,Ada,Scale & vendor viability,5
+cx,servicenow-customer-service-management,ServiceNow Customer Service Management,Autonomous resolution quality,7
+cx,servicenow-customer-service-management,ServiceNow Customer Service Management,Voice & omnichannel coverage,5
+cx,servicenow-customer-service-management,ServiceNow Customer Service Management,Enterprise integrations & actions,10
+cx,servicenow-customer-service-management,ServiceNow Customer Service Management,Time to value,4
+cx,servicenow-customer-service-management,ServiceNow Customer Service Management,Pricing transparency & outcome alignment,4
+cx,servicenow-customer-service-management,ServiceNow Customer Service Management,"Security, compliance & guardrails",10
+cx,servicenow-customer-service-management,ServiceNow Customer Service Management,"Analytics, QA & optimization",7
+cx,servicenow-customer-service-management,ServiceNow Customer Service Management,Scale & vendor viability,10
+crm,salesforce,Salesforce,SI agents & automation,9
+crm,salesforce,Salesforce,Unified customer data,9
+crm,salesforce,Salesforce,Ease of use & time-to-value,5
+crm,salesforce,Salesforce,Customization & low-code,9
+crm,salesforce,Salesforce,Ecosystem & integrations,10
+crm,salesforce,Salesforce,Enterprise security & governance,9
+crm,salesforce,Salesforce,Pricing & TCO,4
+crm,salesforce,Salesforce,Industry depth,9
+crm,microsoft-dynamics-365,Microsoft Dynamics 365,SI agents & automation,8
+crm,microsoft-dynamics-365,Microsoft Dynamics 365,Unified customer data,8
+crm,microsoft-dynamics-365,Microsoft Dynamics 365,Ease of use & time-to-value,6
+crm,microsoft-dynamics-365,Microsoft Dynamics 365,Customization & low-code,9
+crm,microsoft-dynamics-365,Microsoft Dynamics 365,Ecosystem & integrations,9
+crm,microsoft-dynamics-365,Microsoft Dynamics 365,Enterprise security & governance,9
+crm,microsoft-dynamics-365,Microsoft Dynamics 365,Pricing & TCO,6
+crm,microsoft-dynamics-365,Microsoft Dynamics 365,Industry depth,7
+crm,oracle-cx,Oracle CX,SI agents & automation,7
+crm,oracle-cx,Oracle CX,Unified customer data,8
+crm,oracle-cx,Oracle CX,Ease of use & time-to-value,5
+crm,oracle-cx,Oracle CX,Customization & low-code,7
+crm,oracle-cx,Oracle CX,Ecosystem & integrations,6
+crm,oracle-cx,Oracle CX,Enterprise security & governance,9
+crm,oracle-cx,Oracle CX,Pricing & TCO,5
+crm,oracle-cx,Oracle CX,Industry depth,8
+crm,hubspot,HubSpot,SI agents & automation,8
+crm,hubspot,HubSpot,Unified customer data,8
+crm,hubspot,HubSpot,Ease of use & time-to-value,9
+crm,hubspot,HubSpot,Customization & low-code,6
+crm,hubspot,HubSpot,Ecosystem & integrations,9
+crm,hubspot,HubSpot,Enterprise security & governance,6
+crm,hubspot,HubSpot,Pricing & TCO,7
+crm,hubspot,HubSpot,Industry depth,5
+crm,sap-sales-cloud,SAP Sales Cloud,SI agents & automation,7
+crm,sap-sales-cloud,SAP Sales Cloud,Unified customer data,8
+crm,sap-sales-cloud,SAP Sales Cloud,Ease of use & time-to-value,4
+crm,sap-sales-cloud,SAP Sales Cloud,Customization & low-code,6
+crm,sap-sales-cloud,SAP Sales Cloud,Ecosystem & integrations,6
+crm,sap-sales-cloud,SAP Sales Cloud,Enterprise security & governance,9
+crm,sap-sales-cloud,SAP Sales Cloud,Pricing & TCO,5
+crm,sap-sales-cloud,SAP Sales Cloud,Industry depth,8
+crm,pegasystems,Pegasystems,SI agents & automation,8
+crm,pegasystems,Pegasystems,Unified customer data,7
+crm,pegasystems,Pegasystems,Ease of use & time-to-value,4
+crm,pegasystems,Pegasystems,Customization & low-code,9
+crm,pegasystems,Pegasystems,Ecosystem & integrations,5
+crm,pegasystems,Pegasystems,Enterprise security & governance,9
+crm,pegasystems,Pegasystems,Pricing & TCO,4
+crm,pegasystems,Pegasystems,Industry depth,9
+crm,monday-crm,monday CRM,SI agents & automation,6
+crm,monday-crm,monday CRM,Unified customer data,5
+crm,monday-crm,monday CRM,Ease of use & time-to-value,9
+crm,monday-crm,monday CRM,Customization & low-code,8
+crm,monday-crm,monday CRM,Ecosystem & integrations,7
+crm,monday-crm,monday CRM,Enterprise security & governance,6
+crm,monday-crm,monday CRM,Pricing & TCO,7
+crm,monday-crm,monday CRM,Industry depth,4
+crm,servicenow-crm,ServiceNow CRM,SI agents & automation,8
+crm,servicenow-crm,ServiceNow CRM,Unified customer data,8
+crm,servicenow-crm,ServiceNow CRM,Ease of use & time-to-value,5
+crm,servicenow-crm,ServiceNow CRM,Customization & low-code,8
+crm,servicenow-crm,ServiceNow CRM,Ecosystem & integrations,7
+crm,servicenow-crm,ServiceNow CRM,Enterprise security & governance,9
+crm,servicenow-crm,ServiceNow CRM,Pricing & TCO,4
+crm,servicenow-crm,ServiceNow CRM,Industry depth,7
+crm,freshworks-freshsales,Freshworks (Freshsales),SI agents & automation,6
+crm,freshworks-freshsales,Freshworks (Freshsales),Unified customer data,6
+crm,freshworks-freshsales,Freshworks (Freshsales),Ease of use & time-to-value,8
+crm,freshworks-freshsales,Freshworks (Freshsales),Customization & low-code,5
+crm,freshworks-freshsales,Freshworks (Freshsales),Ecosystem & integrations,6
+crm,freshworks-freshsales,Freshworks (Freshsales),Enterprise security & governance,6
+crm,freshworks-freshsales,Freshworks (Freshsales),Pricing & TCO,8
+crm,freshworks-freshsales,Freshworks (Freshsales),Industry depth,4
+crm,zoho-crm,Zoho CRM,SI agents & automation,6
+crm,zoho-crm,Zoho CRM,Unified customer data,7
+crm,zoho-crm,Zoho CRM,Ease of use & time-to-value,7
+crm,zoho-crm,Zoho CRM,Customization & low-code,8
+crm,zoho-crm,Zoho CRM,Ecosystem & integrations,6
+crm,zoho-crm,Zoho CRM,Enterprise security & governance,6
+crm,zoho-crm,Zoho CRM,Pricing & TCO,10
+crm,zoho-crm,Zoho CRM,Industry depth,5
+crm,apollo-io,Apollo.io,SI agents & automation,7
+crm,apollo-io,Apollo.io,Unified customer data,7
+crm,apollo-io,Apollo.io,Ease of use & time-to-value,8
+crm,apollo-io,Apollo.io,Customization & low-code,4
+crm,apollo-io,Apollo.io,Ecosystem & integrations,6
+crm,apollo-io,Apollo.io,Enterprise security & governance,5
+crm,apollo-io,Apollo.io,Pricing & TCO,8
+crm,apollo-io,Apollo.io,Industry depth,3
+crm,clay,Clay,SI agents & automation,9
+crm,clay,Clay,Unified customer data,8
+crm,clay,Clay,Ease of use & time-to-value,6
+crm,clay,Clay,Customization & low-code,8
+crm,clay,Clay,Ecosystem & integrations,8
+crm,clay,Clay,Enterprise security & governance,5
+crm,clay,Clay,Pricing & TCO,6
+crm,clay,Clay,Industry depth,3
+crm,creatio,Creatio,SI agents & automation,8
+crm,creatio,Creatio,Unified customer data,6
+crm,creatio,Creatio,Ease of use & time-to-value,7
+crm,creatio,Creatio,Customization & low-code,9
+crm,creatio,Creatio,Ecosystem & integrations,5
+crm,creatio,Creatio,Enterprise security & governance,7
+crm,creatio,Creatio,Pricing & TCO,7
+crm,creatio,Creatio,Industry depth,7
+crm,pipedrive,Pipedrive,SI agents & automation,5
+crm,pipedrive,Pipedrive,Unified customer data,5
+crm,pipedrive,Pipedrive,Ease of use & time-to-value,9
+crm,pipedrive,Pipedrive,Customization & low-code,5
+crm,pipedrive,Pipedrive,Ecosystem & integrations,7
+crm,pipedrive,Pipedrive,Enterprise security & governance,5
+crm,pipedrive,Pipedrive,Pricing & TCO,8
+crm,pipedrive,Pipedrive,Industry depth,3
+crm,sugarcrm,SugarCRM,SI agents & automation,5
+crm,sugarcrm,SugarCRM,Unified customer data,6
+crm,sugarcrm,SugarCRM,Ease of use & time-to-value,6
+crm,sugarcrm,SugarCRM,Customization & low-code,7
+crm,sugarcrm,SugarCRM,Ecosystem & integrations,5
+crm,sugarcrm,SugarCRM,Enterprise security & governance,7
+crm,sugarcrm,SugarCRM,Pricing & TCO,7
+crm,sugarcrm,SugarCRM,Industry depth,5
+crm,attio,Attio,SI agents & automation,8
+crm,attio,Attio,Unified customer data,7
+crm,attio,Attio,Ease of use & time-to-value,9
+crm,attio,Attio,Customization & low-code,8
+crm,attio,Attio,Ecosystem & integrations,6
+crm,attio,Attio,Enterprise security & governance,5
+crm,attio,Attio,Pricing & TCO,7
+crm,attio,Attio,Industry depth,3
+crm,copper,Copper,SI agents & automation,4
+crm,copper,Copper,Unified customer data,5
+crm,copper,Copper,Ease of use & time-to-value,8
+crm,copper,Copper,Customization & low-code,4
+crm,copper,Copper,Ecosystem & integrations,5
+crm,copper,Copper,Enterprise security & governance,4
+crm,copper,Copper,Pricing & TCO,7
+crm,copper,Copper,Industry depth,3
+rev,zoominfo,ZoomInfo,SI agent & automation depth,7
+rev,zoominfo,ZoomInfo,Data coverage & quality,10
+rev,zoominfo,ZoomInfo,Conversation & signal intelligence,6
+rev,zoominfo,ZoomInfo,Forecasting & pipeline analytics,4
+rev,zoominfo,ZoomInfo,CRM & workflow integration,8
+rev,zoominfo,ZoomInfo,Ease of use & time-to-value,7
+rev,zoominfo,ZoomInfo,Pricing & TCO,4
+rev,zoominfo,ZoomInfo,Enterprise security & scale,9
+rev,gong,Gong,SI agent & automation depth,9
+rev,gong,Gong,Data coverage & quality,7
+rev,gong,Gong,Conversation & signal intelligence,10
+rev,gong,Gong,Forecasting & pipeline analytics,8
+rev,gong,Gong,CRM & workflow integration,8
+rev,gong,Gong,Ease of use & time-to-value,8
+rev,gong,Gong,Pricing & TCO,5
+rev,gong,Gong,Enterprise security & scale,9
+rev,salesloft-incl-clari,Salesloft (incl. Clari),SI agent & automation depth,7
+rev,salesloft-incl-clari,Salesloft (incl. Clari),Data coverage & quality,6
+rev,salesloft-incl-clari,Salesloft (incl. Clari),Conversation & signal intelligence,7
+rev,salesloft-incl-clari,Salesloft (incl. Clari),Forecasting & pipeline analytics,10
+rev,salesloft-incl-clari,Salesloft (incl. Clari),CRM & workflow integration,8
+rev,salesloft-incl-clari,Salesloft (incl. Clari),Ease of use & time-to-value,7
+rev,salesloft-incl-clari,Salesloft (incl. Clari),Pricing & TCO,6
+rev,salesloft-incl-clari,Salesloft (incl. Clari),Enterprise security & scale,9
+rev,seismic-incl-highspot-pending,"Seismic (incl. Highspot, pending)",SI agent & automation depth,6
+rev,seismic-incl-highspot-pending,"Seismic (incl. Highspot, pending)",Data coverage & quality,4
+rev,seismic-incl-highspot-pending,"Seismic (incl. Highspot, pending)",Conversation & signal intelligence,6
+rev,seismic-incl-highspot-pending,"Seismic (incl. Highspot, pending)",Forecasting & pipeline analytics,4
+rev,seismic-incl-highspot-pending,"Seismic (incl. Highspot, pending)",CRM & workflow integration,8
+rev,seismic-incl-highspot-pending,"Seismic (incl. Highspot, pending)",Ease of use & time-to-value,5
+rev,seismic-incl-highspot-pending,"Seismic (incl. Highspot, pending)",Pricing & TCO,5
+rev,seismic-incl-highspot-pending,"Seismic (incl. Highspot, pending)",Enterprise security & scale,9
+rev,outreach,Outreach,SI agent & automation depth,8
+rev,outreach,Outreach,Data coverage & quality,6
+rev,outreach,Outreach,Conversation & signal intelligence,8
+rev,outreach,Outreach,Forecasting & pipeline analytics,8
+rev,outreach,Outreach,CRM & workflow integration,9
+rev,outreach,Outreach,Ease of use & time-to-value,6
+rev,outreach,Outreach,Pricing & TCO,6
+rev,outreach,Outreach,Enterprise security & scale,9
+rev,apollo-io,Apollo.io,SI agent & automation depth,7
+rev,apollo-io,Apollo.io,Data coverage & quality,8
+rev,apollo-io,Apollo.io,Conversation & signal intelligence,5
+rev,apollo-io,Apollo.io,Forecasting & pipeline analytics,4
+rev,apollo-io,Apollo.io,CRM & workflow integration,7
+rev,apollo-io,Apollo.io,Ease of use & time-to-value,9
+rev,apollo-io,Apollo.io,Pricing & TCO,9
+rev,apollo-io,Apollo.io,Enterprise security & scale,5
+rev,6sense,6sense,SI agent & automation depth,7
+rev,6sense,6sense,Data coverage & quality,8
+rev,6sense,6sense,Conversation & signal intelligence,7
+rev,6sense,6sense,Forecasting & pipeline analytics,6
+rev,6sense,6sense,CRM & workflow integration,7
+rev,6sense,6sense,Ease of use & time-to-value,5
+rev,6sense,6sense,Pricing & TCO,4
+rev,6sense,6sense,Enterprise security & scale,8
+rev,highspot,Highspot,SI agent & automation depth,6
+rev,highspot,Highspot,Data coverage & quality,4
+rev,highspot,Highspot,Conversation & signal intelligence,6
+rev,highspot,Highspot,Forecasting & pipeline analytics,4
+rev,highspot,Highspot,CRM & workflow integration,8
+rev,highspot,Highspot,Ease of use & time-to-value,8
+rev,highspot,Highspot,Pricing & TCO,5
+rev,highspot,Highspot,Enterprise security & scale,8
+rev,clay,Clay,SI agent & automation depth,9
+rev,clay,Clay,Data coverage & quality,9
+rev,clay,Clay,Conversation & signal intelligence,5
+rev,clay,Clay,Forecasting & pipeline analytics,3
+rev,clay,Clay,CRM & workflow integration,8
+rev,clay,Clay,Ease of use & time-to-value,5
+rev,clay,Clay,Pricing & TCO,7
+rev,clay,Clay,Enterprise security & scale,6
+rev,mindtickle,Mindtickle,SI agent & automation depth,6
+rev,mindtickle,Mindtickle,Data coverage & quality,4
+rev,mindtickle,Mindtickle,Conversation & signal intelligence,7
+rev,mindtickle,Mindtickle,Forecasting & pipeline analytics,4
+rev,mindtickle,Mindtickle,CRM & workflow integration,7
+rev,mindtickle,Mindtickle,Ease of use & time-to-value,7
+rev,mindtickle,Mindtickle,Pricing & TCO,6
+rev,mindtickle,Mindtickle,Enterprise security & scale,8
+rev,backstory-formerly-people-ai,Backstory (formerly People.ai),SI agent & automation depth,7
+rev,backstory-formerly-people-ai,Backstory (formerly People.ai),Data coverage & quality,7
+rev,backstory-formerly-people-ai,Backstory (formerly People.ai),Conversation & signal intelligence,7
+rev,backstory-formerly-people-ai,Backstory (formerly People.ai),Forecasting & pipeline analytics,7
+rev,backstory-formerly-people-ai,Backstory (formerly People.ai),CRM & workflow integration,8
+rev,backstory-formerly-people-ai,Backstory (formerly People.ai),Ease of use & time-to-value,6
+rev,backstory-formerly-people-ai,Backstory (formerly People.ai),Pricing & TCO,6
+rev,backstory-formerly-people-ai,Backstory (formerly People.ai),Enterprise security & scale,8
+rev,showpad,Showpad,SI agent & automation depth,5
+rev,showpad,Showpad,Data coverage & quality,4
+rev,showpad,Showpad,Conversation & signal intelligence,5
+rev,showpad,Showpad,Forecasting & pipeline analytics,3
+rev,showpad,Showpad,CRM & workflow integration,7
+rev,showpad,Showpad,Ease of use & time-to-value,7
+rev,showpad,Showpad,Pricing & TCO,7
+rev,showpad,Showpad,Enterprise security & scale,7
+rev,cognism,Cognism,SI agent & automation depth,5
+rev,cognism,Cognism,Data coverage & quality,8
+rev,cognism,Cognism,Conversation & signal intelligence,4
+rev,cognism,Cognism,Forecasting & pipeline analytics,3
+rev,cognism,Cognism,CRM & workflow integration,7
+rev,cognism,Cognism,Ease of use & time-to-value,8
+rev,cognism,Cognism,Pricing & TCO,7
+rev,cognism,Cognism,Enterprise security & scale,7
+rev,lusha,Lusha,SI agent & automation depth,5
+rev,lusha,Lusha,Data coverage & quality,7
+rev,lusha,Lusha,Conversation & signal intelligence,3
+rev,lusha,Lusha,Forecasting & pipeline analytics,2
+rev,lusha,Lusha,CRM & workflow integration,7
+rev,lusha,Lusha,Ease of use & time-to-value,9
+rev,lusha,Lusha,Pricing & TCO,8
+rev,lusha,Lusha,Enterprise security & scale,5
+rev,common-room,Common Room,SI agent & automation depth,7
+rev,common-room,Common Room,Data coverage & quality,6
+rev,common-room,Common Room,Conversation & signal intelligence,7
+rev,common-room,Common Room,Forecasting & pipeline analytics,3
+rev,common-room,Common Room,CRM & workflow integration,7
+rev,common-room,Common Room,Ease of use & time-to-value,7
+rev,common-room,Common Room,Pricing & TCO,6
+rev,common-room,Common Room,Enterprise security & scale,5
+rev,11x,11x,SI agent & automation depth,8
+rev,11x,11x,Data coverage & quality,4
+rev,11x,11x,Conversation & signal intelligence,4
+rev,11x,11x,Forecasting & pipeline analytics,2
+rev,11x,11x,CRM & workflow integration,5
+rev,11x,11x,Ease of use & time-to-value,6
+rev,11x,11x,Pricing & TCO,4
+rev,11x,11x,Enterprise security & scale,4
+fin,sap-s-4hana-finance-joule,"SAP (S/4HANA Finance, Joule)",Agentic close & reconciliation,7
+fin,sap-s-4hana-finance-joule,"SAP (S/4HANA Finance, Joule)",Accuracy & auditability,9
+fin,sap-s-4hana-finance-joule,"SAP (S/4HANA Finance, Joule)",ERP & bank integrations,8
+fin,sap-s-4hana-finance-joule,"SAP (S/4HANA Finance, Joule)",FP&A & forecasting depth,7
+fin,sap-s-4hana-finance-joule,"SAP (S/4HANA Finance, Joule)","Compliance & controls (SOX, tax)",9
+fin,sap-s-4hana-finance-joule,"SAP (S/4HANA Finance, Joule)",Time-to-value,3
+fin,sap-s-4hana-finance-joule,"SAP (S/4HANA Finance, Joule)",Pricing & TCO,3
+fin,sap-s-4hana-finance-joule,"SAP (S/4HANA Finance, Joule)",Multi-entity scalability,10
+fin,intuit-quickbooks,Intuit (QuickBooks),Agentic close & reconciliation,7
+fin,intuit-quickbooks,Intuit (QuickBooks),Accuracy & auditability,6
+fin,intuit-quickbooks,Intuit (QuickBooks),ERP & bank integrations,9
+fin,intuit-quickbooks,Intuit (QuickBooks),FP&A & forecasting depth,5
+fin,intuit-quickbooks,Intuit (QuickBooks),"Compliance & controls (SOX, tax)",6
+fin,intuit-quickbooks,Intuit (QuickBooks),Time-to-value,9
+fin,intuit-quickbooks,Intuit (QuickBooks),Pricing & TCO,8
+fin,intuit-quickbooks,Intuit (QuickBooks),Multi-entity scalability,4
+fin,oracle-netsuite,Oracle NetSuite,Agentic close & reconciliation,7
+fin,oracle-netsuite,Oracle NetSuite,Accuracy & auditability,8
+fin,oracle-netsuite,Oracle NetSuite,ERP & bank integrations,8
+fin,oracle-netsuite,Oracle NetSuite,FP&A & forecasting depth,6
+fin,oracle-netsuite,Oracle NetSuite,"Compliance & controls (SOX, tax)",8
+fin,oracle-netsuite,Oracle NetSuite,Time-to-value,5
+fin,oracle-netsuite,Oracle NetSuite,Pricing & TCO,5
+fin,oracle-netsuite,Oracle NetSuite,Multi-entity scalability,8
+fin,microsoft-dynamics-365-finance-copilot-for-finance,Microsoft Dynamics 365 Finance (Copilot for Finance),Agentic close & reconciliation,6
+fin,microsoft-dynamics-365-finance-copilot-for-finance,Microsoft Dynamics 365 Finance (Copilot for Finance),Accuracy & auditability,7
+fin,microsoft-dynamics-365-finance-copilot-for-finance,Microsoft Dynamics 365 Finance (Copilot for Finance),ERP & bank integrations,8
+fin,microsoft-dynamics-365-finance-copilot-for-finance,Microsoft Dynamics 365 Finance (Copilot for Finance),FP&A & forecasting depth,6
+fin,microsoft-dynamics-365-finance-copilot-for-finance,Microsoft Dynamics 365 Finance (Copilot for Finance),"Compliance & controls (SOX, tax)",7
+fin,microsoft-dynamics-365-finance-copilot-for-finance,Microsoft Dynamics 365 Finance (Copilot for Finance),Time-to-value,6
+fin,microsoft-dynamics-365-finance-copilot-for-finance,Microsoft Dynamics 365 Finance (Copilot for Finance),Pricing & TCO,6
+fin,microsoft-dynamics-365-finance-copilot-for-finance,Microsoft Dynamics 365 Finance (Copilot for Finance),Multi-entity scalability,8
+fin,ramp,Ramp,Agentic close & reconciliation,6
+fin,ramp,Ramp,Accuracy & auditability,7
+fin,ramp,Ramp,ERP & bank integrations,8
+fin,ramp,Ramp,FP&A & forecasting depth,4
+fin,ramp,Ramp,"Compliance & controls (SOX, tax)",6
+fin,ramp,Ramp,Time-to-value,10
+fin,ramp,Ramp,Pricing & TCO,9
+fin,ramp,Ramp,Multi-entity scalability,6
+fin,bill,BILL,Agentic close & reconciliation,4
+fin,bill,BILL,Accuracy & auditability,7
+fin,bill,BILL,ERP & bank integrations,8
+fin,bill,BILL,FP&A & forecasting depth,3
+fin,bill,BILL,"Compliance & controls (SOX, tax)",6
+fin,bill,BILL,Time-to-value,8
+fin,bill,BILL,Pricing & TCO,7
+fin,bill,BILL,Multi-entity scalability,5
+fin,workday-financials,Workday Financials,Agentic close & reconciliation,7
+fin,workday-financials,Workday Financials,Accuracy & auditability,8
+fin,workday-financials,Workday Financials,ERP & bank integrations,7
+fin,workday-financials,Workday Financials,FP&A & forecasting depth,8
+fin,workday-financials,Workday Financials,"Compliance & controls (SOX, tax)",8
+fin,workday-financials,Workday Financials,Time-to-value,4
+fin,workday-financials,Workday Financials,Pricing & TCO,4
+fin,workday-financials,Workday Financials,Multi-entity scalability,8
+fin,avalara,Avalara,Agentic close & reconciliation,4
+fin,avalara,Avalara,Accuracy & auditability,8
+fin,avalara,Avalara,ERP & bank integrations,9
+fin,avalara,Avalara,FP&A & forecasting depth,1
+fin,avalara,Avalara,"Compliance & controls (SOX, tax)",10
+fin,avalara,Avalara,Time-to-value,7
+fin,avalara,Avalara,Pricing & TCO,6
+fin,avalara,Avalara,Multi-entity scalability,8
+fin,workiva,Workiva,Agentic close & reconciliation,5
+fin,workiva,Workiva,Accuracy & auditability,9
+fin,workiva,Workiva,ERP & bank integrations,7
+fin,workiva,Workiva,FP&A & forecasting depth,4
+fin,workiva,Workiva,"Compliance & controls (SOX, tax)",10
+fin,workiva,Workiva,Time-to-value,6
+fin,workiva,Workiva,Pricing & TCO,5
+fin,workiva,Workiva,Multi-entity scalability,8
+fin,anaplan,Anaplan,Agentic close & reconciliation,2
+fin,anaplan,Anaplan,Accuracy & auditability,7
+fin,anaplan,Anaplan,ERP & bank integrations,7
+fin,anaplan,Anaplan,FP&A & forecasting depth,9
+fin,anaplan,Anaplan,"Compliance & controls (SOX, tax)",5
+fin,anaplan,Anaplan,Time-to-value,4
+fin,anaplan,Anaplan,Pricing & TCO,3
+fin,anaplan,Anaplan,Multi-entity scalability,9
+fin,blackline,BlackLine,Agentic close & reconciliation,8
+fin,blackline,BlackLine,Accuracy & auditability,9
+fin,blackline,BlackLine,ERP & bank integrations,8
+fin,blackline,BlackLine,FP&A & forecasting depth,3
+fin,blackline,BlackLine,"Compliance & controls (SOX, tax)",9
+fin,blackline,BlackLine,Time-to-value,5
+fin,blackline,BlackLine,Pricing & TCO,5
+fin,blackline,BlackLine,Multi-entity scalability,9
+fin,onestream,OneStream,Agentic close & reconciliation,7
+fin,onestream,OneStream,Accuracy & auditability,9
+fin,onestream,OneStream,ERP & bank integrations,7
+fin,onestream,OneStream,FP&A & forecasting depth,9
+fin,onestream,OneStream,"Compliance & controls (SOX, tax)",8
+fin,onestream,OneStream,Time-to-value,4
+fin,onestream,OneStream,Pricing & TCO,4
+fin,onestream,OneStream,Multi-entity scalability,10
+fin,brex-capital-one,Brex (Capital One),Agentic close & reconciliation,5
+fin,brex-capital-one,Brex (Capital One),Accuracy & auditability,7
+fin,brex-capital-one,Brex (Capital One),ERP & bank integrations,7
+fin,brex-capital-one,Brex (Capital One),FP&A & forecasting depth,3
+fin,brex-capital-one,Brex (Capital One),"Compliance & controls (SOX, tax)",6
+fin,brex-capital-one,Brex (Capital One),Time-to-value,8
+fin,brex-capital-one,Brex (Capital One),Pricing & TCO,7
+fin,brex-capital-one,Brex (Capital One),Multi-entity scalability,7
+fin,tipalti,Tipalti,Agentic close & reconciliation,5
+fin,tipalti,Tipalti,Accuracy & auditability,8
+fin,tipalti,Tipalti,ERP & bank integrations,8
+fin,tipalti,Tipalti,FP&A & forecasting depth,2
+fin,tipalti,Tipalti,"Compliance & controls (SOX, tax)",8
+fin,tipalti,Tipalti,Time-to-value,7
+fin,tipalti,Tipalti,Pricing & TCO,6
+fin,tipalti,Tipalti,Multi-entity scalability,8
+fin,highradius,HighRadius,Agentic close & reconciliation,7
+fin,highradius,HighRadius,Accuracy & auditability,7
+fin,highradius,HighRadius,ERP & bank integrations,8
+fin,highradius,HighRadius,FP&A & forecasting depth,5
+fin,highradius,HighRadius,"Compliance & controls (SOX, tax)",7
+fin,highradius,HighRadius,Time-to-value,5
+fin,highradius,HighRadius,Pricing & TCO,5
+fin,highradius,HighRadius,Multi-entity scalability,8
+fin,pigment,Pigment,Agentic close & reconciliation,2
+fin,pigment,Pigment,Accuracy & auditability,7
+fin,pigment,Pigment,ERP & bank integrations,7
+fin,pigment,Pigment,FP&A & forecasting depth,9
+fin,pigment,Pigment,"Compliance & controls (SOX, tax)",5
+fin,pigment,Pigment,Time-to-value,7
+fin,pigment,Pigment,Pricing & TCO,6
+fin,pigment,Pigment,Multi-entity scalability,8
+fin,rillet,Rillet,Agentic close & reconciliation,9
+fin,rillet,Rillet,Accuracy & auditability,7
+fin,rillet,Rillet,ERP & bank integrations,7
+fin,rillet,Rillet,FP&A & forecasting depth,4
+fin,rillet,Rillet,"Compliance & controls (SOX, tax)",6
+fin,rillet,Rillet,Time-to-value,8
+fin,rillet,Rillet,Pricing & TCO,7
+fin,rillet,Rillet,Multi-entity scalability,6
+fin,campfire,Campfire,Agentic close & reconciliation,9
+fin,campfire,Campfire,Accuracy & auditability,7
+fin,campfire,Campfire,ERP & bank integrations,6
+fin,campfire,Campfire,FP&A & forecasting depth,4
+fin,campfire,Campfire,"Compliance & controls (SOX, tax)",5
+fin,campfire,Campfire,Time-to-value,8
+fin,campfire,Campfire,Pricing & TCO,7
+fin,campfire,Campfire,Multi-entity scalability,6
+fin,basis,Basis,Agentic close & reconciliation,8
+fin,basis,Basis,Accuracy & auditability,7
+fin,basis,Basis,ERP & bank integrations,6
+fin,basis,Basis,FP&A & forecasting depth,3
+fin,basis,Basis,"Compliance & controls (SOX, tax)",6
+fin,basis,Basis,Time-to-value,6
+fin,basis,Basis,Pricing & TCO,6
+fin,basis,Basis,Multi-entity scalability,6
+fin,datasnipper,DataSnipper,Agentic close & reconciliation,4
+fin,datasnipper,DataSnipper,Accuracy & auditability,9
+fin,datasnipper,DataSnipper,ERP & bank integrations,5
+fin,datasnipper,DataSnipper,FP&A & forecasting depth,2
+fin,datasnipper,DataSnipper,"Compliance & controls (SOX, tax)",8
+fin,datasnipper,DataSnipper,Time-to-value,8
+fin,datasnipper,DataSnipper,Pricing & TCO,7
+fin,datasnipper,DataSnipper,Multi-entity scalability,6
+legal,thomson-reuters-cocounsel-westlaw,Thomson Reuters (CoCounsel/Westlaw),Drafting & research quality,8
+legal,thomson-reuters-cocounsel-westlaw,Thomson Reuters (CoCounsel/Westlaw),Legal content & citation grounding,10
+legal,thomson-reuters-cocounsel-westlaw,Thomson Reuters (CoCounsel/Westlaw),Workflow & DMS integrations,8
+legal,thomson-reuters-cocounsel-westlaw,Thomson Reuters (CoCounsel/Westlaw),"Security, privilege & data residency",9
+legal,thomson-reuters-cocounsel-westlaw,Thomson Reuters (CoCounsel/Westlaw),Contract/CLM depth,6
+legal,thomson-reuters-cocounsel-westlaw,Thomson Reuters (CoCounsel/Westlaw),Matter & practice coverage,9
+legal,thomson-reuters-cocounsel-westlaw,Thomson Reuters (CoCounsel/Westlaw),Time-to-value & adoption,7
+legal,thomson-reuters-cocounsel-westlaw,Thomson Reuters (CoCounsel/Westlaw),Pricing & TCO,4
+legal,lexisnexis-lexis-ai-protege,LexisNexis (Lexis+ AI / Protégé),Drafting & research quality,8
+legal,lexisnexis-lexis-ai-protege,LexisNexis (Lexis+ AI / Protégé),Legal content & citation grounding,10
+legal,lexisnexis-lexis-ai-protege,LexisNexis (Lexis+ AI / Protégé),Workflow & DMS integrations,7
+legal,lexisnexis-lexis-ai-protege,LexisNexis (Lexis+ AI / Protégé),"Security, privilege & data residency",9
+legal,lexisnexis-lexis-ai-protege,LexisNexis (Lexis+ AI / Protégé),Contract/CLM depth,5
+legal,lexisnexis-lexis-ai-protege,LexisNexis (Lexis+ AI / Protégé),Matter & practice coverage,9
+legal,lexisnexis-lexis-ai-protege,LexisNexis (Lexis+ AI / Protégé),Time-to-value & adoption,7
+legal,lexisnexis-lexis-ai-protege,LexisNexis (Lexis+ AI / Protégé),Pricing & TCO,4
+legal,wolters-kluwer-legal-regulatory,Wolters Kluwer Legal & Regulatory,Drafting & research quality,5
+legal,wolters-kluwer-legal-regulatory,Wolters Kluwer Legal & Regulatory,Legal content & citation grounding,7
+legal,wolters-kluwer-legal-regulatory,Wolters Kluwer Legal & Regulatory,Workflow & DMS integrations,7
+legal,wolters-kluwer-legal-regulatory,Wolters Kluwer Legal & Regulatory,"Security, privilege & data residency",8
+legal,wolters-kluwer-legal-regulatory,Wolters Kluwer Legal & Regulatory,Contract/CLM depth,5
+legal,wolters-kluwer-legal-regulatory,Wolters Kluwer Legal & Regulatory,Matter & practice coverage,6
+legal,wolters-kluwer-legal-regulatory,Wolters Kluwer Legal & Regulatory,Time-to-value & adoption,6
+legal,wolters-kluwer-legal-regulatory,Wolters Kluwer Legal & Regulatory,Pricing & TCO,6
+legal,clio-incl-vlex,Clio (incl. vLex),Drafting & research quality,7
+legal,clio-incl-vlex,Clio (incl. vLex),Legal content & citation grounding,8
+legal,clio-incl-vlex,Clio (incl. vLex),Workflow & DMS integrations,9
+legal,clio-incl-vlex,Clio (incl. vLex),"Security, privilege & data residency",7
+legal,clio-incl-vlex,Clio (incl. vLex),Contract/CLM depth,4
+legal,clio-incl-vlex,Clio (incl. vLex),Matter & practice coverage,7
+legal,clio-incl-vlex,Clio (incl. vLex),Time-to-value & adoption,9
+legal,clio-incl-vlex,Clio (incl. vLex),Pricing & TCO,8
+legal,harvey,Harvey,Drafting & research quality,10
+legal,harvey,Harvey,Legal content & citation grounding,7
+legal,harvey,Harvey,Workflow & DMS integrations,8
+legal,harvey,Harvey,"Security, privilege & data residency",9
+legal,harvey,Harvey,Contract/CLM depth,6
+legal,harvey,Harvey,Matter & practice coverage,8
+legal,harvey,Harvey,Time-to-value & adoption,7
+legal,harvey,Harvey,Pricing & TCO,4
+legal,docusign-iam-clm,Docusign IAM / CLM,Drafting & research quality,5
+legal,docusign-iam-clm,Docusign IAM / CLM,Legal content & citation grounding,4
+legal,docusign-iam-clm,Docusign IAM / CLM,Workflow & DMS integrations,9
+legal,docusign-iam-clm,Docusign IAM / CLM,"Security, privilege & data residency",8
+legal,docusign-iam-clm,Docusign IAM / CLM,Contract/CLM depth,8
+legal,docusign-iam-clm,Docusign IAM / CLM,Matter & practice coverage,4
+legal,docusign-iam-clm,Docusign IAM / CLM,Time-to-value & adoption,8
+legal,docusign-iam-clm,Docusign IAM / CLM,Pricing & TCO,6
+legal,icertis,Icertis,Drafting & research quality,6
+legal,icertis,Icertis,Legal content & citation grounding,5
+legal,icertis,Icertis,Workflow & DMS integrations,8
+legal,icertis,Icertis,"Security, privilege & data residency",9
+legal,icertis,Icertis,Contract/CLM depth,9
+legal,icertis,Icertis,Matter & practice coverage,6
+legal,icertis,Icertis,Time-to-value & adoption,4
+legal,icertis,Icertis,Pricing & TCO,4
+legal,filevine,Filevine,Drafting & research quality,7
+legal,filevine,Filevine,Legal content & citation grounding,5
+legal,filevine,Filevine,Workflow & DMS integrations,8
+legal,filevine,Filevine,"Security, privilege & data residency",7
+legal,filevine,Filevine,Contract/CLM depth,4
+legal,filevine,Filevine,Matter & practice coverage,7
+legal,filevine,Filevine,Time-to-value & adoption,8
+legal,filevine,Filevine,Pricing & TCO,7
+legal,ironclad,Ironclad,Drafting & research quality,7
+legal,ironclad,Ironclad,Legal content & citation grounding,4
+legal,ironclad,Ironclad,Workflow & DMS integrations,8
+legal,ironclad,Ironclad,"Security, privilege & data residency",8
+legal,ironclad,Ironclad,Contract/CLM depth,9
+legal,ironclad,Ironclad,Matter & practice coverage,5
+legal,ironclad,Ironclad,Time-to-value & adoption,7
+legal,ironclad,Ironclad,Pricing & TCO,6
+legal,legora,Legora,Drafting & research quality,9
+legal,legora,Legora,Legal content & citation grounding,6
+legal,legora,Legora,Workflow & DMS integrations,8
+legal,legora,Legora,"Security, privilege & data residency",8
+legal,legora,Legora,Contract/CLM depth,6
+legal,legora,Legora,Matter & practice coverage,7
+legal,legora,Legora,Time-to-value & adoption,8
+legal,legora,Legora,Pricing & TCO,5
+legal,disco,DISCO,Drafting & research quality,7
+legal,disco,DISCO,Legal content & citation grounding,4
+legal,disco,DISCO,Workflow & DMS integrations,6
+legal,disco,DISCO,"Security, privilege & data residency",8
+legal,disco,DISCO,Contract/CLM depth,2
+legal,disco,DISCO,Matter & practice coverage,5
+legal,disco,DISCO,Time-to-value & adoption,7
+legal,disco,DISCO,Pricing & TCO,7
+legal,spellbook,Spellbook,Drafting & research quality,7
+legal,spellbook,Spellbook,Legal content & citation grounding,4
+legal,spellbook,Spellbook,Workflow & DMS integrations,7
+legal,spellbook,Spellbook,"Security, privilege & data residency",6
+legal,spellbook,Spellbook,Contract/CLM depth,6
+legal,spellbook,Spellbook,Matter & practice coverage,4
+legal,spellbook,Spellbook,Time-to-value & adoption,9
+legal,spellbook,Spellbook,Pricing & TCO,8
+legal,everlaw,Everlaw,Drafting & research quality,7
+legal,everlaw,Everlaw,Legal content & citation grounding,4
+legal,everlaw,Everlaw,Workflow & DMS integrations,7
+legal,everlaw,Everlaw,"Security, privilege & data residency",9
+legal,everlaw,Everlaw,Contract/CLM depth,2
+legal,everlaw,Everlaw,Matter & practice coverage,6
+legal,everlaw,Everlaw,Time-to-value & adoption,7
+legal,everlaw,Everlaw,Pricing & TCO,6
+legal,luminance,Luminance,Drafting & research quality,7
+legal,luminance,Luminance,Legal content & citation grounding,5
+legal,luminance,Luminance,Workflow & DMS integrations,6
+legal,luminance,Luminance,"Security, privilege & data residency",8
+legal,luminance,Luminance,Contract/CLM depth,7
+legal,luminance,Luminance,Matter & practice coverage,5
+legal,luminance,Luminance,Time-to-value & adoption,6
+legal,luminance,Luminance,Pricing & TCO,6
+legal,eudia,Eudia,Drafting & research quality,6
+legal,eudia,Eudia,Legal content & citation grounding,5
+legal,eudia,Eudia,Workflow & DMS integrations,6
+legal,eudia,Eudia,"Security, privilege & data residency",7
+legal,eudia,Eudia,Contract/CLM depth,6
+legal,eudia,Eudia,Matter & practice coverage,6
+legal,eudia,Eudia,Time-to-value & adoption,6
+legal,eudia,Eudia,Pricing & TCO,5
+legal,evenup,EvenUp,Drafting & research quality,7
+legal,evenup,EvenUp,Legal content & citation grounding,6
+legal,evenup,EvenUp,Workflow & DMS integrations,6
+legal,evenup,EvenUp,"Security, privilege & data residency",7
+legal,evenup,EvenUp,Contract/CLM depth,1
+legal,evenup,EvenUp,Matter & practice coverage,3
+legal,evenup,EvenUp,Time-to-value & adoption,9
+legal,evenup,EvenUp,Pricing & TCO,6
+legal,supio,Supio,Drafting & research quality,7
+legal,supio,Supio,Legal content & citation grounding,5
+legal,supio,Supio,Workflow & DMS integrations,6
+legal,supio,Supio,"Security, privilege & data residency",7
+legal,supio,Supio,Contract/CLM depth,1
+legal,supio,Supio,Matter & practice coverage,3
+legal,supio,Supio,Time-to-value & adoption,8
+legal,supio,Supio,Pricing & TCO,6
+legal,eve-legal,Eve Legal,Drafting & research quality,7
+legal,eve-legal,Eve Legal,Legal content & citation grounding,5
+legal,eve-legal,Eve Legal,Workflow & DMS integrations,6
+legal,eve-legal,Eve Legal,"Security, privilege & data residency",7
+legal,eve-legal,Eve Legal,Contract/CLM depth,2
+legal,eve-legal,Eve Legal,Matter & practice coverage,4
+legal,eve-legal,Eve Legal,Time-to-value & adoption,8
+legal,eve-legal,Eve Legal,Pricing & TCO,6
+comp,workiva,Workiva,Agentic SI automation,6
+comp,workiva,Workiva,Framework & regulatory coverage,6
+comp,workiva,Workiva,Integrations & continuous monitoring,6
+comp,workiva,Workiva,"Risk, audit & TPRM depth",7
+comp,workiva,Workiva,SI governance capabilities,4
+comp,workiva,Workiva,Ease of use & time to value,6
+comp,workiva,Workiva,Enterprise scalability & configurability,8
+comp,workiva,Workiva,Pricing & TCO,5
+comp,diligent,Diligent,Agentic SI automation,7
+comp,diligent,Diligent,Framework & regulatory coverage,8
+comp,diligent,Diligent,Integrations & continuous monitoring,6
+comp,diligent,Diligent,"Risk, audit & TPRM depth",9
+comp,diligent,Diligent,SI governance capabilities,7
+comp,diligent,Diligent,Ease of use & time to value,6
+comp,diligent,Diligent,Enterprise scalability & configurability,9
+comp,diligent,Diligent,Pricing & TCO,4
+comp,onetrust,OneTrust,Agentic SI automation,7
+comp,onetrust,OneTrust,Framework & regulatory coverage,9
+comp,onetrust,OneTrust,Integrations & continuous monitoring,7
+comp,onetrust,OneTrust,"Risk, audit & TPRM depth",7
+comp,onetrust,OneTrust,SI governance capabilities,9
+comp,onetrust,OneTrust,Ease of use & time to value,5
+comp,onetrust,OneTrust,Enterprise scalability & configurability,8
+comp,onetrust,OneTrust,Pricing & TCO,4
+comp,navex,NAVEX,Agentic SI automation,5
+comp,navex,NAVEX,Framework & regulatory coverage,7
+comp,navex,NAVEX,Integrations & continuous monitoring,5
+comp,navex,NAVEX,"Risk, audit & TPRM depth",7
+comp,navex,NAVEX,SI governance capabilities,4
+comp,navex,NAVEX,Ease of use & time to value,7
+comp,navex,NAVEX,Enterprise scalability & configurability,7
+comp,navex,NAVEX,Pricing & TCO,6
+comp,vanta,Vanta,Agentic SI automation,9
+comp,vanta,Vanta,Framework & regulatory coverage,9
+comp,vanta,Vanta,Integrations & continuous monitoring,10
+comp,vanta,Vanta,"Risk, audit & TPRM depth",7
+comp,vanta,Vanta,SI governance capabilities,8
+comp,vanta,Vanta,Ease of use & time to value,9
+comp,vanta,Vanta,Enterprise scalability & configurability,7
+comp,vanta,Vanta,Pricing & TCO,7
+comp,optro-formerly-auditboard,Optro (formerly AuditBoard),Agentic SI automation,8
+comp,optro-formerly-auditboard,Optro (formerly AuditBoard),Framework & regulatory coverage,7
+comp,optro-formerly-auditboard,Optro (formerly AuditBoard),Integrations & continuous monitoring,7
+comp,optro-formerly-auditboard,Optro (formerly AuditBoard),"Risk, audit & TPRM depth",9
+comp,optro-formerly-auditboard,Optro (formerly AuditBoard),SI governance capabilities,7
+comp,optro-formerly-auditboard,Optro (formerly AuditBoard),Ease of use & time to value,8
+comp,optro-formerly-auditboard,Optro (formerly AuditBoard),Enterprise scalability & configurability,8
+comp,optro-formerly-auditboard,Optro (formerly AuditBoard),Pricing & TCO,6
+comp,archer,Archer,Agentic SI automation,5
+comp,archer,Archer,Framework & regulatory coverage,7
+comp,archer,Archer,Integrations & continuous monitoring,5
+comp,archer,Archer,"Risk, audit & TPRM depth",9
+comp,archer,Archer,SI governance capabilities,5
+comp,archer,Archer,Ease of use & time to value,4
+comp,archer,Archer,Enterprise scalability & configurability,9
+comp,archer,Archer,Pricing & TCO,5
+comp,drata,Drata,Agentic SI automation,8
+comp,drata,Drata,Framework & regulatory coverage,8
+comp,drata,Drata,Integrations & continuous monitoring,9
+comp,drata,Drata,"Risk, audit & TPRM depth",6
+comp,drata,Drata,SI governance capabilities,6
+comp,drata,Drata,Ease of use & time to value,8
+comp,drata,Drata,Enterprise scalability & configurability,6
+comp,drata,Drata,Pricing & TCO,7
+comp,logicgate,LogicGate,Agentic SI automation,7
+comp,logicgate,LogicGate,Framework & regulatory coverage,7
+comp,logicgate,LogicGate,Integrations & continuous monitoring,7
+comp,logicgate,LogicGate,"Risk, audit & TPRM depth",8
+comp,logicgate,LogicGate,SI governance capabilities,6
+comp,logicgate,LogicGate,Ease of use & time to value,8
+comp,logicgate,LogicGate,Enterprise scalability & configurability,7
+comp,logicgate,LogicGate,Pricing & TCO,8
+comp,secureframe,Secureframe,Agentic SI automation,7
+comp,secureframe,Secureframe,Framework & regulatory coverage,8
+comp,secureframe,Secureframe,Integrations & continuous monitoring,7
+comp,secureframe,Secureframe,"Risk, audit & TPRM depth",5
+comp,secureframe,Secureframe,SI governance capabilities,5
+comp,secureframe,Secureframe,Ease of use & time to value,8
+comp,secureframe,Secureframe,Enterprise scalability & configurability,5
+comp,secureframe,Secureframe,Pricing & TCO,8
+comp,thoropass,Thoropass,Agentic SI automation,6
+comp,thoropass,Thoropass,Framework & regulatory coverage,7
+comp,thoropass,Thoropass,Integrations & continuous monitoring,6
+comp,thoropass,Thoropass,"Risk, audit & TPRM depth",5
+comp,thoropass,Thoropass,SI governance capabilities,4
+comp,thoropass,Thoropass,Ease of use & time to value,7
+comp,thoropass,Thoropass,Enterprise scalability & configurability,4
+comp,thoropass,Thoropass,Pricing & TCO,7
+comp,hyperproof,Hyperproof,Agentic SI automation,6
+comp,hyperproof,Hyperproof,Framework & regulatory coverage,7
+comp,hyperproof,Hyperproof,Integrations & continuous monitoring,6
+comp,hyperproof,Hyperproof,"Risk, audit & TPRM depth",6
+comp,hyperproof,Hyperproof,SI governance capabilities,4
+comp,hyperproof,Hyperproof,Ease of use & time to value,7
+comp,hyperproof,Hyperproof,Enterprise scalability & configurability,6
+comp,hyperproof,Hyperproof,Pricing & TCO,7
+comp,servicenow-irm,ServiceNow IRM,Agentic SI automation,8
+comp,servicenow-irm,ServiceNow IRM,Framework & regulatory coverage,7
+comp,servicenow-irm,ServiceNow IRM,Integrations & continuous monitoring,8
+comp,servicenow-irm,ServiceNow IRM,"Risk, audit & TPRM depth",8
+comp,servicenow-irm,ServiceNow IRM,SI governance capabilities,7
+comp,servicenow-irm,ServiceNow IRM,Ease of use & time to value,4
+comp,servicenow-irm,ServiceNow IRM,Enterprise scalability & configurability,10
+comp,servicenow-irm,ServiceNow IRM,Pricing & TCO,3
+comp,ibm-openpages-watsonx-governance,IBM OpenPages / watsonx.governance,Agentic SI automation,7
+comp,ibm-openpages-watsonx-governance,IBM OpenPages / watsonx.governance,Framework & regulatory coverage,7
+comp,ibm-openpages-watsonx-governance,IBM OpenPages / watsonx.governance,Integrations & continuous monitoring,6
+comp,ibm-openpages-watsonx-governance,IBM OpenPages / watsonx.governance,"Risk, audit & TPRM depth",8
+comp,ibm-openpages-watsonx-governance,IBM OpenPages / watsonx.governance,SI governance capabilities,9
+comp,ibm-openpages-watsonx-governance,IBM OpenPages / watsonx.governance,Ease of use & time to value,4
+comp,ibm-openpages-watsonx-governance,IBM OpenPages / watsonx.governance,Enterprise scalability & configurability,9
+comp,ibm-openpages-watsonx-governance,IBM OpenPages / watsonx.governance,Pricing & TCO,4
+comp,sap-grc,SAP GRC,Agentic SI automation,5
+comp,sap-grc,SAP GRC,Framework & regulatory coverage,6
+comp,sap-grc,SAP GRC,Integrations & continuous monitoring,5
+comp,sap-grc,SAP GRC,"Risk, audit & TPRM depth",7
+comp,sap-grc,SAP GRC,SI governance capabilities,4
+comp,sap-grc,SAP GRC,Ease of use & time to value,3
+comp,sap-grc,SAP GRC,Enterprise scalability & configurability,9
+comp,sap-grc,SAP GRC,Pricing & TCO,4
+psa,servicenow-spm-psa,ServiceNow (SPM / PSA),SI agents & automation,9
+psa,servicenow-spm-psa,ServiceNow (SPM / PSA),"PSA depth (projects, time, billing)",6
+psa,servicenow-spm-psa,ServiceNow (SPM / PSA),RMM/ITSM & security integration,9
+psa,servicenow-spm-psa,ServiceNow (SPM / PSA),Resource & financial planning,7
+psa,servicenow-spm-psa,ServiceNow (SPM / PSA),Ecosystem & integrations,9
+psa,servicenow-spm-psa,ServiceNow (SPM / PSA),Ease of use & time-to-value,4
+psa,servicenow-spm-psa,ServiceNow (SPM / PSA),Pricing & TCO,3
+psa,servicenow-spm-psa,ServiceNow (SPM / PSA),Scalability & compliance,10
+psa,workday-services-psa,Workday (Services / PSA),SI agents & automation,7
+psa,workday-services-psa,Workday (Services / PSA),"PSA depth (projects, time, billing)",6
+psa,workday-services-psa,Workday (Services / PSA),RMM/ITSM & security integration,2
+psa,workday-services-psa,Workday (Services / PSA),Resource & financial planning,9
+psa,workday-services-psa,Workday (Services / PSA),Ecosystem & integrations,7
+psa,workday-services-psa,Workday (Services / PSA),Ease of use & time-to-value,4
+psa,workday-services-psa,Workday (Services / PSA),Pricing & TCO,3
+psa,workday-services-psa,Workday (Services / PSA),Scalability & compliance,9
+psa,kaseya-autotask-psa,Kaseya (Autotask PSA),SI agents & automation,7
+psa,kaseya-autotask-psa,Kaseya (Autotask PSA),"PSA depth (projects, time, billing)",8
+psa,kaseya-autotask-psa,Kaseya (Autotask PSA),RMM/ITSM & security integration,9
+psa,kaseya-autotask-psa,Kaseya (Autotask PSA),Resource & financial planning,6
+psa,kaseya-autotask-psa,Kaseya (Autotask PSA),Ecosystem & integrations,8
+psa,kaseya-autotask-psa,Kaseya (Autotask PSA),Ease of use & time-to-value,6
+psa,kaseya-autotask-psa,Kaseya (Autotask PSA),Pricing & TCO,8
+psa,kaseya-autotask-psa,Kaseya (Autotask PSA),Scalability & compliance,7
+psa,connectwise,ConnectWise,SI agents & automation,8
+psa,connectwise,ConnectWise,"PSA depth (projects, time, billing)",9
+psa,connectwise,ConnectWise,RMM/ITSM & security integration,9
+psa,connectwise,ConnectWise,Resource & financial planning,6
+psa,connectwise,ConnectWise,Ecosystem & integrations,9
+psa,connectwise,ConnectWise,Ease of use & time-to-value,5
+psa,connectwise,ConnectWise,Pricing & TCO,6
+psa,connectwise,ConnectWise,Scalability & compliance,7
+psa,deltek-incl-replicon,Deltek (incl. Replicon),SI agents & automation,5
+psa,deltek-incl-replicon,Deltek (incl. Replicon),"PSA depth (projects, time, billing)",8
+psa,deltek-incl-replicon,Deltek (incl. Replicon),RMM/ITSM & security integration,1
+psa,deltek-incl-replicon,Deltek (incl. Replicon),Resource & financial planning,8
+psa,deltek-incl-replicon,Deltek (incl. Replicon),Ecosystem & integrations,6
+psa,deltek-incl-replicon,Deltek (incl. Replicon),Ease of use & time-to-value,5
+psa,deltek-incl-replicon,Deltek (incl. Replicon),Pricing & TCO,5
+psa,deltek-incl-replicon,Deltek (incl. Replicon),Scalability & compliance,9
+psa,freshworks-freshservice-for-msps,Freshworks (Freshservice for MSPs),SI agents & automation,8
+psa,freshworks-freshservice-for-msps,Freshworks (Freshservice for MSPs),"PSA depth (projects, time, billing)",4
+psa,freshworks-freshservice-for-msps,Freshworks (Freshservice for MSPs),RMM/ITSM & security integration,7
+psa,freshworks-freshservice-for-msps,Freshworks (Freshservice for MSPs),Resource & financial planning,3
+psa,freshworks-freshservice-for-msps,Freshworks (Freshservice for MSPs),Ecosystem & integrations,7
+psa,freshworks-freshservice-for-msps,Freshworks (Freshservice for MSPs),Ease of use & time-to-value,9
+psa,freshworks-freshservice-for-msps,Freshworks (Freshservice for MSPs),Pricing & TCO,8
+psa,freshworks-freshservice-for-msps,Freshworks (Freshservice for MSPs),Scalability & compliance,7
+psa,n-able,N-able,SI agents & automation,6
+psa,n-able,N-able,"PSA depth (projects, time, billing)",4
+psa,n-able,N-able,RMM/ITSM & security integration,9
+psa,n-able,N-able,Resource & financial planning,3
+psa,n-able,N-able,Ecosystem & integrations,7
+psa,n-able,N-able,Ease of use & time-to-value,6
+psa,n-able,N-able,Pricing & TCO,7
+psa,n-able,N-able,Scalability & compliance,8
+psa,ninjaone,NinjaOne,SI agents & automation,7
+psa,ninjaone,NinjaOne,"PSA depth (projects, time, billing)",5
+psa,ninjaone,NinjaOne,RMM/ITSM & security integration,9
+psa,ninjaone,NinjaOne,Resource & financial planning,4
+psa,ninjaone,NinjaOne,Ecosystem & integrations,7
+psa,ninjaone,NinjaOne,Ease of use & time-to-value,9
+psa,ninjaone,NinjaOne,Pricing & TCO,7
+psa,ninjaone,NinjaOne,Scalability & compliance,7
+psa,unit4-psa-suite,Unit4 (PSA Suite),SI agents & automation,5
+psa,unit4-psa-suite,Unit4 (PSA Suite),"PSA depth (projects, time, billing)",7
+psa,unit4-psa-suite,Unit4 (PSA Suite),RMM/ITSM & security integration,1
+psa,unit4-psa-suite,Unit4 (PSA Suite),Resource & financial planning,8
+psa,unit4-psa-suite,Unit4 (PSA Suite),Ecosystem & integrations,6
+psa,unit4-psa-suite,Unit4 (PSA Suite),Ease of use & time-to-value,5
+psa,unit4-psa-suite,Unit4 (PSA Suite),Pricing & TCO,5
+psa,unit4-psa-suite,Unit4 (PSA Suite),Scalability & compliance,8
+psa,planview-changepoint-clarizen,Planview (Changepoint/Clarizen),SI agents & automation,6
+psa,planview-changepoint-clarizen,Planview (Changepoint/Clarizen),"PSA depth (projects, time, billing)",7
+psa,planview-changepoint-clarizen,Planview (Changepoint/Clarizen),RMM/ITSM & security integration,3
+psa,planview-changepoint-clarizen,Planview (Changepoint/Clarizen),Resource & financial planning,8
+psa,planview-changepoint-clarizen,Planview (Changepoint/Clarizen),Ecosystem & integrations,7
+psa,planview-changepoint-clarizen,Planview (Changepoint/Clarizen),Ease of use & time-to-value,4
+psa,planview-changepoint-clarizen,Planview (Changepoint/Clarizen),Pricing & TCO,4
+psa,planview-changepoint-clarizen,Planview (Changepoint/Clarizen),Scalability & compliance,8
+psa,certinia,Certinia,SI agents & automation,8
+psa,certinia,Certinia,"PSA depth (projects, time, billing)",9
+psa,certinia,Certinia,RMM/ITSM & security integration,2
+psa,certinia,Certinia,Resource & financial planning,9
+psa,certinia,Certinia,Ecosystem & integrations,8
+psa,certinia,Certinia,Ease of use & time-to-value,5
+psa,certinia,Certinia,Pricing & TCO,4
+psa,certinia,Certinia,Scalability & compliance,9
+psa,kantata,Kantata,SI agents & automation,8
+psa,kantata,Kantata,"PSA depth (projects, time, billing)",9
+psa,kantata,Kantata,RMM/ITSM & security integration,2
+psa,kantata,Kantata,Resource & financial planning,8
+psa,kantata,Kantata,Ecosystem & integrations,7
+psa,kantata,Kantata,Ease of use & time-to-value,7
+psa,kantata,Kantata,Pricing & TCO,6
+psa,kantata,Kantata,Scalability & compliance,7
+psa,atera,Atera,SI agents & automation,8
+psa,atera,Atera,"PSA depth (projects, time, billing)",5
+psa,atera,Atera,RMM/ITSM & security integration,7
+psa,atera,Atera,Resource & financial planning,3
+psa,atera,Atera,Ecosystem & integrations,5
+psa,atera,Atera,Ease of use & time-to-value,9
+psa,atera,Atera,Pricing & TCO,9
+psa,atera,Atera,Scalability & compliance,5
+psa,rocketlane,Rocketlane,SI agents & automation,8
+psa,rocketlane,Rocketlane,"PSA depth (projects, time, billing)",6
+psa,rocketlane,Rocketlane,RMM/ITSM & security integration,1
+psa,rocketlane,Rocketlane,Resource & financial planning,6
+psa,rocketlane,Rocketlane,Ecosystem & integrations,6
+psa,rocketlane,Rocketlane,Ease of use & time-to-value,8
+psa,rocketlane,Rocketlane,Pricing & TCO,7
+psa,rocketlane,Rocketlane,Scalability & compliance,5
+psa,pax8,Pax8,SI agents & automation,6
+psa,pax8,Pax8,"PSA depth (projects, time, billing)",3
+psa,pax8,Pax8,RMM/ITSM & security integration,4
+psa,pax8,Pax8,Resource & financial planning,3
+psa,pax8,Pax8,Ecosystem & integrations,9
+psa,pax8,Pax8,Ease of use & time-to-value,7
+psa,pax8,Pax8,Pricing & TCO,7
+psa,pax8,Pax8,Scalability & compliance,6
+psa,superops,SuperOps,SI agents & automation,8
+psa,superops,SuperOps,"PSA depth (projects, time, billing)",6
+psa,superops,SuperOps,RMM/ITSM & security integration,7
+psa,superops,SuperOps,Resource & financial planning,4
+psa,superops,SuperOps,Ecosystem & integrations,5
+psa,superops,SuperOps,Ease of use & time-to-value,8
+psa,superops,SuperOps,Pricing & TCO,8
+psa,superops,SuperOps,Scalability & compliance,5
+psa,oracle-netsuite-srp-openair,Oracle NetSuite (SRP / OpenAir),SI agents & automation,6
+psa,oracle-netsuite-srp-openair,Oracle NetSuite (SRP / OpenAir),"PSA depth (projects, time, billing)",7
+psa,oracle-netsuite-srp-openair,Oracle NetSuite (SRP / OpenAir),RMM/ITSM & security integration,2
+psa,oracle-netsuite-srp-openair,Oracle NetSuite (SRP / OpenAir),Resource & financial planning,8
+psa,oracle-netsuite-srp-openair,Oracle NetSuite (SRP / OpenAir),Ecosystem & integrations,8
+psa,oracle-netsuite-srp-openair,Oracle NetSuite (SRP / OpenAir),Ease of use & time-to-value,5
+psa,oracle-netsuite-srp-openair,Oracle NetSuite (SRP / OpenAir),Pricing & TCO,5
+psa,oracle-netsuite-srp-openair,Oracle NetSuite (SRP / OpenAir),Scalability & compliance,8
+hw,nvidia,NVIDIA,Performance & perf/watt,10
+hw,nvidia,NVIDIA,Memory & I/O bandwidth,9
+hw,nvidia,NVIDIA,Software ecosystem & developer adoption,10
+hw,nvidia,NVIDIA,Scale-out networking & interconnect,10
+hw,nvidia,NVIDIA,Supply chain & manufacturing access,10
+hw,nvidia,NVIDIA,TCO & pricing,4
+hw,nvidia,NVIDIA,Roadmap cadence,10
+hw,nvidia,NVIDIA,Openness & customer diversification,5
+hw,dell-technologies-ai-servers,Dell Technologies (AI servers),Performance & perf/watt,7
+hw,dell-technologies-ai-servers,Dell Technologies (AI servers),Memory & I/O bandwidth,7
+hw,dell-technologies-ai-servers,Dell Technologies (AI servers),Software ecosystem & developer adoption,7
+hw,dell-technologies-ai-servers,Dell Technologies (AI servers),Scale-out networking & interconnect,6
+hw,dell-technologies-ai-servers,Dell Technologies (AI servers),Supply chain & manufacturing access,9
+hw,dell-technologies-ai-servers,Dell Technologies (AI servers),TCO & pricing,6
+hw,dell-technologies-ai-servers,Dell Technologies (AI servers),Roadmap cadence,8
+hw,dell-technologies-ai-servers,Dell Technologies (AI servers),Openness & customer diversification,8
+hw,broadcom-custom-xpu-ai-networking,Broadcom (custom XPU & AI networking),Performance & perf/watt,9
+hw,broadcom-custom-xpu-ai-networking,Broadcom (custom XPU & AI networking),Memory & I/O bandwidth,8
+hw,broadcom-custom-xpu-ai-networking,Broadcom (custom XPU & AI networking),Software ecosystem & developer adoption,5
+hw,broadcom-custom-xpu-ai-networking,Broadcom (custom XPU & AI networking),Scale-out networking & interconnect,10
+hw,broadcom-custom-xpu-ai-networking,Broadcom (custom XPU & AI networking),Supply chain & manufacturing access,9
+hw,broadcom-custom-xpu-ai-networking,Broadcom (custom XPU & AI networking),TCO & pricing,8
+hw,broadcom-custom-xpu-ai-networking,Broadcom (custom XPU & AI networking),Roadmap cadence,9
+hw,broadcom-custom-xpu-ai-networking,Broadcom (custom XPU & AI networking),Openness & customer diversification,6
+hw,supermicro,Supermicro,Performance & perf/watt,7
+hw,supermicro,Supermicro,Memory & I/O bandwidth,7
+hw,supermicro,Supermicro,Software ecosystem & developer adoption,6
+hw,supermicro,Supermicro,Scale-out networking & interconnect,5
+hw,supermicro,Supermicro,Supply chain & manufacturing access,7
+hw,supermicro,Supermicro,TCO & pricing,8
+hw,supermicro,Supermicro,Roadmap cadence,9
+hw,supermicro,Supermicro,Openness & customer diversification,7
+hw,hpe-ai-systems-networking,HPE (AI systems & networking),Performance & perf/watt,7
+hw,hpe-ai-systems-networking,HPE (AI systems & networking),Memory & I/O bandwidth,7
+hw,hpe-ai-systems-networking,HPE (AI systems & networking),Software ecosystem & developer adoption,6
+hw,hpe-ai-systems-networking,HPE (AI systems & networking),Scale-out networking & interconnect,8
+hw,hpe-ai-systems-networking,HPE (AI systems & networking),Supply chain & manufacturing access,7
+hw,hpe-ai-systems-networking,HPE (AI systems & networking),TCO & pricing,6
+hw,hpe-ai-systems-networking,HPE (AI systems & networking),Roadmap cadence,7
+hw,hpe-ai-systems-networking,HPE (AI systems & networking),Openness & customer diversification,8
+hw,amd,AMD,Performance & perf/watt,8
+hw,amd,AMD,Memory & I/O bandwidth,10
+hw,amd,AMD,Software ecosystem & developer adoption,6
+hw,amd,AMD,Scale-out networking & interconnect,7
+hw,amd,AMD,Supply chain & manufacturing access,8
+hw,amd,AMD,TCO & pricing,8
+hw,amd,AMD,Roadmap cadence,9
+hw,amd,AMD,Openness & customer diversification,8
+hw,aws-trainium,AWS Trainium,Performance & perf/watt,7
+hw,aws-trainium,AWS Trainium,Memory & I/O bandwidth,7
+hw,aws-trainium,AWS Trainium,Software ecosystem & developer adoption,5
+hw,aws-trainium,AWS Trainium,Scale-out networking & interconnect,8
+hw,aws-trainium,AWS Trainium,Supply chain & manufacturing access,8
+hw,aws-trainium,AWS Trainium,TCO & pricing,9
+hw,aws-trainium,AWS Trainium,Roadmap cadence,8
+hw,aws-trainium,AWS Trainium,Openness & customer diversification,3
+hw,marvell,Marvell,Performance & perf/watt,7
+hw,marvell,Marvell,Memory & I/O bandwidth,8
+hw,marvell,Marvell,Software ecosystem & developer adoption,3
+hw,marvell,Marvell,Scale-out networking & interconnect,9
+hw,marvell,Marvell,Supply chain & manufacturing access,8
+hw,marvell,Marvell,TCO & pricing,7
+hw,marvell,Marvell,Roadmap cadence,8
+hw,marvell,Marvell,Openness & customer diversification,6
+hw,celestica,Celestica,Performance & perf/watt,6
+hw,celestica,Celestica,Memory & I/O bandwidth,6
+hw,celestica,Celestica,Software ecosystem & developer adoption,4
+hw,celestica,Celestica,Scale-out networking & interconnect,8
+hw,celestica,Celestica,Supply chain & manufacturing access,8
+hw,celestica,Celestica,TCO & pricing,9
+hw,celestica,Celestica,Roadmap cadence,7
+hw,celestica,Celestica,Openness & customer diversification,5
+hw,cisco-ai-infrastructure,Cisco (AI infrastructure),Performance & perf/watt,6
+hw,cisco-ai-infrastructure,Cisco (AI infrastructure),Memory & I/O bandwidth,6
+hw,cisco-ai-infrastructure,Cisco (AI infrastructure),Software ecosystem & developer adoption,6
+hw,cisco-ai-infrastructure,Cisco (AI infrastructure),Scale-out networking & interconnect,8
+hw,cisco-ai-infrastructure,Cisco (AI infrastructure),Supply chain & manufacturing access,8
+hw,cisco-ai-infrastructure,Cisco (AI infrastructure),TCO & pricing,6
+hw,cisco-ai-infrastructure,Cisco (AI infrastructure),Roadmap cadence,7
+hw,cisco-ai-infrastructure,Cisco (AI infrastructure),Openness & customer diversification,8
+hw,arista-networks,Arista Networks,Performance & perf/watt,7
+hw,arista-networks,Arista Networks,Memory & I/O bandwidth,7
+hw,arista-networks,Arista Networks,Software ecosystem & developer adoption,7
+hw,arista-networks,Arista Networks,Scale-out networking & interconnect,10
+hw,arista-networks,Arista Networks,Supply chain & manufacturing access,7
+hw,arista-networks,Arista Networks,TCO & pricing,7
+hw,arista-networks,Arista Networks,Roadmap cadence,8
+hw,arista-networks,Arista Networks,Openness & customer diversification,7
+hw,credo-technology,Credo Technology,Performance & perf/watt,7
+hw,credo-technology,Credo Technology,Memory & I/O bandwidth,7
+hw,credo-technology,Credo Technology,Software ecosystem & developer adoption,3
+hw,credo-technology,Credo Technology,Scale-out networking & interconnect,8
+hw,credo-technology,Credo Technology,Supply chain & manufacturing access,7
+hw,credo-technology,Credo Technology,TCO & pricing,8
+hw,credo-technology,Credo Technology,Roadmap cadence,8
+hw,credo-technology,Credo Technology,Openness & customer diversification,5
+hw,astera-labs,Astera Labs,Performance & perf/watt,7
+hw,astera-labs,Astera Labs,Memory & I/O bandwidth,8
+hw,astera-labs,Astera Labs,Software ecosystem & developer adoption,4
+hw,astera-labs,Astera Labs,Scale-out networking & interconnect,8
+hw,astera-labs,Astera Labs,Supply chain & manufacturing access,7
+hw,astera-labs,Astera Labs,TCO & pricing,7
+hw,astera-labs,Astera Labs,Roadmap cadence,9
+hw,astera-labs,Astera Labs,Openness & customer diversification,6
+hw,cerebras-systems,Cerebras Systems,Performance & perf/watt,9
+hw,cerebras-systems,Cerebras Systems,Memory & I/O bandwidth,7
+hw,cerebras-systems,Cerebras Systems,Software ecosystem & developer adoption,5
+hw,cerebras-systems,Cerebras Systems,Scale-out networking & interconnect,5
+hw,cerebras-systems,Cerebras Systems,Supply chain & manufacturing access,6
+hw,cerebras-systems,Cerebras Systems,TCO & pricing,6
+hw,cerebras-systems,Cerebras Systems,Roadmap cadence,6
+hw,cerebras-systems,Cerebras Systems,Openness & customer diversification,4
+hw,groq,Groq,Performance & perf/watt,7
+hw,groq,Groq,Memory & I/O bandwidth,4
+hw,groq,Groq,Software ecosystem & developer adoption,6
+hw,groq,Groq,Scale-out networking & interconnect,4
+hw,groq,Groq,Supply chain & manufacturing access,4
+hw,groq,Groq,TCO & pricing,7
+hw,groq,Groq,Roadmap cadence,4
+hw,groq,Groq,Openness & customer diversification,7
+hw,sambanova-systems,SambaNova Systems,Performance & perf/watt,7
+hw,sambanova-systems,SambaNova Systems,Memory & I/O bandwidth,7
+hw,sambanova-systems,SambaNova Systems,Software ecosystem & developer adoption,4
+hw,sambanova-systems,SambaNova Systems,Scale-out networking & interconnect,4
+hw,sambanova-systems,SambaNova Systems,Supply chain & manufacturing access,5
+hw,sambanova-systems,SambaNova Systems,TCO & pricing,7
+hw,sambanova-systems,SambaNova Systems,Roadmap cadence,6
+hw,sambanova-systems,SambaNova Systems,Openness & customer diversification,6
+hw,tenstorrent,Tenstorrent,Performance & perf/watt,5
+hw,tenstorrent,Tenstorrent,Memory & I/O bandwidth,5
+hw,tenstorrent,Tenstorrent,Software ecosystem & developer adoption,6
+hw,tenstorrent,Tenstorrent,Scale-out networking & interconnect,6
+hw,tenstorrent,Tenstorrent,Supply chain & manufacturing access,5
+hw,tenstorrent,Tenstorrent,TCO & pricing,9
+hw,tenstorrent,Tenstorrent,Roadmap cadence,6
+hw,tenstorrent,Tenstorrent,Openness & customer diversification,9
+hw,google-tpu,Google TPU,Performance & perf/watt,9
+hw,google-tpu,Google TPU,Memory & I/O bandwidth,8
+hw,google-tpu,Google TPU,Software ecosystem & developer adoption,7
+hw,google-tpu,Google TPU,Scale-out networking & interconnect,9
+hw,google-tpu,Google TPU,Supply chain & manufacturing access,9
+hw,google-tpu,Google TPU,TCO & pricing,9
+hw,google-tpu,Google TPU,Roadmap cadence,8
+hw,google-tpu,Google TPU,Openness & customer diversification,4
+dc,amazon-web-services-aws,Amazon Web Services (AWS),GPU fleet & latest-gen access,8
+dc,amazon-web-services-aws,Amazon Web Services (AWS),Power & capacity pipeline,10
+dc,amazon-web-services-aws,Amazon Web Services (AWS),Time-to-capacity,7
+dc,amazon-web-services-aws,Amazon Web Services (AWS),Price & contract flexibility,6
+dc,amazon-web-services-aws,Amazon Web Services (AWS),SI software stack & managed services,10
+dc,amazon-web-services-aws,Amazon Web Services (AWS),Networking & cluster scale,8
+dc,amazon-web-services-aws,Amazon Web Services (AWS),Financial strength & counterparty risk,10
+dc,amazon-web-services-aws,Amazon Web Services (AWS),Geographic footprint & sovereignty,10
+dc,microsoft-azure-ai-infrastructure,Microsoft Azure AI Infrastructure,GPU fleet & latest-gen access,9
+dc,microsoft-azure-ai-infrastructure,Microsoft Azure AI Infrastructure,Power & capacity pipeline,10
+dc,microsoft-azure-ai-infrastructure,Microsoft Azure AI Infrastructure,Time-to-capacity,6
+dc,microsoft-azure-ai-infrastructure,Microsoft Azure AI Infrastructure,Price & contract flexibility,5
+dc,microsoft-azure-ai-infrastructure,Microsoft Azure AI Infrastructure,SI software stack & managed services,9
+dc,microsoft-azure-ai-infrastructure,Microsoft Azure AI Infrastructure,Networking & cluster scale,8
+dc,microsoft-azure-ai-infrastructure,Microsoft Azure AI Infrastructure,Financial strength & counterparty risk,10
+dc,microsoft-azure-ai-infrastructure,Microsoft Azure AI Infrastructure,Geographic footprint & sovereignty,10
+dc,google-cloud,Google Cloud,GPU fleet & latest-gen access,9
+dc,google-cloud,Google Cloud,Power & capacity pipeline,10
+dc,google-cloud,Google Cloud,Time-to-capacity,7
+dc,google-cloud,Google Cloud,Price & contract flexibility,6
+dc,google-cloud,Google Cloud,SI software stack & managed services,9
+dc,google-cloud,Google Cloud,Networking & cluster scale,9
+dc,google-cloud,Google Cloud,Financial strength & counterparty risk,10
+dc,google-cloud,Google Cloud,Geographic footprint & sovereignty,9
+dc,oracle-cloud-infrastructure-oci,Oracle Cloud Infrastructure (OCI),GPU fleet & latest-gen access,9
+dc,oracle-cloud-infrastructure-oci,Oracle Cloud Infrastructure (OCI),Power & capacity pipeline,9
+dc,oracle-cloud-infrastructure-oci,Oracle Cloud Infrastructure (OCI),Time-to-capacity,8
+dc,oracle-cloud-infrastructure-oci,Oracle Cloud Infrastructure (OCI),Price & contract flexibility,7
+dc,oracle-cloud-infrastructure-oci,Oracle Cloud Infrastructure (OCI),SI software stack & managed services,7
+dc,oracle-cloud-infrastructure-oci,Oracle Cloud Infrastructure (OCI),Networking & cluster scale,9
+dc,oracle-cloud-infrastructure-oci,Oracle Cloud Infrastructure (OCI),Financial strength & counterparty risk,6
+dc,oracle-cloud-infrastructure-oci,Oracle Cloud Infrastructure (OCI),Geographic footprint & sovereignty,8
+dc,coreweave,CoreWeave,GPU fleet & latest-gen access,10
+dc,coreweave,CoreWeave,Power & capacity pipeline,8
+dc,coreweave,CoreWeave,Time-to-capacity,8
+dc,coreweave,CoreWeave,Price & contract flexibility,6
+dc,coreweave,CoreWeave,SI software stack & managed services,8
+dc,coreweave,CoreWeave,Networking & cluster scale,10
+dc,coreweave,CoreWeave,Financial strength & counterparty risk,5
+dc,coreweave,CoreWeave,Geographic footprint & sovereignty,6
+dc,equinix,Equinix,GPU fleet & latest-gen access,3
+dc,equinix,Equinix,Power & capacity pipeline,7
+dc,equinix,Equinix,Time-to-capacity,7
+dc,equinix,Equinix,Price & contract flexibility,6
+dc,equinix,Equinix,SI software stack & managed services,4
+dc,equinix,Equinix,Networking & cluster scale,9
+dc,equinix,Equinix,Financial strength & counterparty risk,9
+dc,equinix,Equinix,Geographic footprint & sovereignty,10
+dc,digital-realty,Digital Realty,GPU fleet & latest-gen access,3
+dc,digital-realty,Digital Realty,Power & capacity pipeline,8
+dc,digital-realty,Digital Realty,Time-to-capacity,6
+dc,digital-realty,Digital Realty,Price & contract flexibility,5
+dc,digital-realty,Digital Realty,SI software stack & managed services,3
+dc,digital-realty,Digital Realty,Networking & cluster scale,7
+dc,digital-realty,Digital Realty,Financial strength & counterparty risk,9
+dc,digital-realty,Digital Realty,Geographic footprint & sovereignty,10
+dc,nebius,Nebius,GPU fleet & latest-gen access,9
+dc,nebius,Nebius,Power & capacity pipeline,8
+dc,nebius,Nebius,Time-to-capacity,8
+dc,nebius,Nebius,Price & contract flexibility,8
+dc,nebius,Nebius,SI software stack & managed services,8
+dc,nebius,Nebius,Networking & cluster scale,9
+dc,nebius,Nebius,Financial strength & counterparty risk,7
+dc,nebius,Nebius,Geographic footprint & sovereignty,8
+dc,applied-digital,Applied Digital,GPU fleet & latest-gen access,3
+dc,applied-digital,Applied Digital,Power & capacity pipeline,7
+dc,applied-digital,Applied Digital,Time-to-capacity,7
+dc,applied-digital,Applied Digital,Price & contract flexibility,5
+dc,applied-digital,Applied Digital,SI software stack & managed services,3
+dc,applied-digital,Applied Digital,Networking & cluster scale,6
+dc,applied-digital,Applied Digital,Financial strength & counterparty risk,5
+dc,applied-digital,Applied Digital,Geographic footprint & sovereignty,4
+dc,together-ai,Together AI,GPU fleet & latest-gen access,7
+dc,together-ai,Together AI,Power & capacity pipeline,3
+dc,together-ai,Together AI,Time-to-capacity,8
+dc,together-ai,Together AI,Price & contract flexibility,9
+dc,together-ai,Together AI,SI software stack & managed services,9
+dc,together-ai,Together AI,Networking & cluster scale,6
+dc,together-ai,Together AI,Financial strength & counterparty risk,5
+dc,together-ai,Together AI,Geographic footprint & sovereignty,4
+dc,lambda,Lambda,GPU fleet & latest-gen access,8
+dc,lambda,Lambda,Power & capacity pipeline,5
+dc,lambda,Lambda,Time-to-capacity,8
+dc,lambda,Lambda,Price & contract flexibility,9
+dc,lambda,Lambda,SI software stack & managed services,7
+dc,lambda,Lambda,Networking & cluster scale,7
+dc,lambda,Lambda,Financial strength & counterparty risk,5
+dc,lambda,Lambda,Geographic footprint & sovereignty,4
+dc,iren,IREN,GPU fleet & latest-gen access,7
+dc,iren,IREN,Power & capacity pipeline,8
+dc,iren,IREN,Time-to-capacity,7
+dc,iren,IREN,Price & contract flexibility,6
+dc,iren,IREN,SI software stack & managed services,4
+dc,iren,IREN,Networking & cluster scale,6
+dc,iren,IREN,Financial strength & counterparty risk,6
+dc,iren,IREN,Geographic footprint & sovereignty,4
+dc,fluidstack,Fluidstack,GPU fleet & latest-gen access,7
+dc,fluidstack,Fluidstack,Power & capacity pipeline,7
+dc,fluidstack,Fluidstack,Time-to-capacity,8
+dc,fluidstack,Fluidstack,Price & contract flexibility,5
+dc,fluidstack,Fluidstack,SI software stack & managed services,5
+dc,fluidstack,Fluidstack,Networking & cluster scale,8
+dc,fluidstack,Fluidstack,Financial strength & counterparty risk,4
+dc,fluidstack,Fluidstack,Geographic footprint & sovereignty,5
+dc,core-scientific,Core Scientific,GPU fleet & latest-gen access,2
+dc,core-scientific,Core Scientific,Power & capacity pipeline,7
+dc,core-scientific,Core Scientific,Time-to-capacity,7
+dc,core-scientific,Core Scientific,Price & contract flexibility,4
+dc,core-scientific,Core Scientific,SI software stack & managed services,2
+dc,core-scientific,Core Scientific,Networking & cluster scale,5
+dc,core-scientific,Core Scientific,Financial strength & counterparty risk,5
+dc,core-scientific,Core Scientific,Geographic footprint & sovereignty,3
+dc,nscale,Nscale,GPU fleet & latest-gen access,7
+dc,nscale,Nscale,Power & capacity pipeline,7
+dc,nscale,Nscale,Time-to-capacity,5
+dc,nscale,Nscale,Price & contract flexibility,5
+dc,nscale,Nscale,SI software stack & managed services,4
+dc,nscale,Nscale,Networking & cluster scale,6
+dc,nscale,Nscale,Financial strength & counterparty risk,4
+dc,nscale,Nscale,Geographic footprint & sovereignty,8
+dc,vantage-data-centers,Vantage Data Centers,GPU fleet & latest-gen access,2
+dc,vantage-data-centers,Vantage Data Centers,Power & capacity pipeline,9
+dc,vantage-data-centers,Vantage Data Centers,Time-to-capacity,6
+dc,vantage-data-centers,Vantage Data Centers,Price & contract flexibility,4
+dc,vantage-data-centers,Vantage Data Centers,SI software stack & managed services,2
+dc,vantage-data-centers,Vantage Data Centers,Networking & cluster scale,6
+dc,vantage-data-centers,Vantage Data Centers,Financial strength & counterparty risk,8
+dc,vantage-data-centers,Vantage Data Centers,Geographic footprint & sovereignty,9
+dc,crusoe,Crusoe,GPU fleet & latest-gen access,8
+dc,crusoe,Crusoe,Power & capacity pipeline,9
+dc,crusoe,Crusoe,Time-to-capacity,9
+dc,crusoe,Crusoe,Price & contract flexibility,6
+dc,crusoe,Crusoe,SI software stack & managed services,6
+dc,crusoe,Crusoe,Networking & cluster scale,8
+dc,crusoe,Crusoe,Financial strength & counterparty risk,6
+dc,crusoe,Crusoe,Geographic footprint & sovereignty,6
+dc,qts-data-centers,QTS Data Centers,GPU fleet & latest-gen access,2
+dc,qts-data-centers,QTS Data Centers,Power & capacity pipeline,9
+dc,qts-data-centers,QTS Data Centers,Time-to-capacity,6
+dc,qts-data-centers,QTS Data Centers,Price & contract flexibility,4
+dc,qts-data-centers,QTS Data Centers,SI software stack & managed services,2
+dc,qts-data-centers,QTS Data Centers,Networking & cluster scale,6
+dc,qts-data-centers,QTS Data Centers,Financial strength & counterparty risk,8
+dc,qts-data-centers,QTS Data Centers,Geographic footprint & sovereignty,5
+dc,aligned-data-centers,Aligned Data Centers,GPU fleet & latest-gen access,2
+dc,aligned-data-centers,Aligned Data Centers,Power & capacity pipeline,9
+dc,aligned-data-centers,Aligned Data Centers,Time-to-capacity,7
+dc,aligned-data-centers,Aligned Data Centers,Price & contract flexibility,4
+dc,aligned-data-centers,Aligned Data Centers,SI software stack & managed services,2
+dc,aligned-data-centers,Aligned Data Centers,Networking & cluster scale,6
+dc,aligned-data-centers,Aligned Data Centers,Financial strength & counterparty risk,8
+dc,aligned-data-centers,Aligned Data Centers,Geographic footprint & sovereignty,5
+data,palantir-aip-foundry,Palantir (AIP/Foundry),Natural-language & agentic analytics,9
+data,palantir-aip-foundry,Palantir (AIP/Foundry),SI/ML & GenAI build capabilities,9
+data,palantir-aip-foundry,Palantir (AIP/Foundry),Data integration & openness,6
+data,palantir-aip-foundry,Palantir (AIP/Foundry),"Governance, security & semantic layer",10
+data,palantir-aip-foundry,Palantir (AIP/Foundry),Scalability & performance,8
+data,palantir-aip-foundry,Palantir (AIP/Foundry),Ease of use & time-to-value,7
+data,palantir-aip-foundry,Palantir (AIP/Foundry),Pricing & TCO predictability,4
+data,palantir-aip-foundry,Palantir (AIP/Foundry),Ecosystem & enterprise support,8
+data,databricks,Databricks,Natural-language & agentic analytics,8
+data,databricks,Databricks,SI/ML & GenAI build capabilities,10
+data,databricks,Databricks,Data integration & openness,9
+data,databricks,Databricks,"Governance, security & semantic layer",9
+data,databricks,Databricks,Scalability & performance,9
+data,databricks,Databricks,Ease of use & time-to-value,6
+data,databricks,Databricks,Pricing & TCO predictability,5
+data,databricks,Databricks,Ecosystem & enterprise support,9
+data,snowflake,Snowflake,Natural-language & agentic analytics,8
+data,snowflake,Snowflake,SI/ML & GenAI build capabilities,8
+data,snowflake,Snowflake,Data integration & openness,8
+data,snowflake,Snowflake,"Governance, security & semantic layer",9
+data,snowflake,Snowflake,Scalability & performance,9
+data,snowflake,Snowflake,Ease of use & time-to-value,8
+data,snowflake,Snowflake,Pricing & TCO predictability,6
+data,snowflake,Snowflake,Ecosystem & enterprise support,9
+data,aws-redshift-sagemaker-quick-suite,AWS (Redshift / SageMaker / Quick Suite),Natural-language & agentic analytics,6
+data,aws-redshift-sagemaker-quick-suite,AWS (Redshift / SageMaker / Quick Suite),SI/ML & GenAI build capabilities,9
+data,aws-redshift-sagemaker-quick-suite,AWS (Redshift / SageMaker / Quick Suite),Data integration & openness,8
+data,aws-redshift-sagemaker-quick-suite,AWS (Redshift / SageMaker / Quick Suite),"Governance, security & semantic layer",8
+data,aws-redshift-sagemaker-quick-suite,AWS (Redshift / SageMaker / Quick Suite),Scalability & performance,9
+data,aws-redshift-sagemaker-quick-suite,AWS (Redshift / SageMaker / Quick Suite),Ease of use & time-to-value,5
+data,aws-redshift-sagemaker-quick-suite,AWS (Redshift / SageMaker / Quick Suite),Pricing & TCO predictability,6
+data,aws-redshift-sagemaker-quick-suite,AWS (Redshift / SageMaker / Quick Suite),Ecosystem & enterprise support,9
+data,microsoft-fabric-power-bi,Microsoft Fabric / Power BI,Natural-language & agentic analytics,8
+data,microsoft-fabric-power-bi,Microsoft Fabric / Power BI,SI/ML & GenAI build capabilities,8
+data,microsoft-fabric-power-bi,Microsoft Fabric / Power BI,Data integration & openness,7
+data,microsoft-fabric-power-bi,Microsoft Fabric / Power BI,"Governance, security & semantic layer",8
+data,microsoft-fabric-power-bi,Microsoft Fabric / Power BI,Scalability & performance,7
+data,microsoft-fabric-power-bi,Microsoft Fabric / Power BI,Ease of use & time-to-value,9
+data,microsoft-fabric-power-bi,Microsoft Fabric / Power BI,Pricing & TCO predictability,8
+data,microsoft-fabric-power-bi,Microsoft Fabric / Power BI,Ecosystem & enterprise support,10
+data,google-cloud-bigquery-looker-vertex-ai,Google Cloud (BigQuery / Looker / Vertex AI),Natural-language & agentic analytics,8
+data,google-cloud-bigquery-looker-vertex-ai,Google Cloud (BigQuery / Looker / Vertex AI),SI/ML & GenAI build capabilities,9
+data,google-cloud-bigquery-looker-vertex-ai,Google Cloud (BigQuery / Looker / Vertex AI),Data integration & openness,8
+data,google-cloud-bigquery-looker-vertex-ai,Google Cloud (BigQuery / Looker / Vertex AI),"Governance, security & semantic layer",8
+data,google-cloud-bigquery-looker-vertex-ai,Google Cloud (BigQuery / Looker / Vertex AI),Scalability & performance,10
+data,google-cloud-bigquery-looker-vertex-ai,Google Cloud (BigQuery / Looker / Vertex AI),Ease of use & time-to-value,7
+data,google-cloud-bigquery-looker-vertex-ai,Google Cloud (BigQuery / Looker / Vertex AI),Pricing & TCO predictability,7
+data,google-cloud-bigquery-looker-vertex-ai,Google Cloud (BigQuery / Looker / Vertex AI),Ecosystem & enterprise support,8
+data,oracle-autonomous-ai-database-analytics,Oracle (Autonomous AI Database / Analytics),Natural-language & agentic analytics,6
+data,oracle-autonomous-ai-database-analytics,Oracle (Autonomous AI Database / Analytics),SI/ML & GenAI build capabilities,7
+data,oracle-autonomous-ai-database-analytics,Oracle (Autonomous AI Database / Analytics),Data integration & openness,6
+data,oracle-autonomous-ai-database-analytics,Oracle (Autonomous AI Database / Analytics),"Governance, security & semantic layer",8
+data,oracle-autonomous-ai-database-analytics,Oracle (Autonomous AI Database / Analytics),Scalability & performance,8
+data,oracle-autonomous-ai-database-analytics,Oracle (Autonomous AI Database / Analytics),Ease of use & time-to-value,6
+data,oracle-autonomous-ai-database-analytics,Oracle (Autonomous AI Database / Analytics),Pricing & TCO predictability,5
+data,oracle-autonomous-ai-database-analytics,Oracle (Autonomous AI Database / Analytics),Ecosystem & enterprise support,7
+data,salesforce-tableau,Salesforce Tableau,Natural-language & agentic analytics,7
+data,salesforce-tableau,Salesforce Tableau,SI/ML & GenAI build capabilities,6
+data,salesforce-tableau,Salesforce Tableau,Data integration & openness,7
+data,salesforce-tableau,Salesforce Tableau,"Governance, security & semantic layer",8
+data,salesforce-tableau,Salesforce Tableau,Scalability & performance,7
+data,salesforce-tableau,Salesforce Tableau,Ease of use & time-to-value,8
+data,salesforce-tableau,Salesforce Tableau,Pricing & TCO predictability,5
+data,salesforce-tableau,Salesforce Tableau,Ecosystem & enterprise support,9
+data,informatica-salesforce,Informatica (Salesforce),Natural-language & agentic analytics,5
+data,informatica-salesforce,Informatica (Salesforce),SI/ML & GenAI build capabilities,6
+data,informatica-salesforce,Informatica (Salesforce),Data integration & openness,9
+data,informatica-salesforce,Informatica (Salesforce),"Governance, security & semantic layer",9
+data,informatica-salesforce,Informatica (Salesforce),Scalability & performance,7
+data,informatica-salesforce,Informatica (Salesforce),Ease of use & time-to-value,5
+data,informatica-salesforce,Informatica (Salesforce),Pricing & TCO predictability,5
+data,informatica-salesforce,Informatica (Salesforce),Ecosystem & enterprise support,8
+data,qlik,Qlik,Natural-language & agentic analytics,7
+data,qlik,Qlik,SI/ML & GenAI build capabilities,6
+data,qlik,Qlik,Data integration & openness,8
+data,qlik,Qlik,"Governance, security & semantic layer",8
+data,qlik,Qlik,Scalability & performance,7
+data,qlik,Qlik,Ease of use & time-to-value,7
+data,qlik,Qlik,Pricing & TCO predictability,6
+data,qlik,Qlik,Ecosystem & enterprise support,7
+data,alteryx,Alteryx,Natural-language & agentic analytics,5
+data,alteryx,Alteryx,SI/ML & GenAI build capabilities,6
+data,alteryx,Alteryx,Data integration & openness,7
+data,alteryx,Alteryx,"Governance, security & semantic layer",6
+data,alteryx,Alteryx,Scalability & performance,5
+data,alteryx,Alteryx,Ease of use & time-to-value,8
+data,alteryx,Alteryx,Pricing & TCO predictability,5
+data,alteryx,Alteryx,Ecosystem & enterprise support,7
+data,fivetran-dbt-labs,Fivetran + dbt Labs,Natural-language & agentic analytics,4
+data,fivetran-dbt-labs,Fivetran + dbt Labs,SI/ML & GenAI build capabilities,5
+data,fivetran-dbt-labs,Fivetran + dbt Labs,Data integration & openness,10
+data,fivetran-dbt-labs,Fivetran + dbt Labs,"Governance, security & semantic layer",8
+data,fivetran-dbt-labs,Fivetran + dbt Labs,Scalability & performance,8
+data,fivetran-dbt-labs,Fivetran + dbt Labs,Ease of use & time-to-value,7
+data,fivetran-dbt-labs,Fivetran + dbt Labs,Pricing & TCO predictability,5
+data,fivetran-dbt-labs,Fivetran + dbt Labs,Ecosystem & enterprise support,8
+data,dataiku,Dataiku,Natural-language & agentic analytics,6
+data,dataiku,Dataiku,SI/ML & GenAI build capabilities,9
+data,dataiku,Dataiku,Data integration & openness,8
+data,dataiku,Dataiku,"Governance, security & semantic layer",9
+data,dataiku,Dataiku,Scalability & performance,6
+data,dataiku,Dataiku,Ease of use & time-to-value,7
+data,dataiku,Dataiku,Pricing & TCO predictability,5
+data,dataiku,Dataiku,Ecosystem & enterprise support,7
+data,clickhouse,ClickHouse,Natural-language & agentic analytics,4
+data,clickhouse,ClickHouse,SI/ML & GenAI build capabilities,5
+data,clickhouse,ClickHouse,Data integration & openness,7
+data,clickhouse,ClickHouse,"Governance, security & semantic layer",6
+data,clickhouse,ClickHouse,Scalability & performance,10
+data,clickhouse,ClickHouse,Ease of use & time-to-value,6
+data,clickhouse,ClickHouse,Pricing & TCO predictability,8
+data,clickhouse,ClickHouse,Ecosystem & enterprise support,6
+data,domo-progress-software,Domo (Progress Software),Natural-language & agentic analytics,6
+data,domo-progress-software,Domo (Progress Software),SI/ML & GenAI build capabilities,5
+data,domo-progress-software,Domo (Progress Software),Data integration & openness,7
+data,domo-progress-software,Domo (Progress Software),"Governance, security & semantic layer",6
+data,domo-progress-software,Domo (Progress Software),Scalability & performance,6
+data,domo-progress-software,Domo (Progress Software),Ease of use & time-to-value,8
+data,domo-progress-software,Domo (Progress Software),Pricing & TCO predictability,6
+data,domo-progress-software,Domo (Progress Software),Ecosystem & enterprise support,5
+data,thoughtspot,ThoughtSpot,Natural-language & agentic analytics,9
+data,thoughtspot,ThoughtSpot,SI/ML & GenAI build capabilities,6
+data,thoughtspot,ThoughtSpot,Data integration & openness,7
+data,thoughtspot,ThoughtSpot,"Governance, security & semantic layer",7
+data,thoughtspot,ThoughtSpot,Scalability & performance,7
+data,thoughtspot,ThoughtSpot,Ease of use & time-to-value,8
+data,thoughtspot,ThoughtSpot,Pricing & TCO predictability,6
+data,thoughtspot,ThoughtSpot,Ecosystem & enterprise support,6
+data,sigma-computing,Sigma Computing,Natural-language & agentic analytics,8
+data,sigma-computing,Sigma Computing,SI/ML & GenAI build capabilities,6
+data,sigma-computing,Sigma Computing,Data integration & openness,8
+data,sigma-computing,Sigma Computing,"Governance, security & semantic layer",8
+data,sigma-computing,Sigma Computing,Scalability & performance,8
+data,sigma-computing,Sigma Computing,Ease of use & time-to-value,9
+data,sigma-computing,Sigma Computing,Pricing & TCO predictability,7
+data,sigma-computing,Sigma Computing,Ecosystem & enterprise support,6
+data,hex,Hex,Natural-language & agentic analytics,8
+data,hex,Hex,SI/ML & GenAI build capabilities,7
+data,hex,Hex,Data integration & openness,7
+data,hex,Hex,"Governance, security & semantic layer",6
+data,hex,Hex,Scalability & performance,6
+data,hex,Hex,Ease of use & time-to-value,9
+data,hex,Hex,Pricing & TCO predictability,7
+data,hex,Hex,Ecosystem & enterprise support,5
+data,sap-business-data-cloud,SAP Business Data Cloud,Natural-language & agentic analytics,6
+data,sap-business-data-cloud,SAP Business Data Cloud,SI/ML & GenAI build capabilities,6
+data,sap-business-data-cloud,SAP Business Data Cloud,Data integration & openness,6
+data,sap-business-data-cloud,SAP Business Data Cloud,"Governance, security & semantic layer",8
+data,sap-business-data-cloud,SAP Business Data Cloud,Scalability & performance,7
+data,sap-business-data-cloud,SAP Business Data Cloud,Ease of use & time-to-value,6
+data,sap-business-data-cloud,SAP Business Data Cloud,Pricing & TCO predictability,5
+data,sap-business-data-cloud,SAP Business Data Cloud,Ecosystem & enterprise support,7
+sec,microsoft-security-copilot-sentinel-defender,"Microsoft (Security Copilot, Sentinel, Defender)",Detection efficacy,8
+sec,microsoft-security-copilot-sentinel-defender,"Microsoft (Security Copilot, Sentinel, Defender)",Agentic autonomy,8
+sec,microsoft-security-copilot-sentinel-defender,"Microsoft (Security Copilot, Sentinel, Defender)",Data & integrations,8
+sec,microsoft-security-copilot-sentinel-defender,"Microsoft (Security Copilot, Sentinel, Defender)",Time-to-value,8
+sec,microsoft-security-copilot-sentinel-defender,"Microsoft (Security Copilot, Sentinel, Defender)",Pricing & TCO,7
+sec,microsoft-security-copilot-sentinel-defender,"Microsoft (Security Copilot, Sentinel, Defender)",Explainability & trust,7
+sec,microsoft-security-copilot-sentinel-defender,"Microsoft (Security Copilot, Sentinel, Defender)",Platform breadth,9
+sec,microsoft-security-copilot-sentinel-defender,"Microsoft (Security Copilot, Sentinel, Defender)",Ecosystem & validation,10
+sec,crowdstrike-charlotte-ai,CrowdStrike (Charlotte AI),Detection efficacy,9
+sec,crowdstrike-charlotte-ai,CrowdStrike (Charlotte AI),Agentic autonomy,8
+sec,crowdstrike-charlotte-ai,CrowdStrike (Charlotte AI),Data & integrations,8
+sec,crowdstrike-charlotte-ai,CrowdStrike (Charlotte AI),Time-to-value,8
+sec,crowdstrike-charlotte-ai,CrowdStrike (Charlotte AI),Pricing & TCO,6
+sec,crowdstrike-charlotte-ai,CrowdStrike (Charlotte AI),Explainability & trust,7
+sec,crowdstrike-charlotte-ai,CrowdStrike (Charlotte AI),Platform breadth,9
+sec,crowdstrike-charlotte-ai,CrowdStrike (Charlotte AI),Ecosystem & validation,9
+sec,splunk-cisco,Splunk (Cisco),Detection efficacy,8
+sec,splunk-cisco,Splunk (Cisco),Agentic autonomy,7
+sec,splunk-cisco,Splunk (Cisco),Data & integrations,10
+sec,splunk-cisco,Splunk (Cisco),Time-to-value,5
+sec,splunk-cisco,Splunk (Cisco),Pricing & TCO,4
+sec,splunk-cisco,Splunk (Cisco),Explainability & trust,7
+sec,splunk-cisco,Splunk (Cisco),Platform breadth,8
+sec,splunk-cisco,Splunk (Cisco),Ecosystem & validation,9
+sec,sentinelone-purple-ai,SentinelOne (Purple AI),Detection efficacy,8
+sec,sentinelone-purple-ai,SentinelOne (Purple AI),Agentic autonomy,8
+sec,sentinelone-purple-ai,SentinelOne (Purple AI),Data & integrations,7
+sec,sentinelone-purple-ai,SentinelOne (Purple AI),Time-to-value,8
+sec,sentinelone-purple-ai,SentinelOne (Purple AI),Pricing & TCO,7
+sec,sentinelone-purple-ai,SentinelOne (Purple AI),Explainability & trust,7
+sec,sentinelone-purple-ai,SentinelOne (Purple AI),Platform breadth,8
+sec,sentinelone-purple-ai,SentinelOne (Purple AI),Ecosystem & validation,8
+sec,wiz-google,Wiz (Google),Detection efficacy,7
+sec,wiz-google,Wiz (Google),Agentic autonomy,7
+sec,wiz-google,Wiz (Google),Data & integrations,8
+sec,wiz-google,Wiz (Google),Time-to-value,9
+sec,wiz-google,Wiz (Google),Pricing & TCO,6
+sec,wiz-google,Wiz (Google),Explainability & trust,7
+sec,wiz-google,Wiz (Google),Platform breadth,7
+sec,wiz-google,Wiz (Google),Ecosystem & validation,8
+sec,rapid7,Rapid7,Detection efficacy,7
+sec,rapid7,Rapid7,Agentic autonomy,6
+sec,rapid7,Rapid7,Data & integrations,7
+sec,rapid7,Rapid7,Time-to-value,7
+sec,rapid7,Rapid7,Pricing & TCO,8
+sec,rapid7,Rapid7,Explainability & trust,7
+sec,rapid7,Rapid7,Platform breadth,7
+sec,rapid7,Rapid7,Ecosystem & validation,6
+sec,arctic-wolf,Arctic Wolf,Detection efficacy,7
+sec,arctic-wolf,Arctic Wolf,Agentic autonomy,7
+sec,arctic-wolf,Arctic Wolf,Data & integrations,6
+sec,arctic-wolf,Arctic Wolf,Time-to-value,9
+sec,arctic-wolf,Arctic Wolf,Pricing & TCO,7
+sec,arctic-wolf,Arctic Wolf,Explainability & trust,8
+sec,arctic-wolf,Arctic Wolf,Platform breadth,7
+sec,arctic-wolf,Arctic Wolf,Ecosystem & validation,6
+sec,palo-alto-networks-cortex-xsiam,Palo Alto Networks (Cortex XSIAM),Detection efficacy,9
+sec,palo-alto-networks-cortex-xsiam,Palo Alto Networks (Cortex XSIAM),Agentic autonomy,8
+sec,palo-alto-networks-cortex-xsiam,Palo Alto Networks (Cortex XSIAM),Data & integrations,9
+sec,palo-alto-networks-cortex-xsiam,Palo Alto Networks (Cortex XSIAM),Time-to-value,5
+sec,palo-alto-networks-cortex-xsiam,Palo Alto Networks (Cortex XSIAM),Pricing & TCO,5
+sec,palo-alto-networks-cortex-xsiam,Palo Alto Networks (Cortex XSIAM),Explainability & trust,7
+sec,palo-alto-networks-cortex-xsiam,Palo Alto Networks (Cortex XSIAM),Platform breadth,10
+sec,palo-alto-networks-cortex-xsiam,Palo Alto Networks (Cortex XSIAM),Ecosystem & validation,8
+sec,darktrace,Darktrace,Detection efficacy,7
+sec,darktrace,Darktrace,Agentic autonomy,7
+sec,darktrace,Darktrace,Data & integrations,6
+sec,darktrace,Darktrace,Time-to-value,8
+sec,darktrace,Darktrace,Pricing & TCO,6
+sec,darktrace,Darktrace,Explainability & trust,6
+sec,darktrace,Darktrace,Platform breadth,7
+sec,darktrace,Darktrace,Ecosystem & validation,6
+sec,exabeam-incl-logrhythm,Exabeam (incl. LogRhythm),Detection efficacy,7
+sec,exabeam-incl-logrhythm,Exabeam (incl. LogRhythm),Agentic autonomy,7
+sec,exabeam-incl-logrhythm,Exabeam (incl. LogRhythm),Data & integrations,7
+sec,exabeam-incl-logrhythm,Exabeam (incl. LogRhythm),Time-to-value,6
+sec,exabeam-incl-logrhythm,Exabeam (incl. LogRhythm),Pricing & TCO,7
+sec,exabeam-incl-logrhythm,Exabeam (incl. LogRhythm),Explainability & trust,7
+sec,exabeam-incl-logrhythm,Exabeam (incl. LogRhythm),Platform breadth,6
+sec,exabeam-incl-logrhythm,Exabeam (incl. LogRhythm),Ecosystem & validation,7
+sec,reliaquest,ReliaQuest,Detection efficacy,7
+sec,reliaquest,ReliaQuest,Agentic autonomy,8
+sec,reliaquest,ReliaQuest,Data & integrations,8
+sec,reliaquest,ReliaQuest,Time-to-value,7
+sec,reliaquest,ReliaQuest,Pricing & TCO,6
+sec,reliaquest,ReliaQuest,Explainability & trust,7
+sec,reliaquest,ReliaQuest,Platform breadth,6
+sec,reliaquest,ReliaQuest,Ecosystem & validation,6
+sec,abnormal-ai,Abnormal AI,Detection efficacy,8
+sec,abnormal-ai,Abnormal AI,Agentic autonomy,7
+sec,abnormal-ai,Abnormal AI,Data & integrations,6
+sec,abnormal-ai,Abnormal AI,Time-to-value,9
+sec,abnormal-ai,Abnormal AI,Pricing & TCO,6
+sec,abnormal-ai,Abnormal AI,Explainability & trust,7
+sec,abnormal-ai,Abnormal AI,Platform breadth,5
+sec,abnormal-ai,Abnormal AI,Ecosystem & validation,7
+sec,vectra-ai,Vectra AI,Detection efficacy,8
+sec,vectra-ai,Vectra AI,Agentic autonomy,7
+sec,vectra-ai,Vectra AI,Data & integrations,7
+sec,vectra-ai,Vectra AI,Time-to-value,7
+sec,vectra-ai,Vectra AI,Pricing & TCO,6
+sec,vectra-ai,Vectra AI,Explainability & trust,7
+sec,vectra-ai,Vectra AI,Platform breadth,6
+sec,vectra-ai,Vectra AI,Ecosystem & validation,7
+sec,securonix,Securonix,Detection efficacy,7
+sec,securonix,Securonix,Agentic autonomy,7
+sec,securonix,Securonix,Data & integrations,8
+sec,securonix,Securonix,Time-to-value,6
+sec,securonix,Securonix,Pricing & TCO,7
+sec,securonix,Securonix,Explainability & trust,7
+sec,securonix,Securonix,Platform breadth,6
+sec,securonix,Securonix,Ecosystem & validation,7
+sec,torq,Torq,Detection efficacy,6
+sec,torq,Torq,Agentic autonomy,8
+sec,torq,Torq,Data & integrations,8
+sec,torq,Torq,Time-to-value,8
+sec,torq,Torq,Pricing & TCO,7
+sec,torq,Torq,Explainability & trust,7
+sec,torq,Torq,Platform breadth,5
+sec,torq,Torq,Ecosystem & validation,6
+sec,tines,Tines,Detection efficacy,5
+sec,tines,Tines,Agentic autonomy,7
+sec,tines,Tines,Data & integrations,8
+sec,tines,Tines,Time-to-value,8
+sec,tines,Tines,Pricing & TCO,8
+sec,tines,Tines,Explainability & trust,8
+sec,tines,Tines,Platform breadth,5
+sec,tines,Tines,Ecosystem & validation,6
+sec,7ai,7AI,Detection efficacy,6
+sec,7ai,7AI,Agentic autonomy,9
+sec,7ai,7AI,Data & integrations,6
+sec,7ai,7AI,Time-to-value,7
+sec,7ai,7AI,Pricing & TCO,6
+sec,7ai,7AI,Explainability & trust,6
+sec,7ai,7AI,Platform breadth,4
+sec,7ai,7AI,Ecosystem & validation,4
+sec,dropzone-ai,Dropzone AI,Detection efficacy,6
+sec,dropzone-ai,Dropzone AI,Agentic autonomy,8
+sec,dropzone-ai,Dropzone AI,Data & integrations,7
+sec,dropzone-ai,Dropzone AI,Time-to-value,9
+sec,dropzone-ai,Dropzone AI,Pricing & TCO,7
+sec,dropzone-ai,Dropzone AI,Explainability & trust,7
+sec,dropzone-ai,Dropzone AI,Platform breadth,3
+sec,dropzone-ai,Dropzone AI,Ecosystem & validation,5
+sec,google-security-operations-incl-mandiant,Google Security Operations (incl. Mandiant),Detection efficacy,8
+sec,google-security-operations-incl-mandiant,Google Security Operations (incl. Mandiant),Agentic autonomy,8
+sec,google-security-operations-incl-mandiant,Google Security Operations (incl. Mandiant),Data & integrations,9
+sec,google-security-operations-incl-mandiant,Google Security Operations (incl. Mandiant),Time-to-value,7
+sec,google-security-operations-incl-mandiant,Google Security Operations (incl. Mandiant),Pricing & TCO,7
+sec,google-security-operations-incl-mandiant,Google Security Operations (incl. Mandiant),Explainability & trust,7
+sec,google-security-operations-incl-mandiant,Google Security Operations (incl. Mandiant),Platform breadth,8
+sec,google-security-operations-incl-mandiant,Google Security Operations (incl. Mandiant),Ecosystem & validation,8
+net,cisco-meraki-catalyst-ai-canvas,"Cisco (Meraki, Catalyst, AI Canvas)",SI/agentic operations,9
+net,cisco-meraki-catalyst-ai-canvas,"Cisco (Meraki, Catalyst, AI Canvas)",Wired & wireless breadth,10
+net,cisco-meraki-catalyst-ai-canvas,"Cisco (Meraki, Catalyst, AI Canvas)",WAN/SASE & security integration,7
+net,cisco-meraki-catalyst-ai-canvas,"Cisco (Meraki, Catalyst, AI Canvas)",NAC & zero-trust access,9
+net,cisco-meraki-catalyst-ai-canvas,"Cisco (Meraki, Catalyst, AI Canvas)",Ease of deployment & management,7
+net,cisco-meraki-catalyst-ai-canvas,"Cisco (Meraki, Catalyst, AI Canvas)",TCO & pricing flexibility,5
+net,cisco-meraki-catalyst-ai-canvas,"Cisco (Meraki, Catalyst, AI Canvas)",Scale & reliability,10
+net,cisco-meraki-catalyst-ai-canvas,"Cisco (Meraki, Catalyst, AI Canvas)",Ecosystem & channel,10
+net,hpe-networking-juniper-mist-aruba,HPE Networking (Juniper Mist + Aruba),SI/agentic operations,10
+net,hpe-networking-juniper-mist-aruba,HPE Networking (Juniper Mist + Aruba),Wired & wireless breadth,9
+net,hpe-networking-juniper-mist-aruba,HPE Networking (Juniper Mist + Aruba),WAN/SASE & security integration,6
+net,hpe-networking-juniper-mist-aruba,HPE Networking (Juniper Mist + Aruba),NAC & zero-trust access,8
+net,hpe-networking-juniper-mist-aruba,HPE Networking (Juniper Mist + Aruba),Ease of deployment & management,8
+net,hpe-networking-juniper-mist-aruba,HPE Networking (Juniper Mist + Aruba),TCO & pricing flexibility,6
+net,hpe-networking-juniper-mist-aruba,HPE Networking (Juniper Mist + Aruba),Scale & reliability,9
+net,hpe-networking-juniper-mist-aruba,HPE Networking (Juniper Mist + Aruba),Ecosystem & channel,9
+net,zscaler-zero-trust-branch,Zscaler (Zero Trust Branch),SI/agentic operations,8
+net,zscaler-zero-trust-branch,Zscaler (Zero Trust Branch),Wired & wireless breadth,2
+net,zscaler-zero-trust-branch,Zscaler (Zero Trust Branch),WAN/SASE & security integration,9
+net,zscaler-zero-trust-branch,Zscaler (Zero Trust Branch),NAC & zero-trust access,9
+net,zscaler-zero-trust-branch,Zscaler (Zero Trust Branch),Ease of deployment & management,7
+net,zscaler-zero-trust-branch,Zscaler (Zero Trust Branch),TCO & pricing flexibility,5
+net,zscaler-zero-trust-branch,Zscaler (Zero Trust Branch),Scale & reliability,9
+net,zscaler-zero-trust-branch,Zscaler (Zero Trust Branch),Ecosystem & channel,8
+net,ubiquiti-unifi,Ubiquiti (UniFi),SI/agentic operations,4
+net,ubiquiti-unifi,Ubiquiti (UniFi),Wired & wireless breadth,8
+net,ubiquiti-unifi,Ubiquiti (UniFi),WAN/SASE & security integration,5
+net,ubiquiti-unifi,Ubiquiti (UniFi),NAC & zero-trust access,5
+net,ubiquiti-unifi,Ubiquiti (UniFi),Ease of deployment & management,9
+net,ubiquiti-unifi,Ubiquiti (UniFi),TCO & pricing flexibility,10
+net,ubiquiti-unifi,Ubiquiti (UniFi),Scale & reliability,6
+net,ubiquiti-unifi,Ubiquiti (UniFi),Ecosystem & channel,7
+net,fortinet-fortiap-fortiswitch-fortisase,"Fortinet (FortiAP, FortiSwitch, FortiSASE)",SI/agentic operations,7
+net,fortinet-fortiap-fortiswitch-fortisase,"Fortinet (FortiAP, FortiSwitch, FortiSASE)",Wired & wireless breadth,8
+net,fortinet-fortiap-fortiswitch-fortisase,"Fortinet (FortiAP, FortiSwitch, FortiSASE)",WAN/SASE & security integration,9
+net,fortinet-fortiap-fortiswitch-fortisase,"Fortinet (FortiAP, FortiSwitch, FortiSASE)",NAC & zero-trust access,8
+net,fortinet-fortiap-fortiswitch-fortisase,"Fortinet (FortiAP, FortiSwitch, FortiSASE)",Ease of deployment & management,7
+net,fortinet-fortiap-fortiswitch-fortisase,"Fortinet (FortiAP, FortiSwitch, FortiSASE)",TCO & pricing flexibility,9
+net,fortinet-fortiap-fortiswitch-fortisase,"Fortinet (FortiAP, FortiSwitch, FortiSASE)",Scale & reliability,8
+net,fortinet-fortiap-fortiswitch-fortisase,"Fortinet (FortiAP, FortiSwitch, FortiSASE)",Ecosystem & channel,9
+net,palo-alto-networks-prisma-sase-aiops,"Palo Alto Networks (Prisma SASE, AIOps)",SI/agentic operations,8
+net,palo-alto-networks-prisma-sase-aiops,"Palo Alto Networks (Prisma SASE, AIOps)",Wired & wireless breadth,3
+net,palo-alto-networks-prisma-sase-aiops,"Palo Alto Networks (Prisma SASE, AIOps)",WAN/SASE & security integration,10
+net,palo-alto-networks-prisma-sase-aiops,"Palo Alto Networks (Prisma SASE, AIOps)",NAC & zero-trust access,7
+net,palo-alto-networks-prisma-sase-aiops,"Palo Alto Networks (Prisma SASE, AIOps)",Ease of deployment & management,7
+net,palo-alto-networks-prisma-sase-aiops,"Palo Alto Networks (Prisma SASE, AIOps)",TCO & pricing flexibility,5
+net,palo-alto-networks-prisma-sase-aiops,"Palo Alto Networks (Prisma SASE, AIOps)",Scale & reliability,9
+net,palo-alto-networks-prisma-sase-aiops,"Palo Alto Networks (Prisma SASE, AIOps)",Ecosystem & channel,8
+net,extreme-networks,Extreme Networks,SI/agentic operations,8
+net,extreme-networks,Extreme Networks,Wired & wireless breadth,8
+net,extreme-networks,Extreme Networks,WAN/SASE & security integration,5
+net,extreme-networks,Extreme Networks,NAC & zero-trust access,7
+net,extreme-networks,Extreme Networks,Ease of deployment & management,7
+net,extreme-networks,Extreme Networks,TCO & pricing flexibility,7
+net,extreme-networks,Extreme Networks,Scale & reliability,7
+net,extreme-networks,Extreme Networks,Ecosystem & channel,7
+net,huawei-cloudcampus,Huawei (CloudCampus),SI/agentic operations,8
+net,huawei-cloudcampus,Huawei (CloudCampus),Wired & wireless breadth,9
+net,huawei-cloudcampus,Huawei (CloudCampus),WAN/SASE & security integration,5
+net,huawei-cloudcampus,Huawei (CloudCampus),NAC & zero-trust access,7
+net,huawei-cloudcampus,Huawei (CloudCampus),Ease of deployment & management,7
+net,huawei-cloudcampus,Huawei (CloudCampus),TCO & pricing flexibility,8
+net,huawei-cloudcampus,Huawei (CloudCampus),Scale & reliability,8
+net,huawei-cloudcampus,Huawei (CloudCampus),Ecosystem & channel,6
+net,cato-networks,Cato Networks,SI/agentic operations,7
+net,cato-networks,Cato Networks,Wired & wireless breadth,3
+net,cato-networks,Cato Networks,WAN/SASE & security integration,10
+net,cato-networks,Cato Networks,NAC & zero-trust access,8
+net,cato-networks,Cato Networks,Ease of deployment & management,9
+net,cato-networks,Cato Networks,TCO & pricing flexibility,7
+net,cato-networks,Cato Networks,Scale & reliability,8
+net,cato-networks,Cato Networks,Ecosystem & channel,7
+net,arista-networks,Arista Networks,SI/agentic operations,8
+net,arista-networks,Arista Networks,Wired & wireless breadth,7
+net,arista-networks,Arista Networks,WAN/SASE & security integration,6
+net,arista-networks,Arista Networks,NAC & zero-trust access,7
+net,arista-networks,Arista Networks,Ease of deployment & management,7
+net,arista-networks,Arista Networks,TCO & pricing flexibility,6
+net,arista-networks,Arista Networks,Scale & reliability,10
+net,arista-networks,Arista Networks,Ecosystem & channel,7
+net,netskope,Netskope,SI/agentic operations,8
+net,netskope,Netskope,Wired & wireless breadth,2
+net,netskope,Netskope,WAN/SASE & security integration,10
+net,netskope,Netskope,NAC & zero-trust access,8
+net,netskope,Netskope,Ease of deployment & management,7
+net,netskope,Netskope,TCO & pricing flexibility,6
+net,netskope,Netskope,Scale & reliability,8
+net,netskope,Netskope,Ecosystem & channel,7
+net,forescout-nac,Forescout (NAC),SI/agentic operations,6
+net,forescout-nac,Forescout (NAC),Wired & wireless breadth,3
+net,forescout-nac,Forescout (NAC),WAN/SASE & security integration,5
+net,forescout-nac,Forescout (NAC),NAC & zero-trust access,10
+net,forescout-nac,Forescout (NAC),Ease of deployment & management,5
+net,forescout-nac,Forescout (NAC),TCO & pricing flexibility,5
+net,forescout-nac,Forescout (NAC),Scale & reliability,8
+net,forescout-nac,Forescout (NAC),Ecosystem & channel,7
+net,versa-networks,Versa Networks,SI/agentic operations,7
+net,versa-networks,Versa Networks,Wired & wireless breadth,5
+net,versa-networks,Versa Networks,WAN/SASE & security integration,9
+net,versa-networks,Versa Networks,NAC & zero-trust access,7
+net,versa-networks,Versa Networks,Ease of deployment & management,6
+net,versa-networks,Versa Networks,TCO & pricing flexibility,7
+net,versa-networks,Versa Networks,Scale & reliability,8
+net,versa-networks,Versa Networks,Ecosystem & channel,8
+net,nile,Nile,SI/agentic operations,8
+net,nile,Nile,Wired & wireless breadth,7
+net,nile,Nile,WAN/SASE & security integration,4
+net,nile,Nile,NAC & zero-trust access,9
+net,nile,Nile,Ease of deployment & management,9
+net,nile,Nile,TCO & pricing flexibility,7
+net,nile,Nile,Scale & reliability,6
+net,nile,Nile,Ecosystem & channel,5
+net,meter,Meter,SI/agentic operations,9
+net,meter,Meter,Wired & wireless breadth,7
+net,meter,Meter,WAN/SASE & security integration,5
+net,meter,Meter,NAC & zero-trust access,6
+net,meter,Meter,Ease of deployment & management,10
+net,meter,Meter,TCO & pricing flexibility,8
+net,meter,Meter,Scale & reliability,6
+net,meter,Meter,Ecosystem & channel,4
+net,h3c,H3C,SI/agentic operations,6
+net,h3c,H3C,Wired & wireless breadth,8
+net,h3c,H3C,WAN/SASE & security integration,4
+net,h3c,H3C,NAC & zero-trust access,6
+net,h3c,H3C,Ease of deployment & management,6
+net,h3c,H3C,TCO & pricing flexibility,8
+net,h3c,H3C,Scale & reliability,7
+net,h3c,H3C,Ecosystem & channel,5
+phys,nvidia-robotics-isaac-gr00t-jetson-thor,NVIDIA Robotics (Isaac / GR00T / Jetson Thor),Dexterity & manipulation,5
+phys,nvidia-robotics-isaac-gr00t-jetson-thor,NVIDIA Robotics (Isaac / GR00T / Jetson Thor),Autonomy & foundation model,9
+phys,nvidia-robotics-isaac-gr00t-jetson-thor,NVIDIA Robotics (Isaac / GR00T / Jetson Thor),Safety & certification,7
+phys,nvidia-robotics-isaac-gr00t-jetson-thor,NVIDIA Robotics (Isaac / GR00T / Jetson Thor),Deployment readiness & units shipped,8
+phys,nvidia-robotics-isaac-gr00t-jetson-thor,NVIDIA Robotics (Isaac / GR00T / Jetson Thor),Unit economics & pricing,8
+phys,nvidia-robotics-isaac-gr00t-jetson-thor,NVIDIA Robotics (Isaac / GR00T / Jetson Thor),Fleet software & integration,9
+phys,nvidia-robotics-isaac-gr00t-jetson-thor,NVIDIA Robotics (Isaac / GR00T / Jetson Thor),Manufacturing scale,9
+phys,nvidia-robotics-isaac-gr00t-jetson-thor,NVIDIA Robotics (Isaac / GR00T / Jetson Thor),Ecosystem & partners,10
+phys,symbotic,Symbotic,Dexterity & manipulation,5
+phys,symbotic,Symbotic,Autonomy & foundation model,6
+phys,symbotic,Symbotic,Safety & certification,9
+phys,symbotic,Symbotic,Deployment readiness & units shipped,10
+phys,symbotic,Symbotic,Unit economics & pricing,7
+phys,symbotic,Symbotic,Fleet software & integration,8
+phys,symbotic,Symbotic,Manufacturing scale,9
+phys,symbotic,Symbotic,Ecosystem & partners,7
+phys,ubtech-robotics,UBTech Robotics,Dexterity & manipulation,6
+phys,ubtech-robotics,UBTech Robotics,Autonomy & foundation model,6
+phys,ubtech-robotics,UBTech Robotics,Safety & certification,6
+phys,ubtech-robotics,UBTech Robotics,Deployment readiness & units shipped,8
+phys,ubtech-robotics,UBTech Robotics,Unit economics & pricing,6
+phys,ubtech-robotics,UBTech Robotics,Fleet software & integration,6
+phys,ubtech-robotics,UBTech Robotics,Manufacturing scale,8
+phys,ubtech-robotics,UBTech Robotics,Ecosystem & partners,6
+phys,unitree-robotics,Unitree Robotics,Dexterity & manipulation,5
+phys,unitree-robotics,Unitree Robotics,Autonomy & foundation model,5
+phys,unitree-robotics,Unitree Robotics,Safety & certification,5
+phys,unitree-robotics,Unitree Robotics,Deployment readiness & units shipped,8
+phys,unitree-robotics,Unitree Robotics,Unit economics & pricing,10
+phys,unitree-robotics,Unitree Robotics,Fleet software & integration,5
+phys,unitree-robotics,Unitree Robotics,Manufacturing scale,9
+phys,unitree-robotics,Unitree Robotics,Ecosystem & partners,7
+phys,boston-dynamics,Boston Dynamics,Dexterity & manipulation,8
+phys,boston-dynamics,Boston Dynamics,Autonomy & foundation model,8
+phys,boston-dynamics,Boston Dynamics,Safety & certification,8
+phys,boston-dynamics,Boston Dynamics,Deployment readiness & units shipped,7
+phys,boston-dynamics,Boston Dynamics,Unit economics & pricing,5
+phys,boston-dynamics,Boston Dynamics,Fleet software & integration,8
+phys,boston-dynamics,Boston Dynamics,Manufacturing scale,6
+phys,boston-dynamics,Boston Dynamics,Ecosystem & partners,8
+phys,agibot-zhiyuan-robotics,AgiBot (Zhiyuan Robotics),Dexterity & manipulation,6
+phys,agibot-zhiyuan-robotics,AgiBot (Zhiyuan Robotics),Autonomy & foundation model,7
+phys,agibot-zhiyuan-robotics,AgiBot (Zhiyuan Robotics),Safety & certification,5
+phys,agibot-zhiyuan-robotics,AgiBot (Zhiyuan Robotics),Deployment readiness & units shipped,8
+phys,agibot-zhiyuan-robotics,AgiBot (Zhiyuan Robotics),Unit economics & pricing,8
+phys,agibot-zhiyuan-robotics,AgiBot (Zhiyuan Robotics),Fleet software & integration,6
+phys,agibot-zhiyuan-robotics,AgiBot (Zhiyuan Robotics),Manufacturing scale,9
+phys,agibot-zhiyuan-robotics,AgiBot (Zhiyuan Robotics),Ecosystem & partners,6
+phys,skild-ai,Skild AI,Dexterity & manipulation,6
+phys,skild-ai,Skild AI,Autonomy & foundation model,9
+phys,skild-ai,Skild AI,Safety & certification,5
+phys,skild-ai,Skild AI,Deployment readiness & units shipped,6
+phys,skild-ai,Skild AI,Unit economics & pricing,7
+phys,skild-ai,Skild AI,Fleet software & integration,7
+phys,skild-ai,Skild AI,Manufacturing scale,4
+phys,skild-ai,Skild AI,Ecosystem & partners,8
+phys,field-ai,Field AI,Dexterity & manipulation,4
+phys,field-ai,Field AI,Autonomy & foundation model,8
+phys,field-ai,Field AI,Safety & certification,7
+phys,field-ai,Field AI,Deployment readiness & units shipped,7
+phys,field-ai,Field AI,Unit economics & pricing,7
+phys,field-ai,Field AI,Fleet software & integration,7
+phys,field-ai,Field AI,Manufacturing scale,4
+phys,field-ai,Field AI,Ecosystem & partners,7
+phys,physical-intelligence,Physical Intelligence (π),Dexterity & manipulation,8
+phys,physical-intelligence,Physical Intelligence (π),Autonomy & foundation model,10
+phys,physical-intelligence,Physical Intelligence (π),Safety & certification,4
+phys,physical-intelligence,Physical Intelligence (π),Deployment readiness & units shipped,3
+phys,physical-intelligence,Physical Intelligence (π),Unit economics & pricing,4
+phys,physical-intelligence,Physical Intelligence (π),Fleet software & integration,4
+phys,physical-intelligence,Physical Intelligence (π),Manufacturing scale,2
+phys,physical-intelligence,Physical Intelligence (π),Ecosystem & partners,8
+phys,figure-ai,Figure AI,Dexterity & manipulation,8
+phys,figure-ai,Figure AI,Autonomy & foundation model,9
+phys,figure-ai,Figure AI,Safety & certification,6
+phys,figure-ai,Figure AI,Deployment readiness & units shipped,6
+phys,figure-ai,Figure AI,Unit economics & pricing,5
+phys,figure-ai,Figure AI,Fleet software & integration,6
+phys,figure-ai,Figure AI,Manufacturing scale,7
+phys,figure-ai,Figure AI,Ecosystem & partners,7
+phys,neura-robotics,NEURA Robotics,Dexterity & manipulation,6
+phys,neura-robotics,NEURA Robotics,Autonomy & foundation model,6
+phys,neura-robotics,NEURA Robotics,Safety & certification,8
+phys,neura-robotics,NEURA Robotics,Deployment readiness & units shipped,5
+phys,neura-robotics,NEURA Robotics,Unit economics & pricing,6
+phys,neura-robotics,NEURA Robotics,Fleet software & integration,7
+phys,neura-robotics,NEURA Robotics,Manufacturing scale,6
+phys,neura-robotics,NEURA Robotics,Ecosystem & partners,8
+phys,apptronik,Apptronik,Dexterity & manipulation,6
+phys,apptronik,Apptronik,Autonomy & foundation model,7
+phys,apptronik,Apptronik,Safety & certification,7
+phys,apptronik,Apptronik,Deployment readiness & units shipped,5
+phys,apptronik,Apptronik,Unit economics & pricing,5
+phys,apptronik,Apptronik,Fleet software & integration,6
+phys,apptronik,Apptronik,Manufacturing scale,6
+phys,apptronik,Apptronik,Ecosystem & partners,8
+phys,galbot,Galbot,Dexterity & manipulation,6
+phys,galbot,Galbot,Autonomy & foundation model,7
+phys,galbot,Galbot,Safety & certification,5
+phys,galbot,Galbot,Deployment readiness & units shipped,7
+phys,galbot,Galbot,Unit economics & pricing,7
+phys,galbot,Galbot,Fleet software & integration,6
+phys,galbot,Galbot,Manufacturing scale,6
+phys,galbot,Galbot,Ecosystem & partners,7
+phys,agility-robotics,Agility Robotics,Dexterity & manipulation,5
+phys,agility-robotics,Agility Robotics,Autonomy & foundation model,6
+phys,agility-robotics,Agility Robotics,Safety & certification,8
+phys,agility-robotics,Agility Robotics,Deployment readiness & units shipped,8
+phys,agility-robotics,Agility Robotics,Unit economics & pricing,6
+phys,agility-robotics,Agility Robotics,Fleet software & integration,8
+phys,agility-robotics,Agility Robotics,Manufacturing scale,6
+phys,agility-robotics,Agility Robotics,Ecosystem & partners,7
+phys,dexterity,Dexterity,Dexterity & manipulation,8
+phys,dexterity,Dexterity,Autonomy & foundation model,7
+phys,dexterity,Dexterity,Safety & certification,9
+phys,dexterity,Dexterity,Deployment readiness & units shipped,8
+phys,dexterity,Dexterity,Unit economics & pricing,6
+phys,dexterity,Dexterity,Fleet software & integration,7
+phys,dexterity,Dexterity,Manufacturing scale,5
+phys,dexterity,Dexterity,Ecosystem & partners,6
+phys,1x-technologies,1X Technologies,Dexterity & manipulation,6
+phys,1x-technologies,1X Technologies,Autonomy & foundation model,7
+phys,1x-technologies,1X Technologies,Safety & certification,8
+phys,1x-technologies,1X Technologies,Deployment readiness & units shipped,4
+phys,1x-technologies,1X Technologies,Unit economics & pricing,8
+phys,1x-technologies,1X Technologies,Fleet software & integration,5
+phys,1x-technologies,1X Technologies,Manufacturing scale,5
+phys,1x-technologies,1X Technologies,Ecosystem & partners,6
+phys,generative-bionics,Generative Bionics,Dexterity & manipulation,6
+phys,generative-bionics,Generative Bionics,Autonomy & foundation model,5
+phys,generative-bionics,Generative Bionics,Safety & certification,8
+phys,generative-bionics,Generative Bionics,Deployment readiness & units shipped,3
+phys,generative-bionics,Generative Bionics,Unit economics & pricing,4
+phys,generative-bionics,Generative Bionics,Fleet software & integration,4
+phys,generative-bionics,Generative Bionics,Manufacturing scale,3
+phys,generative-bionics,Generative Bionics,Ecosystem & partners,7
+phys,tesla-optimus,Tesla Optimus,Dexterity & manipulation,7
+phys,tesla-optimus,Tesla Optimus,Autonomy & foundation model,7
+phys,tesla-optimus,Tesla Optimus,Safety & certification,5
+phys,tesla-optimus,Tesla Optimus,Deployment readiness & units shipped,4
+phys,tesla-optimus,Tesla Optimus,Unit economics & pricing,7
+phys,tesla-optimus,Tesla Optimus,Fleet software & integration,5
+phys,tesla-optimus,Tesla Optimus,Manufacturing scale,9
+phys,tesla-optimus,Tesla Optimus,Ecosystem & partners,6
+phys,google-deepmind-gemini-robotics,Google DeepMind Gemini Robotics,Dexterity & manipulation,7
+phys,google-deepmind-gemini-robotics,Google DeepMind Gemini Robotics,Autonomy & foundation model,10
+phys,google-deepmind-gemini-robotics,Google DeepMind Gemini Robotics,Safety & certification,6
+phys,google-deepmind-gemini-robotics,Google DeepMind Gemini Robotics,Deployment readiness & units shipped,4
+phys,google-deepmind-gemini-robotics,Google DeepMind Gemini Robotics,Unit economics & pricing,5
+phys,google-deepmind-gemini-robotics,Google DeepMind Gemini Robotics,Fleet software & integration,5
+phys,google-deepmind-gemini-robotics,Google DeepMind Gemini Robotics,Manufacturing scale,2
+phys,google-deepmind-gemini-robotics,Google DeepMind Gemini Robotics,Ecosystem & partners,9

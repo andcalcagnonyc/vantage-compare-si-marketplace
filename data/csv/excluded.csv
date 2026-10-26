@@ -1,0 +1,102 @@
+market_id,name,reason
+llm,Poolside,Coding-specialist models; profiled in SI Coding dataset
+llm,Writer (Palmyra),Sells models mainly inside its agent app; profiled in SI Employees dataset
+llm,Databricks (DBRX),Model line deprioritized; Databricks competes as data/SI platform
+llm,Inflection AI,Pivoted away from frontier models after 2024 Microsoft deal
+llm,Baidu (ERNIE) / ByteDance (Doubao),China-domestic cloud/consumer focus; not researched this pass
+llm,Xiaomi (MiMo),Strong open weights (AA 46) but not an enterprise model business; not researched this pass
+aiemp,Harvey,Qualifies on funding/ARR but is vertical (legal); out of horizontal scope
+aiemp,Hebbia,Vertical (finance research) and well below $100M ARR; out of horizontal scope
+aiemp,Relevance AI,Total equity funding believed below $50M (unverified)
+aiemp,Lindy,Total equity funding believed below $50M (unverified)
+aiemp,Moveworks,Acquired by ServiceNow; profiled within ServiceNow
+code,Magic,Raised $450M+ but no generally available commercial product or disclosed revenue.
+code,Qodo,Funding near $50M threshold could not be verified; revenue well under $100M.
+code,Windsurf (Codeium),Acquired by Cognition in 2025; profiled under Cognition.
+code,Cline,Open-source agent; total funding below $50M.
+code,"Alibaba Cloud (Qwen Code), BytePlus (Trae), Atlassian (Rovo Dev)",In 2026 Gartner MQ but outside brief scope; could be added.
+code,JetBrains AI (Junie),QA: under $50M raised or funding unverified
+code,Tabnine,QA: under $50M raised or funding unverified
+cx,Forethought,Acquisition by Zendesk announced Mar 2026; covered under Zendesk
+cx,Cognigy,Acquired by NiCE in 2025; covered under NiCE
+cx,Crescendo,"Only $50M disclosed funding and no verified revenue; borderline, omitted"
+cx,ASAPP,Qualifies on funding but revenue unverified within research budget; omitted
+cx,Gladly,Qualifies on funding but current revenue and funding not verified; omitted
+cx,Observe.AI,Qualifies on funding but revenue unverified and below $100M (est.); omitted
+cx,Google Customer Engagement Suite,"Gartner/IDC Leader, but CX revenue undisclosed; noted in analyst views only"
+crm,Day.ai,"~$28M total raised (Series A $20M, Feb 2026, Sequoia); below $50M"
+crm,Folk,Total funding below $50M (est.)
+crm,Twenty,"Open-source CRM with seed-stage funding, below $50M"
+crm,Close,Largely bootstrapped; external funding below $50M
+crm,Nimble,Small private vendor; funding below $50M
+crm,Bitrix24,Private; no disclosed external funding or verifiable revenue
+crm,Vtiger,Gartner Niche Player but small; funding below $50M
+rev,Clari,Merged into Salesloft Dec 2025; profiled under Salesloft (incl. Clari).
+rev,Artisan,"~$46M raised by Apr 2025 per public reporting, below $50M rule; ARR ~$5M self-reported."
+rev,Avoma,Total funding believed below $50M (not verified).
+rev,Regie.ai,Total funding believed below $50M (not verified).
+rev,Unify,Funding total not verified at $50M+; early-stage revenue.
+rev,Demandbase,QA: under $50M raised or funding unverified
+rev,Aviso,QA: under $50M raised or funding unverified
+fin,Trullion,"Total equity funding ~$30M, below $50M threshold"
+fin,Digits,$50M+ funding and category revenue not verified in this pass
+fin,Numeric,Likely qualifies ($51M Series B Nov 2025 plus earlier rounds) but cut for space; revenue small
+fin,Planful,Qualifies (PE-backed) but cut for space; lower SI momentum
+fin,Vena Solutions,Qualifies (PE-backed) but cut for space; SI agentic push via Morpheo SI acquisition
+legal,Robin AI,"Failed ~$50M raise in 2025; distressed sale and break-up, assets sold Dec 2025."
+legal,Sirion,Qualifies (Gartner/Forrester CLM Leader) but outside brief scope; not researched this pass.
+legal,vLex,Acquired by Clio (Nov 2025); covered under Clio.
+legal,Relativity,QA: under $50M raised or funding unverified
+legal,Litera,QA: under $50M raised or funding unverified
+comp,Delve,"~$36M raised (<$50M); Mar 2026 whistleblower allegations of fabricated audit evidence (denied, unresolved)."
+comp,Sprinto,"Total funding ~$32M (est.), below $50M threshold."
+comp,Scrut Automation,Funding well below $50M threshold.
+comp,Credo AI,"SI governance specialist; total funding ~$40M (est.), below threshold."
+comp,Holistic AI,SI governance specialist; funding below $50M threshold (est.).
+comp,Anecdotes,Total funding not verified above $50M; sub-scale revenue.
+comp,MetricStream,QA: under $50M raised or funding unverified
+comp,Riskonnect,QA: under $50M raised or funding unverified
+psa,HaloPSA (Halo Service Solutions),"Bootstrapped; no disclosed outside equity; pledged no PE/M&A for 10 years. Strong share gainer (5,000+ orgs)."
+psa,Syncro,Mainsail-backed but funding undisclosed; cannot verify $50M+
+psa,Accelo,Disclosed funding below $50M
+psa,Productive.io,Disclosed funding below $50M
+psa,BigTime Software,"PE-backed, funding undisclosed; revenue below threshold (est.)"
+psa,Thread,Disclosed funding below $50M
+psa,Autodesk,No dedicated PSA product; AEC project tools are adjacent
+hw,NVIDIA Networking (InfiniBand/Spectrum-X),Folded into NVIDIA entry; >$31B FY26 networking revenue
+hw,Intel (Gaudi / Crescent Island),"Qualifies as public, but ~1% SI accelerator share; Gaudi absent from MLPerf v6.0, Crescent Island slipping to 2027"
+hw,Qualcomm (AI200/AI250),"Qualifies as public, but racks not shipping at scale until late 2026; no disclosed SI revenue"
+hw,Etched,"Raised ~$1.1B ($300M at $10.3B, Jul 2026) but no product shipments or revenue verified; watch list"
+hw,Ayar Labs,Raised $650M+ in 2026 ($3.75B valuation) but pre-volume optical I/O; revenue undisclosed
+hw,Lightmatter,Raised ~$850M ($4.4B valuation) but photonic interconnect pre-scale; revenue undisclosed
+dc,Stargate LLC,"Umbrella program, not a capacity vendor; JV reportedly shelved 2025, capacity delivered via bilateral deals (Oracle, SB Energy, Crusoe, Vantage)"
+dc,Lancium,Land/power developer behind Abilene; equity funding not verified at $50M+; capacity sold via Crusoe/Oracle
+dc,Vultr,"Qualifies ($333M raised, $3.5B valuation) but SI revenue undisclosed; general-purpose cloud ranked below larger SI players"
+dc,Core Scientific (as part of CoreWeave),CoreWeave acquisition terminated Oct 2025 after Core Scientific holders voted it down; profiled separately
+data,Scale AI,"SI training-data labeling, not an enterprise analytics platform; also Meta-affiliated after 49% stake (2025)."
+data,Sisense,Gartner ABI Niche Player in decline; below the strongest challengers.
+data,Cloudera,"Qualifies (private, >$100M revenue) but fell outside the list cap; Forrester Lakehouse Wave Leader Q3 2026."
+data,Teradata,Qualifies (public) but lower SI momentum; outside list cap.
+data,DataRobot,"Gartner DSML Leader 2025, but focused on ML ops rather than business-user analytics; outside list cap."
+data,Informatica (standalone),Profiled as a Salesforce division after Nov 2025 acquisition.
+sec,Prophet Security,Total funding below $50M (est. ~$41M).
+sec,Cyera,"Data security posture management; adjacent, not SOC detection/response."
+sec,Gurucul,"Gartner SIEM MQ Leader 2025, but funding below $50M disclosed."
+sec,Elastic Security,Public (ESTC) and Forrester Leader; omitted to keep list SOC-SI focused; candidate for v3.
+sec,Airrived,IDC SI SOC Leader 2026 but funding below $50M (est.).
+sec,Fortinet (FortiSIEM),Gartner SIEM Challenger; SOC revenue not disclosed; network-led positioning.
+net,Cloud4Wi,Too small for this comparison set (per user).
+net,Juniper Networks,Acquired by HPE in 2025; covered under HPE Networking.
+net,Portnox,Cloud NAC; total funding below $50M (est.).
+net,Augtera Networks,Network AIOps; funding below $50M (est.).
+net,Selector AI,"Network AIOps; funding/revenue not verified this run, sub-scale."
+net,Kentik,"Network observability, adjacent; funding not verified this run."
+net,Netgear,Consumer/SMB focus; no enterprise agentic platform.
+net,Cambium Networks,"Sub-scale, declining revenue; low enterprise SI focus."
+net,RUCKUS Networks,Niche Player in 2026 LAN MQ; slot given to higher-priority vendors.
+net,Cloudflare,SASE Visionary but primarily SSE/edge; outside networking hardware scope.
+net,Aryaka Networks,QA: under $50M raised or funding unverified
+phys,Covariant,Team and model licensed by Amazon in 2024; no longer an independent vendor.
+phys,Sanctuary AI,~$149M raised but pivoted to work cells in 2026; no disclosed revenue; trimmed for list size.
+phys,Fourier,"~$246M raised, qualifies; trimmed for list size (rehab-focused, revenue undisclosed)."
+phys,The Bot Company,"~$300M raised but consumer home robot focus, not business-facing."

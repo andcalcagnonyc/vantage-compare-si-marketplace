@@ -1,0 +1,477 @@
+{
+ "name": "vantage-compare-si-dataset",
+ "title": "Vantage Compare — SI Market Intelligence Dataset",
+ "version": "3.1",
+ "description": "286 company profiles across 16 Super Intelligence (SI) markets: funding, revenue, positioning, analyst recognition, buyer-criteria scores, momentum and segment weights. Data as of 2026-10-25, refreshed monthly.",
+ "homepage": "https://github.com/andcalcagnonyc/vantage-compare-si-marketplace",
+ "created": "2026-10-25",
+ "licenses": [
+  {
+   "name": "CC-BY-4.0",
+   "path": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "Creative Commons Attribution 4.0"
+  }
+ ],
+ "contributors": [
+  {
+   "title": "Andrea Calcagno",
+   "role": "author",
+   "path": "https://www.linkedin.com/in/andreacalcagno/"
+  }
+ ],
+ "keywords": [
+  "market intelligence",
+  "competitive analysis",
+  "AI",
+  "super intelligence",
+  "venture funding",
+  "product marketing"
+ ],
+ "resources": [
+  {
+   "name": "analyst-views",
+   "path": "csv/analyst_views.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "schema": {
+    "fields": [
+     {
+      "name": "market_id",
+      "type": "string"
+     },
+     {
+      "name": "firm",
+      "type": "string"
+     },
+     {
+      "name": "view",
+      "type": "string"
+     },
+     {
+      "name": "source",
+      "type": "string"
+     }
+    ]
+   }
+  },
+  {
+   "name": "companies",
+   "path": "csv/companies.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "schema": {
+    "fields": [
+     {
+      "name": "market_id",
+      "type": "string"
+     },
+     {
+      "name": "company_id",
+      "type": "string"
+     },
+     {
+      "name": "name",
+      "type": "string"
+     },
+     {
+      "name": "hq",
+      "type": "string"
+     },
+     {
+      "name": "founded",
+      "type": "integer"
+     },
+     {
+      "name": "ownership",
+      "type": "string"
+     },
+     {
+      "name": "investor_type",
+      "type": "string"
+     },
+     {
+      "name": "total_funding_usd_m",
+      "type": "number"
+     },
+     {
+      "name": "last_round",
+      "type": "string"
+     },
+     {
+      "name": "valuation_usd_b",
+      "type": "number"
+     },
+     {
+      "name": "revenue_range",
+      "type": "string"
+     },
+     {
+      "name": "revenue_est_usd_m",
+      "type": "number"
+     },
+     {
+      "name": "revenue_basis",
+      "type": "string"
+     },
+     {
+      "name": "employees",
+      "type": "string"
+     },
+     {
+      "name": "llm_stack",
+      "type": "string"
+     },
+     {
+      "name": "architecture",
+      "type": "string"
+     },
+     {
+      "name": "market_focus",
+      "type": "string"
+     },
+     {
+      "name": "target_segment",
+      "type": "string"
+     },
+     {
+      "name": "pricing_model",
+      "type": "string"
+     },
+     {
+      "name": "gtm_motion",
+      "type": "string"
+     },
+     {
+      "name": "positioning",
+      "type": "string"
+     },
+     {
+      "name": "key_message",
+      "type": "string"
+     },
+     {
+      "name": "differentiators",
+      "type": "string"
+     },
+     {
+      "name": "weaknesses",
+      "type": "string"
+     },
+     {
+      "name": "analyst_recognition",
+      "type": "string"
+     },
+     {
+      "name": "investors",
+      "type": "string"
+     },
+     {
+      "name": "lead_investors",
+      "type": "string"
+     },
+     {
+      "name": "evidence",
+      "type": "string"
+     },
+     {
+      "name": "sources",
+      "type": "string"
+     },
+     {
+      "name": "is_public",
+      "type": "boolean"
+     },
+     {
+      "name": "raised_50m_plus",
+      "type": "boolean"
+     },
+     {
+      "name": "revenue_100m_plus",
+      "type": "boolean"
+     },
+     {
+      "name": "qualification_basis",
+      "type": "string"
+     }
+    ]
+   }
+  },
+  {
+   "name": "excluded",
+   "path": "csv/excluded.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "schema": {
+    "fields": [
+     {
+      "name": "market_id",
+      "type": "string"
+     },
+     {
+      "name": "name",
+      "type": "string"
+     },
+     {
+      "name": "reason",
+      "type": "string"
+     }
+    ]
+   }
+  },
+  {
+   "name": "factcheck-log",
+   "path": "csv/factcheck_log.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "schema": {
+    "fields": [
+     {
+      "name": "status",
+      "type": "string"
+     },
+     {
+      "name": "item",
+      "type": "string"
+     },
+     {
+      "name": "note",
+      "type": "string"
+     }
+    ]
+   }
+  },
+  {
+   "name": "funding-rounds",
+   "path": "csv/funding_rounds.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "schema": {
+    "fields": [
+     {
+      "name": "market_id",
+      "type": "string"
+     },
+     {
+      "name": "company_id",
+      "type": "string"
+     },
+     {
+      "name": "name",
+      "type": "string"
+     },
+     {
+      "name": "date",
+      "type": "string"
+     },
+     {
+      "name": "round_type",
+      "type": "string"
+     },
+     {
+      "name": "amount_usd_m",
+      "type": "number"
+     },
+     {
+      "name": "valuation_usd_b",
+      "type": "number"
+     },
+     {
+      "name": "lead",
+      "type": "string"
+     }
+    ]
+   }
+  },
+  {
+   "name": "markets",
+   "path": "csv/markets.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "schema": {
+    "fields": [
+     {
+      "name": "market_id",
+      "type": "string"
+     },
+     {
+      "name": "short_name",
+      "type": "string"
+     },
+     {
+      "name": "category",
+      "type": "string"
+     },
+     {
+      "name": "group",
+      "type": "string"
+     },
+     {
+      "name": "definition",
+      "type": "string"
+     },
+     {
+      "name": "market_size_2026_usd_b",
+      "type": "number"
+     },
+     {
+      "name": "market_size_basis",
+      "type": "string"
+     },
+     {
+      "name": "growth_pct",
+      "type": "number"
+     },
+     {
+      "name": "growth_basis",
+      "type": "string"
+     },
+     {
+      "name": "growth_period",
+      "type": "string"
+     },
+     {
+      "name": "vc_investment_2025_usd_b",
+      "type": "number"
+     },
+     {
+      "name": "vc_basis",
+      "type": "string"
+     },
+     {
+      "name": "vc_tracked_2025_usd_b",
+      "type": "number"
+     },
+     {
+      "name": "vc_tracked_2025_rounds",
+      "type": "integer"
+     },
+     {
+      "name": "top_vendor_revenue_usd_b",
+      "type": "number"
+     },
+     {
+      "name": "maturity",
+      "type": "string"
+     },
+     {
+      "name": "criteria",
+      "type": "string"
+     },
+     {
+      "name": "trends",
+      "type": "string"
+     },
+     {
+      "name": "key_takeaways",
+      "type": "string"
+     },
+     {
+      "name": "company_count",
+      "type": "integer"
+     }
+    ]
+   }
+  },
+  {
+   "name": "momentum",
+   "path": "csv/momentum.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "schema": {
+    "fields": [
+     {
+      "name": "market_id",
+      "type": "string"
+     },
+     {
+      "name": "company_id",
+      "type": "string"
+     },
+     {
+      "name": "name",
+      "type": "string"
+     },
+     {
+      "name": "year",
+      "type": "integer"
+     },
+     {
+      "name": "momentum_1_10",
+      "type": "number"
+     }
+    ]
+   }
+  },
+  {
+   "name": "scores",
+   "path": "csv/scores.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "schema": {
+    "fields": [
+     {
+      "name": "market_id",
+      "type": "string"
+     },
+     {
+      "name": "company_id",
+      "type": "string"
+     },
+     {
+      "name": "name",
+      "type": "string"
+     },
+     {
+      "name": "criterion",
+      "type": "string"
+     },
+     {
+      "name": "score_1_10",
+      "type": "number"
+     }
+    ]
+   }
+  },
+  {
+   "name": "segment-weights",
+   "path": "csv/segment_weights.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "schema": {
+    "fields": [
+     {
+      "name": "market_id",
+      "type": "string"
+     },
+     {
+      "name": "segment",
+      "type": "string"
+     },
+     {
+      "name": "criterion",
+      "type": "string"
+     },
+     {
+      "name": "weight",
+      "type": "number"
+     }
+    ]
+   }
+  },
+  {
+   "name": "full-dataset",
+   "path": "json/vantage-compare-si-dataset.json",
+   "format": "json",
+   "mediatype": "application/json"
+  }
+ ]
+}

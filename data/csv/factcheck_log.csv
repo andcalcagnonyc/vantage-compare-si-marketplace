@@ -1,0 +1,48 @@
+status,item,note
+corrected,Markets — VC investment 2025,"Total $23B covered only 4 markets; now published figures for 6 markets plus deduplicated tracked rounds for all 16, benchmarked to Crunchbase $202.3B"
+corrected,Rounds — double counting,OpenAI/Anthropic/Cognition/Sierra rounds counted in several markets; now counted once in a home market
+corrected,Aligned Data Centers — 2025 'round',"$40B acquisition counted as VC; acquisitions, debt and IPOs now excluded from VC totals"
+flagged,LLM / SI Employees — growth,"Growth figures are one-year (2025→2026), not multi-year CAGR; labeled 1-yr in the Markets view"
+confirmed,Generative Bionics — added to Physical SI,€70M (~$81M) Dec 2025 round led by CDP Venture Capital confirmed by The Robot Report and Pulse 2.0; qualifies as early stage
+corrected,Mistral AI — last round (AI Employees),"Series C €1.7B at €11.7B → Series D €3B at >€21B (Sep 2026), aligned with LLM market data"
+corrected,Anthropic — total funding (AI Coding),"missing → ~$125B, aligned with AI Employees and LLM entries"
+flagged,Zhipu — revenue (LLM),$1.6B ARR from a secondary digest of a paywalled report; treat as unverified
+corrected,Anthropic Claude Code — last_round/valuation,"Series G $30B @ $380B (Feb 2026) → Series H $65B @ $965B (May 2026); harmonized with aiemp, confirmed by Sacra/AI Magazine."
+corrected,OpenAI — last_round,Date clarified: $122B SoftBank-led round closed Mar/Apr 2026 at $852B post-money (AI Business); same in code.json.
+corrected,Cognition — last_round/valuation (aiemp),"$1B+ @ $26B (May 2026) → $2B @ $48B (Sep 2026), matching code.json and ValueAdd/TechCrunch."
+corrected,Cognition — revenue_range (aiemp),"~$492M ARR (May) → ~$900M ARR (Sep 2026), harmonized with code.json; source confirms."
+corrected,Cursor (Anysphere) — last_round,"$2B @ $50B was talks only (TNW, PM Insights). Last closed: Series D $2.3B @ $29.3B; valuation 50 kept as reported."
+corrected,Sierra — last_round/valuation (aiemp),"$15B+ → Series E $950M @ $15.8B; ARR ~$150–200M → ~$200M (May 2026), harmonized with cx.json."
+corrected,Clay — last_round/valuation (crm),"Series C $100M @ $3.1B (2025) → Series D $115M @ $7.1B, Sep 2026 (TNW); ARR ~$200M, matched to rev.json."
+corrected,Apollo.io — revenue/funding (crm),"$100–200M ARR → ~$265M ARR (Sep 2026); funding 250 → 251, harmonized with rev.json."
+corrected,Decagon — revenue_range (aiemp),"n/a → $100M+ annualized (Aug 2026), harmonized with cx.json."
+corrected,Poolside — valuation_usd_b,12 (pre-money) → ~13 post-money; $1B @ $12B pre plus $6B Nvidia licensing confirmed (Newcomer).
+corrected,Lovable — revenue_range,"'~$600M run-rate' → labeled as Aug 2026 target; Dealroom says target, ~$200M Dec 2025. Round $400M @ $13.3B confirmed."
+corrected,ServiceNow — founded,"2004 → 2003 in aiemp, crm, cx, comp (Wikipedia; psa already 2003); headcount 25–26K → ~29,000 (2025)."
+corrected,Freshworks — revenue_range (crm),"~$800–850M est. → $838.8M FY25 reported; employees → ~5,300, harmonized with psa.json."
+corrected,"Salesforce — employees (aiemp, cx)","70–75K+ → ~76,000, harmonized with crm.json."
+corrected,Snowflake — revenue_est_usd_m,6300 → 6070 to match FY27 product revenue guidance $6.07B (SEC 8-K).
+corrected,Revenue midpoints — 11 vendors,"Aligned revenue_est to range midpoint: Talkdesk, ConnectWise, Certinia, Rocketlane, Demandbase, Cognism, Securonix, Vectra, Drata, HubSpot, Sierra."
+flagged,Anthropic — total_funding_usd_m,$125B kept; Sacra text says ~$125B but header shows $130B.
+flagged,Cognition — total_funding_usd_m,aiemp 2500 / code null → 4500 (est. = prior 2.5B + $2B Sep round); not source-confirmed.
+flagged,OneTrust — ownership,"PE sale only in talks (Nov 2025), no deal announced; $4.5B (2023) valuation and ~$550M ARR confirmed."
+flagged,Salesloft (incl. Clari) — revenue_range,$450M+ combined ARR is analyst est.; company discloses no revenue (RevenueMemo).
+flagged,Splunk (Cisco) — revenue_est_usd_m,"4200 uses pre-acquisition FY24 total, not current SIEM revenue; treat as stale."
+flagged,Augment Code — last_round,$200M @ $1.4B (2026) only from Dealroom headline; unverified.
+confirmed,"Anthropic — last_round, valuation, revenue","Series H $65B, $965B post-money, May 2026; ~$65B run-rate Jul 2026 confirmed (AI Magazine, Sacra)."
+confirmed,Anthropic Claude Code — revenue_range,$2.5B+ run-rate Feb 2026 confirmed by Constellation Research.
+confirmed,Cursor (Anysphere) — revenue_range,"$2B ARR Feb 2026 confirmed (TNW, PM Insights)."
+confirmed,"Databricks — last_round, revenue","$5B @ $190B, Coatue-led, Aug 2026; $7B+ run-rate confirmed by Databricks press release."
+confirmed,Salesforce Agentforce — revenue_range,Agentforce ARR >$1.5B in Q2 FY27 confirmed (Pulse2).
+confirmed,Fin (Intercom) — Salesforce M&A,"~$3.6B, announced Jun 15 2026, not yet closed; $400M+ ARR, Fin ~$100M confirmed (SalesforceBen)."
+confirmed,xAI (SpaceX) — ownership,All-stock SpaceX acquisition Feb 2026 at $250B; SPCX Nasdaq IPO Jun 2026 confirmed.
+confirmed,Microsoft Copilot — revenue basis,30M+ paid seats confirmed (Futurum); $8–11B ARR is a derived estimate. est 9000 → 9500 midpoint.
+confirmed,Gong — revenue_range,">$500M ARR end Apr 2026, ~1,700 staff confirmed (Globes); prior valuation possibly $7.2B vs $7.25B listed."
+confirmed,Vanta — revenue_range,$300M+ ARR Apr 2026 confirmed (BusinessWire).
+confirmed,"Uniphore — last_round, funding, revenue",Series F $260M @ $2.5B Oct 2025; total ~$869M; ~$200M run-rate confirmed (StockAnalysis).
+confirmed,Genesys — revenue_range,"~$3.0B FY26, Cloud ARR ~$2.6B confirmed (BusinessWire)."
+confirmed,NiCE — revenue_range,"$2.945B FY25, cloud $2.24B, AI ARR $328M confirmed (BusinessWire)."
+confirmed,Palantir / ZoomInfo / CrowdStrike — revenue,PLTR FY26 guide $8.15B; GTM FY26 guide $1.207–1.217B; CRWD FY26 $4.81B confirmed in filings.
+confirmed,Arctic Wolf — funding/valuation,"$899M total, $4.3B (Jul 2021) confirmed (StockAnalysis); revenue est 700 → 750 midpoint."
+confirmed,Kaseya — funding/valuation/revenue,"$546M raised, ~$12B (2023), >$1.5B ARR 2025 confirmed (Wikipedia); GetLatka's $219M est. disregarded."
+confirmed,Creatio / NinjaOne / Fivetran+dbt — rounds,"Creatio $200M @ $1.2B Jul 2024; NinjaOne $400M+ @ $12.3B Jun 2026; dbt merger closed Jun 2026, all-stock."
