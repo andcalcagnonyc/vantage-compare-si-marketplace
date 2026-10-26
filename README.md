@@ -4,7 +4,7 @@
 
 Vantage Compare is a decision tool for product marketers, product managers and GTM leaders competing in Super Intelligence (SI) markets. It turns scattered analyst reports, funding data and vendor claims into one weighted, segment-aware view of every market — and tells you how stable your position really is when buyer priorities shift.
 
-> Live demo: _GitHub Pages link goes here once published_
+> **Live demo:** [andcalcagnonyc.github.io/vantage-compare-si-marketplace](https://andcalcagnonyc.github.io/vantage-compare-si-marketplace/)
 > Version **3.1** · Data as of **October 25, 2026** · Refreshed monthly
 
 ---
@@ -71,7 +71,7 @@ Unverified figures are flagged in the app rather than hidden, so you always know
 
 ## Using it
 
-Open `index.html` in a browser, or visit the live demo link above. Pick a market, choose a buyer segment, and adjust weights to see rankings, sensitivity and priorities update instantly.
+Open `index.html` in a browser, or visit the [live demo](https://andcalcagnonyc.github.io/vantage-compare-si-marketplace/). Pick a market, choose a buyer segment, and adjust weights to see rankings, sensitivity and priorities update instantly.
 
 ## Repository contents
 
