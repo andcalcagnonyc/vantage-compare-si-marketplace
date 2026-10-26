@@ -1,11 +1,20 @@
 # Vantage Compare — SI Market Intelligence
 
+[![Live demo](https://img.shields.io/badge/live%20demo-open%20app-5560d6)](https://andcalcagnonyc.github.io/vantage-compare-si-marketplace/)
+[![Dataset: CC BY 4.0](https://img.shields.io/badge/dataset-CC%20BY%204.0-1baf7a)](data/)
+![Data version](https://img.shields.io/badge/data-v3.1%20·%202026--10--25-2a78d6)
+![Coverage](https://img.shields.io/badge/coverage-16%20markets%20·%20286%20companies-eb6834)
+
 **Know where you win before you spend a dollar on roadmap, messaging or go-to-market.**
 
 Vantage Compare is a decision tool for product marketers, product managers and GTM leaders competing in Super Intelligence (SI) markets. It turns scattered analyst reports, funding data and vendor claims into one weighted, segment-aware view of every market — and tells you how stable your position really is when buyer priorities shift.
 
 > **Live demo:** [andcalcagnonyc.github.io/vantage-compare-si-marketplace](https://andcalcagnonyc.github.io/vantage-compare-si-marketplace/)
 > Version **3.1** · Data as of **October 25, 2026** · Refreshed monthly
+>
+> **New: the full dataset is open.** 286 company profiles with funding rounds, revenue, positioning, analyst views, scores and segment weights, in JSON and CSV under CC BY 4.0. [Get the data →](data/)
+>
+> ⭐ **Star the repo** to follow the monthly data releases.
 
 ---
 
@@ -27,7 +36,7 @@ Competitive analysis in SI markets breaks down in three places:
 
 ### Coverage
 
-- **16 SI markets, 286 companies** — including LLMs, SI Employees, SI Coding, Agentic Networking, Security Operations, SI CRM, Sales & Revenue, Customer Service, PSA & MSP, Compliance & GRC, Data & Analytics and Physical SI (robots and humanoids)
+- **16 SI markets, 286 companies** — Foundation Models (LLM), SI Employees & Agent Platforms, SI Coding, SI Customer Service, SI CRM, SI Sales & Revenue, SI Finance & Accounting, SI Legal, SI Compliance & GRC, SI-driven PSA & MSP, SI Compute Hardware & Networking, SI Data Centers & Neoclouds, SI Data & Analytics, SI-driven Security Operations, SI Agentic Networking and Physical SI (robots and humanoids)
 - **Qualification bar:** at least $50M raised or publicly listed; companies above $100M revenue are prioritized; 15+ qualified companies per market
 - **Every company sheet** covers funding and last round, valuation, revenue, headcount, LLM stack, architecture, focus, pricing, GTM motion and analyst recognition
 - **Market view** with 2025 VC investment benchmarked to Crunchbase and PitchBook, deduplicated so mega-rounds are counted once
@@ -78,6 +87,23 @@ Open `index.html` in a browser, or visit the [live demo](https://andcalcagnonyc.
 The full dataset behind the app is open under **CC BY 4.0** in [`data/`](data/): 286 company profiles across 16 SI markets, with funding rounds, revenue, positioning, analyst views, buyer-criteria scores, momentum and segment weights, in JSON and CSV. It is refreshed monthly with each data release.
 
 Use it for your own analysis, charts or tools; just credit **"Vantage Compare by Andrea Calcagno"** with a link here. See the [data README](data/README.md) for files, field definitions, methodology and how to cite.
+
+| File | What's inside |
+|---|---|
+| [`companies.csv`](data/csv/companies.csv) | 286 profiles: funding, valuation, revenue, headcount, LLM stack, pricing, GTM, analyst recognition |
+| [`funding_rounds.csv`](data/csv/funding_rounds.csv) | 358 disclosed rounds with amounts, valuations and lead investors |
+| [`scores.csv`](data/csv/scores.csv) · [`segment_weights.csv`](data/csv/segment_weights.csv) | Buyer-criteria scores and SMB / Mid-Market / Enterprise weights |
+| [`markets.csv`](data/csv/markets.csv) | Market size, growth, 2025 VC investment and maturity for all 16 markets |
+| [`vantage-compare-si-dataset.json`](data/json/vantage-compare-si-dataset.json) | Everything in one nested JSON file |
+
+Load it in one line:
+
+```python
+import pandas as pd
+companies = pd.read_csv("https://raw.githubusercontent.com/andcalcagnonyc/vantage-compare-si-marketplace/main/data/csv/companies.csv")
+```
+
+Spotted a wrong number? [Open an issue](https://github.com/andcalcagnonyc/vantage-compare-si-marketplace/issues) with the company, the field and a source — verified corrections go into the next monthly release and the fact-check log.
 
 ## Repository contents
 
